@@ -1,0 +1,10 @@
+from django.conf.urls.defaults import *
+
+from views import page_main
+
+urlpatterns = patterns('',
+                       url(r'^page/main/$',
+                           page_main,
+                           {'template': 'fbapp/page_main.html'},
+                           name='fbapp_page_main'),
+                        )

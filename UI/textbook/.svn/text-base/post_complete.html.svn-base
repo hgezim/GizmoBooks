@@ -1,0 +1,12 @@
+{% extends "new_base.html" %}
+
+{% block title%}Please activate your book{% endblock title%}	
+		
+{% block content %}
+<div class="messages">
+	<div class="warning">
+		You now need to activate your book. Check your email for an activation link.<br />
+		<a href="{% url post %}">Sell another book.</a>			    	
+	</div>
+</div>
+{% endblock content %}

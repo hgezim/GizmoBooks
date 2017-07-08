@@ -1,0 +1,42 @@
+from django.conf.urls.defaults import *
+from django.views.generic.simple import direct_to_template
+
+from textbook import views
+
+urlpatterns = patterns('',
+                        url(r'^$',
+                           views.main,
+                           name='main'),
+                        url(r'^subject/(?P<id>\d+)/(?P<name>[a-zA-Z\' &\-,#]+)/$',
+                            views.subject,
+                            name='subject'),
+                        url(r'^book/(?P<book_id>[0-9]+)/$',
+                            views.book,
+                            name='book'),
+                        url(r'^book/(?P<book_id>[0-9]+)/new/$',
+                            views.book,
+                            {'condition_type': 'new'},
+                            name='book_new'),
+                        url(r'^book/(?P<book_id>[0-9]+)/used/$',
+                            views.book,
+                            {'condition_type': 'used'},
+                            name='book_used'),
+                        url(r'^book/activate/(?P<activation_key>[a-zA-Z0-9]+)/$',
+                            views.activate_copy,
+                            name='activate_copy'),                            
+                        url(r'^buy/$',
+                            views.buy,
+                            name='buy'),
+                        url(r'^post/$',
+                            views.post,
+                            name='post'),
+                        url(r'^post/details/$',
+                            views.post,
+                            {'no_ISBN':True},
+                            name='post_details'),
+                       url(r'^post/complete/$',
+                           direct_to_template,
+                           {'template': 'textbook/post_complete.html'},
+                           name='post_complete'),
+
+                       )

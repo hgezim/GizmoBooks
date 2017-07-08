@@ -1,0 +1,35 @@
+{% extends "wide_pages.html" %}
+
+{% block headerJS %}
+<link href="{{ MEDIA_URL }}uni_form/uni-form.css" media="all" rel="stylesheet"/>
+<link href="{{ MEDIA_URL }}uni_form/default.uni-form.css" media="all" rel="stylesheet"/>
+<script type="text/javascript" src="{{ MEDIA_URL }}js/jquery.js"></script>
+<script type="text/javascript" src="{{ MEDIA_URL }}uni_form/uni-form.jquery.js"></script>
+
+<script type="text/javascript">
+ 	$(function(){
+		$('form.uniForm').uniform();
+ 	});
+ 
+ 	$(document).ready(function(){
+		$('#id_password').focus()
+	}); 
+</script>
+{% endblock headerJS %}
+
+{% block page_title %}Edit Profile{% endblock page_title %}
+
+{% block title%}Edit GizmoBooks.com Profile{% endblock title%}	
+
+{% load uni_form_tags %}
+{% block sub_content %}
+<div class="post">
+	<form method="post" class="uniForm">{% csrf_token %}
+		{{ form|as_uni_form }}
+		<div class="buttonHolder">
+        	<button type="submit" class="primaryAction">Update</button>
+   		</div>
+	</form>
+</div>
+
+{% endblock sub_content %}

@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<title>Contact Seller</title>
+		<script src="{{ MEDIA_URL }}javascripts/prototype.js" type="text/javascript"></script>
+		
+		<script type="text/javascript">
+			Event.observe(window,'load',function()
+			{
+				$('id_from_email').focus();
+			});
+		
+		</script>
+		
+		<style type="text/css">
+			.errorlist {color: red; }
+			
+			td, th
+			{
+				border-bottom:1px solid #348ABB;
+			}
+		</style>
+	</head>
+<body>
+	<form action="{% url email_compose user.username book.id %}" method="POST">{% csrf_token %}
+			<table>
+				<tr>
+					<th>
+						{{ form.from_email.label }}
+					</th>
+					<td>
+						{{ form.from_email.errors }}{{ form.from_email }}
+					</td>
+				</tr>
+				<tr>
+					<th>To:</th><td>{{ user }}</td>
+				</tr>
+				<tr>
+					<th>Book:</th><td>{{ book.title }}</td>
+				</tr>
+				<tr>
+					<th style="border: 0;">
+						{{ form.message.label }}
+					</th>
+					<td style="border: 0;">
+						{{ form.message.errors }}{{ form.message }}
+					</td>
+				</tr>
+				<tr>
+					<th></th>
+			    	<td>
+			    		<input type="submit" value="Send" />
+			    	</td>
+				</tr>
+		</table>
+	</form>
+</body>
+</html>

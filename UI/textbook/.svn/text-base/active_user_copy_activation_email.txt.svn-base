@@ -1,0 +1,8 @@
+We think you might have forgotten your password for {{ site.name }}. You can quickly create a new one here:
+
+{{ site.domain }}/{% url password_reset uidb36=uid token=reset_token %}
+
+Or, you can just confirm that you're selling "{{ book_copy.book }}" here:
+
+{{ site.domain }}{% url activate_copy activation_key=book_copy.activation_key %}
+

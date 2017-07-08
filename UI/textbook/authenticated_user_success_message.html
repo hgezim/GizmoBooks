@@ -1,0 +1,8 @@
+{% autoescape on %}
+	<img style="float: left; margin-right: 10px; margin-bottom: 10px;" src="{{ MEDIA_URL }}{{ book_copy.book.picture }}">
+	Awesome! {{ book_copy.book.title }} has just been posted.
+	{% if facebook.request %}
+	<h3>Also...you just entered to win an iPad2! The more books you post the higher your chances of winning.</h3>
+	{% endif %}
+	<div class="clear"></div>
+{% endautoescape %}

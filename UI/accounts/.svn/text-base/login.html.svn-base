@@ -1,0 +1,39 @@
+{% extends "new_base.html" %}
+
+{% block title%}GizmoBooks.com {% endblock title%}	
+
+{% block bodyStyle %}post_page{% endblock %}
+
+{% block facebook_code %}
+FB.Event.subscribe('auth.login', function () {
+          window.location = "{% url fb_login %}?next=" + "{% url profile %}";
+      });
+{% endblock facebook_code %}
+
+{% block content %}
+<div class="post">
+	<table>
+	{% if messages %}
+    	{% for message in messages %}
+    	<tr><td colspan="2" class="error">{{ message }}</td></tr>
+    	{% endfor %}
+	{% endif %}
+	
+	<form method="post" action="{% url auth_login %}">{% csrf_token %}
+	<tr>
+		<td></td>
+		<td>
+			{% load facebook %}
+			<fb:login-button show-faces="false" width="200" max-rows="1" perms="{% facebook_perms %}">Login with Facebook</fb:login-button>
+		</td>
+	</tr>
+		{{ form.as_table }}
+	<tr>
+		<td></td><td><input type="submit" value="Login" /></td>
+		<tr><td colspan="2"><a href="{% url password_reset_request %}">Forgot password</a></td></tr>
+	</tr>
+	</form>
+	</table>
+</div>
+
+{% endblock content %}

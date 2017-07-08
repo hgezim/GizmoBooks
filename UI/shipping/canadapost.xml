@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+{% spaceless %}
+<eparcel>
+	<language>en</language>
+	<ratesAndServicesRequest>
+		<merchantCPCID>{{ config.cpcid }}</merchantCPCID>
+		<fromPostalCode>{{ seller.profile.postal_code.code }}</fromPostalCode>
+		<turnAroundTime>{{config.turn_around_time}}</turnAroundTime>
+		<itemsPrice>{{ product.price }}</itemsPrice>
+		<lineItems>
+			<item>
+				<quantity>1</quantity>
+				<weight>
+					{% if product.book.weight %}
+						{{ product.book.weight }}
+					{% else %}
+						{{ config.default_weight }}
+					{% endif %}
+				</weight>
+				<length>
+					{% if product.book.length %}
+						{{ product.book.length }}
+					{% else %}
+						{{ config.default_length }}
+					{% endif %}
+				</length>
+				<width>
+					{% if product.book.width %}
+						{{ product.book.width }}
+					{% else %}
+						{{ config.default_width }}
+					{% endif %}
+				</width>
+				<height>
+					{% if product.book.height %}
+						{{ product.book.height }}
+					{% else %}
+						{{ config.default_height }}
+					{% endif %}
+				</height>
+				<readyToShip/>
+				<description>Book: {{ product.book.title }}</description>
+			</item>
+		</lineItems>
+		<city>{{ destination.city }}</city>
+		<provOrState>{{ destination.region }}</provOrState>
+		<country>{{ destination.country_code }}</country>
+		<postalCode>{{ destination.postal_code }}</postalCode>
+	</ratesAndServicesRequest>
+</eparcel>
+{% endspaceless %}

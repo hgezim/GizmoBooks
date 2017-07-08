@@ -1,0 +1,45 @@
+{% extends "book_list_base.html" %}
+
+{% block title%} Textbook Search{% endblock title%}	
+		
+{% block book_list %}
+<div id="book_list">
+	<div class="title">Book Search: {{ q }}</div>
+	{% if query %}
+		{% for books in page.object_list %}
+		<div class="book">
+				<span class="number">{{ forloop.counter }}.</span>
+				<div class="picture">
+					<a href="{{ books.0.get_absolute_url }}">
+						<img src="{{ MEDIA_URL }}{{ books.0.picture }}" style="vertical-align:text-top;" alt="{{ books.0.title }}" width="85" height="115" />
+					</a>
+				</div>
+				<div class="info">
+					<a href="{{ books.0.get_absolute_url }}" class="book_title">{{ books.0.title }}</a>
+					<span class="authors">
+					{% if books.0.authors_list %}by{% endif %}
+					{% for author in books.0.authors_list %}
+						{% if forloop.last %} 
+							and {{ author }}
+						{% else %}
+							{{ author }},
+						{% endif %}
+					{% endfor %}
+					</span>
+					<div>
+						Price: {% if books.0.list_price %}<span class="list_price">${{ books.0.list_price|floatformat:2 }}</span>{% endif %}
+						<span class="price">${{ books.0.min_price|floatformat:2 }}</span> <br />
+						<span class="used">{% if books.0.used_count %}<a href="{{ books.0.get_absolute_url }}">{{ books.0.used_count }} used</a> from: ${{ books.0.min_used_price|floatformat:2 }}{% endif %}</span> 
+						<span class="new">{% if books.0.new_count %}<a href="{{ books.0.get_absolute_url }}">{{ books.0.new_count }} new</a> from: ${{ books.0.min_new_price|floatformat:2 }}{% endif %}</span>
+					</div>
+				</div>
+				<div class="clear"></div>
+				{% if not forloop.last %}<hr />{% endif %}
+		</div>
+		{% empty %}
+			<br />
+			No books found with title '{{ q }}.'
+		{% endfor %}
+	{% endif %}
+</div>
+{% endblock book_list %}

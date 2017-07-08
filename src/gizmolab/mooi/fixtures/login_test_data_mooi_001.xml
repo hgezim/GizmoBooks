@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+  <object pk="1" model="mooi.profile">
+    <field to="auth.user" name="user" rel="OneToOneRel">1</field>
+    <field type="CharField" name="phone">403 359 2801</field>
+    <field type="IntegerField" name="credits">1</field>
+    <field type="CharField" name="transaction_status"></field>
+    <field to="mooi.location" name="location" rel="ManyToOneRel">1</field>
+  </object>
+  <object pk="2" model="mooi.profile">
+    <field to="auth.user" name="user" rel="OneToOneRel">2</field>
+    <field type="CharField" name="phone">(403) 359-2801</field>
+    <field type="IntegerField" name="credits">1</field>
+    <field type="CharField" name="transaction_status"></field>
+    <field to="mooi.location" name="location" rel="ManyToOneRel">1</field>
+  </object>
+  <object pk="3" model="mooi.profile">
+    <field to="auth.user" name="user" rel="OneToOneRel">3</field>
+    <field type="CharField" name="phone">780 531 2981</field>
+    <field type="IntegerField" name="credits">1</field>
+    <field type="CharField" name="transaction_status"></field>
+    <field to="mooi.location" name="location" rel="ManyToOneRel">2</field>
+  </object>
+  <object pk="4" model="mooi.profile">
+    <field to="auth.user" name="user" rel="OneToOneRel">4</field>
+    <field type="CharField" name="phone">416 987 1345</field>
+    <field type="IntegerField" name="credits">1</field>
+    <field type="CharField" name="transaction_status"></field>
+    <field to="mooi.location" name="location" rel="ManyToOneRel">3</field>
+  </object>
+  <object pk="gizmo" model="mooi.user">
+    <field type="CharField" name="password">12345</field>
+    <field type="CharField" name="name">Gizmo</field>
+    <field type="CharField" name="email">hgezim@gmail.com</field>
+    <field type="CharField" name="phone">(403) 359-2801</field>
+    <field type="IntegerField" name="credits">1</field>
+    <field type="CharField" name="transaction_status"></field>
+    <field to="mooi.location" name="location" rel="ManyToOneRel">1</field>
+  </object>
+  <object pk="john" model="mooi.user">
+    <field type="CharField" name="password">abraka</field>
+    <field type="CharField" name="name">Johnny</field>
+    <field type="CharField" name="email">hgezim@yahoo.com</field>
+    <field type="CharField" name="phone">780 531 2981</field>
+    <field type="IntegerField" name="credits">1</field>
+    <field type="CharField" name="transaction_status"></field>
+    <field to="mooi.location" name="location" rel="ManyToOneRel">2</field>
+  </object>
+  <object pk="Andy" model="mooi.user">
+    <field type="CharField" name="password">qwerty</field>
+    <field type="CharField" name="name">Andrew</field>
+    <field type="CharField" name="email">gezimh@hotmail.com</field>
+    <field type="CharField" name="phone">416 987 1345</field>
+    <field type="IntegerField" name="credits">1</field>
+    <field type="CharField" name="transaction_status"></field>
+    <field to="mooi.location" name="location" rel="ManyToOneRel">3</field>
+  </object>
+  <object pk="1" model="mooi.location">
+    <field type="CharField" name="city">Lethbridge</field>
+    <field type="CharField" name="country">Canada</field>
+  </object>
+  <object pk="2" model="mooi.location">
+    <field type="CharField" name="city">Edmonton</field>
+    <field type="CharField" name="country">Canada</field>
+  </object>
+  <object pk="3" model="mooi.location">
+    <field type="CharField" name="city">Montreal</field>
+    <field type="CharField" name="country">Canada</field>
+  </object>
+  <object pk="1" model="mooi.book">
+    <field type="CharField" name="title">Principles of Marketing (13th Edition)</field>
+    <field type="CharField" name="ISBN">0136079415</field>
+    <field type="FilePathField" name="picture">0136079415.jpg</field>
+    <field type="CharField" name="publisher">Prentice Hall</field>
+    <field type="CharField" name="edition">13</field>
+    <field type="DateField" name="published_date">2009-01-07</field>
+    <field type="CharField" name="discipline">Marketing</field>
+    <field to="mooi.author" name="authors" rel="ManyToManyRel"><object pk="1"></object><object pk="2"></object></field>
+  </object>
+  <object pk="2" model="mooi.book">
+    <field type="CharField" name="title">Baby Business</field>
+    <field type="CharField" name="ISBN"></field>
+    <field type="FilePathField" name="picture">noimage.png</field>
+    <field type="CharField" name="publisher">GizmoBooks</field>
+    <field type="CharField" name="edition"></field>
+    <field type="DateField" name="published_date">2099-12-31</field>
+    <field type="CharField" name="discipline">Business</field>
+    <field to="mooi.author" name="authors" rel="ManyToManyRel"><object pk="3"></object><object pk="4"></object></field>
+  </object>
+  <object pk="3" model="mooi.book">
+    <field type="CharField" name="title">An Introduction to Mechanical Engineering</field>
+    <field type="CharField" name="ISBN">0534552978</field>
+    <field type="FilePathField" name="picture">0534552978.jpg</field>
+    <field type="CharField" name="publisher">CL-Engineering</field>
+    <field type="CharField" name="edition">2</field>
+    <field type="DateField" name="published_date">2005-11-01</field>
+    <field type="CharField" name="discipline">Engineering</field>
+    <field to="mooi.author" name="authors" rel="ManyToManyRel"><object pk="5"></object></field>
+  </object>
+  <object pk="4" model="mooi.book">
+    <field type="CharField" name="title">Calculus (Stewart's Calculus Series)</field>
+    <field type="CharField" name="ISBN">0495011606</field>
+    <field type="FilePathField" name="picture">0495011606.jpg</field>
+    <field type="CharField" name="publisher">Brooks Cole</field>
+    <field type="CharField" name="edition">6</field>
+    <field type="DateField" name="published_date">2007-06-11</field>
+    <field type="CharField" name="discipline">Math</field>
+    <field to="mooi.author" name="authors" rel="ManyToManyRel"><object pk="6"></object></field>
+  </object>
+  <object pk="5" model="mooi.book">
+    <field type="CharField" name="title">Linear Algebra and Its Applications, 3rd Updated Edition (Book &amp; CD-ROM)</field>
+    <field type="CharField" name="ISBN">0321287134</field>
+    <field type="FilePathField" name="picture">0321287134.jpg</field>
+    <field type="CharField" name="publisher">Addison Wesley</field>
+    <field type="CharField" name="edition">3</field>
+    <field type="DateField" name="published_date">2005-09-01</field>
+    <field type="CharField" name="discipline">Math</field>
+    <field to="mooi.author" name="authors" rel="ManyToManyRel"><object pk="7"></object></field>
+  </object>
+  <object pk="6" model="mooi.book">
+    <field type="CharField" name="title">Western Civilization</field>
+    <field type="CharField" name="ISBN">0495502855</field>
+    <field type="FilePathField" name="picture">0495502855.jpg</field>
+    <field type="CharField" name="publisher">Wadsworth Publishing</field>
+    <field type="CharField" name="edition">7</field>
+    <field type="DateField" name="published_date">2008-01-15</field>
+    <field type="CharField" name="discipline">History</field>
+    <field to="mooi.author" name="authors" rel="ManyToManyRel"><object pk="8"></object></field>
+  </object>
+  <object pk="7" model="mooi.book">
+    <field type="CharField" name="title">Python Programming for the Absolute Beginner, 3rd Edition</field>
+    <field type="CharField" name="ISBN">1435455002</field>
+    <field type="FilePathField" name="picture">1435455002.jpg</field>
+    <field type="CharField" name="publisher">Course Technology PTR</field>
+    <field type="CharField" name="edition">3rd</field>
+    <field type="DateField" name="published_date">2010-01-01</field>
+    <field type="CharField" name="discipline">Computer Science</field>
+    <field to="mooi.author" name="authors" rel="ManyToManyRel"><object pk="9"></object></field>
+  </object>
+  <object pk="1" model="mooi.book_copy">
+    <field to="mooi.book" name="book" rel="ManyToOneRel">1</field>
+    <field to="auth.user" name="owner" rel="ManyToOneRel">2</field>
+    <field type="DecimalField" name="condition">5.0</field>
+    <field type="FloatField" name="price">90.0</field>
+    <field type="BooleanField" name="sponsored">False</field>
+    <field type="BooleanField" name="sold">False</field>
+  </object>
+  <object pk="2" model="mooi.book_copy">
+    <field to="mooi.book" name="book" rel="ManyToOneRel">2</field>
+    <field to="auth.user" name="owner" rel="ManyToOneRel">2</field>
+    <field type="DecimalField" name="condition">5.0</field>
+    <field type="FloatField" name="price">30.0</field>
+    <field type="BooleanField" name="sponsored">False</field>
+    <field type="BooleanField" name="sold">False</field>
+  </object>
+  <object pk="3" model="mooi.book_copy">
+    <field to="mooi.book" name="book" rel="ManyToOneRel">3</field>
+    <field to="auth.user" name="owner" rel="ManyToOneRel">3</field>
+    <field type="DecimalField" name="condition">5.0</field>
+    <field type="FloatField" name="price">50.0</field>
+    <field type="BooleanField" name="sponsored">False</field>
+    <field type="BooleanField" name="sold">False</field>
+  </object>
+  <object pk="4" model="mooi.book_copy">
+    <field to="mooi.book" name="book" rel="ManyToOneRel">4</field>
+    <field to="auth.user" name="owner" rel="ManyToOneRel">3</field>
+    <field type="DecimalField" name="condition">5.0</field>
+    <field type="FloatField" name="price">30.0</field>
+    <field type="BooleanField" name="sponsored">False</field>
+    <field type="BooleanField" name="sold">False</field>
+  </object>
+  <object pk="5" model="mooi.book_copy">
+    <field to="mooi.book" name="book" rel="ManyToOneRel">5</field>
+    <field to="auth.user" name="owner" rel="ManyToOneRel">3</field>
+    <field type="DecimalField" name="condition">5.0</field>
+    <field type="FloatField" name="price">43.5</field>
+    <field type="BooleanField" name="sponsored">False</field>
+    <field type="BooleanField" name="sold">False</field>
+  </object>
+  <object pk="6" model="mooi.book_copy">
+    <field to="mooi.book" name="book" rel="ManyToOneRel">6</field>
+    <field to="auth.user" name="owner" rel="ManyToOneRel">3</field>
+    <field type="DecimalField" name="condition">2.5</field>
+    <field type="FloatField" name="price">100.0</field>
+    <field type="BooleanField" name="sponsored">False</field>
+    <field type="BooleanField" name="sold">True</field>
+  </object>
+  <object pk="7" model="mooi.book_copy">
+    <field to="mooi.book" name="book" rel="ManyToOneRel">7</field>
+    <field to="auth.user" name="owner" rel="ManyToOneRel">4</field>
+    <field type="DecimalField" name="condition">4.0</field>
+    <field type="FloatField" name="price">19.99</field>
+    <field type="BooleanField" name="sponsored">False</field>
+    <field type="BooleanField" name="sold">False</field>
+  </object>
+  <object pk="1" model="mooi.author">
+    <field type="CharField" name="name">Philip Kotler</field>
+  </object>
+  <object pk="2" model="mooi.author">
+    <field type="CharField" name="name">Gary Armstrong</field>
+  </object>
+  <object pk="3" model="mooi.author">
+    <field type="CharField" name="name">Gezim Hoxha</field>
+  </object>
+  <object pk="4" model="mooi.author">
+    <field type="CharField" name="name">Lulzim Hoxha</field>
+  </object>
+  <object pk="5" model="mooi.author">
+    <field type="CharField" name="name">Jonathan Wickert</field>
+  </object>
+  <object pk="6" model="mooi.author">
+    <field type="CharField" name="name">James Stewart</field>
+  </object>
+  <object pk="7" model="mooi.author">
+    <field type="CharField" name="name">David C. Lay</field>
+  </object>
+  <object pk="8" model="mooi.author">
+    <field type="CharField" name="name">Jackson J. Spielvogel</field>
+  </object>
+  <object pk="9" model="mooi.author">
+    <field type="CharField" name="name">Michael Dawson</field>
+  </object>
+</django-objects>

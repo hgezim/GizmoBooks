@@ -1,0 +1,41 @@
+{% extends "wide_pages.html" %}
+
+{% block headerJS %}
+<link href="{{ MEDIA_URL }}uni_form/uni-form.css" media="all" rel="stylesheet"/>
+<link href="{{ MEDIA_URL }}uni_form/default.uni-form.css" media="all" rel="stylesheet"/>
+<script type="text/javascript" src="{{ MEDIA_URL }}js/jquery.js"></script>
+<script type="text/javascript" src="{{ MEDIA_URL }}uni_form/uni-form.jquery.js"></script>
+
+<script type="text/javascript">
+	$(function(){
+		$('form.uniForm').uniform();
+	});
+ 
+	$(document).ready(function(){
+		$('#id_email').focus()
+	}); 
+</script>
+{% endblock headerJS %}
+
+{% block facebook_code %}
+FB.Event.subscribe('auth.login', function () {
+          window.location = "{% url fb_login %}?next=" + "{% url post %}";
+      });
+{% endblock facebook_code %}
+
+{% block title%}GizmoBooks.com{% endblock title%}	
+{% block page_title %}Sell a Book{% endblock page_title %}
+{% block bodyStyle %}post_page{% endblock %}
+
+{% load uni_form_tags %}
+{% block sub_content %}
+{% load facebook %}
+<div class="post">
+	<form enctype="multipart/form-data" class="uniForm" method="post">{% csrf_token %}
+	{{ post_form|as_uni_form }}
+	<div class="buttonHolder">  
+        <button type="submit" class="primaryAction">Sell (it's free)</button> 
+   	</div>
+	</form> 
+</div>
+{% endblock sub_content %}

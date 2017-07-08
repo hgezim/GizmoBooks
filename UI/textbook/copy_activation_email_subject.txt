@@ -1,0 +1,1 @@
+Are you selling "{{ book_copy.book }}"?

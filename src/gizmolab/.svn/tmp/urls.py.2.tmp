@@ -1,0 +1,46 @@
+from django.conf.urls.defaults import *
+
+# Uncomment the next two lines to enable the admin:
+from django.contrib import admin
+admin.autodiscover()
+
+from search.views import BookSearchView
+from search.forms import BookSearchForm
+
+
+urlpatterns = patterns('',
+                           (r'^', include('textbook.urls')),
+                           (r'^about/$', 'mooi.views.about'),
+                           (r'^accounts/', include('accounts.urls')),
+                           (r'^cart/', include('checkout.urls')),
+                           (r'^admin/(.*)', admin.site.root),
+                           url(r'^book/(?P<book_id>[0-9]+)/$', 'mooi.views.bookCopies', name='book_copies'),
+                           
+                           url(r'^search/$', BookSearchView(form_class=BookSearchForm), name='haystack_search'),
+                           
+                           # ensure to update clean_discipline in SellForm
+                           (r'^books/(?P<discipline>[a-zA-Z\' ]+)/$', 'mooi.views.booksByDiscipline'),
+                           (r'^faq/$', 'mooi.views.faq'),
+                           (r'^copy/(?P<copy_id>[0-9]+)/sold/$', 'mooi.views.copySold'),
+                           (r'^copy/(?P<copy_id>[0-9]+)/notsold/$', 'mooi.views.copyNotSold'),
+                           
+                           
+                           # if you change this also change mailer url patterns
+                           #    clean_username in RegisterForm
+                           url(r'^phone/(?P<username>[a-zA-Z0-9.]+)/$', 'mooi.views.userPhone', name="mooi_user_phone"),
+                           url(r'^login/$', 'mooi.views.loginView', name="mooi_login"),
+                           (r'^logout/$', 'mooi.views.logout'),
+                           (r'^mybooks/$', 'mooi.views.mybooks'),
+                           url(r'^register/$', 'mooi.views.register', name="mooi_register"),
+                           (r'^register/done/$', 'mooi.views.register_done'),
+                           url(r'^sell/$', 'mooi.views.sell', name="mooi_sell"),
+                           
+                           (r'^location/add/$', 'mooi.views.locationAdd'),
+
+                           (r'^mailer/', include('mailer.urls')),
+                           
+                           #don't move this above the rest as it'll match a lot of things
+                           #(r'^(?P<country>[a-zA-Z ]+)/(?P<city>[a-zA-Z.\' ]+)/$', 'mooi.views.cityIndex'),
+                           (r'^(?P<country>[a-zA-Z ]+)/(?P<city>[a-zA-Z.\' ]+)/books/(?P<discipline>[a-zA-Z\' ]+)/$', 'mooi.views.cityBooksByDiscipline'),
+                           (r'^(?P<country>[a-zA-Z ]+)/(?P<city>[a-zA-Z.\' ]+)/book/(?P<book_id>[0-9]+)/$', 'mooi.views.cityBookCopies'),
+)

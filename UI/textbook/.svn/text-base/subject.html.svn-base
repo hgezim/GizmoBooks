@@ -1,0 +1,64 @@
+{% extends "book_list_base.html" %}
+
+{% block title%} {{ current_subject }} Textbooks{% endblock title%}	
+		
+{% block book_list %}
+{% if pages.start_index == 1 and pages.end_index == pages.paginator.count %}
+{% else%}
+	<div id="category_header">
+		Showing {{ pages.start_index }} to {{ pages.end_index }} of {{ pages.paginator.count }}
+	</div>
+{% endif %}
+
+<div id="book_list">
+	<div class="title">{{ current_subject }}</div>
+	{% for book in pages.object_list %}
+	<div class="book">
+			<span class="number">{{ forloop.counter0|add:pages.start_index }}.</span>
+			<div class="picture">
+				<a href="{{ book.get_absolute_url }}">
+					<img src="{{ MEDIA_URL }}{{ book.picture }}" style="vertical-align:text-top;" alt="{{ book.title }}" width="85" height="115" />
+				</a>
+			</div>
+			<div class="info">
+				<a href="{{ book.get_absolute_url }}" class="book_title">{{ book.title }}</a>
+				<span class="authors">
+				{% if book.authors_list %}by{% endif %}
+				{% for author in book.authors_list %}
+					{% if forloop.last %} 
+						and {{ author }}
+					{% else %}
+						{{ author }},
+					{% endif %}
+				{% endfor %}
+				</span>
+				<div>
+					Price: {% if book.list_price %}<span class="list_price">${{ book.list_price|floatformat:2 }}</span>{% endif %}
+					<span class="price">${{ book.min_price|floatformat:2 }}</span> <br />
+					<span class="used">{% if book.used_count %}<a href="{{ book.get_absolute_url }}">{{ book.used_count }} used</a> from: ${{ book.min_used_price|floatformat:2 }}{% endif %}</span> 
+					<span class="new">{% if book.new_count %}<a href="{{ book.get_absolute_url }}">{{ book.new_count }} new</a> from: ${{ book.min_new_price|floatformat:2 }}{% endif %}</span>
+				</div>
+			</div>
+			<div class="clear"></div>
+			{% if not forloop.last %}<hr />{% endif %}
+	</div>
+	{% empty %}
+		There are no books in this subject.
+	{% endfor %}
+			
+	<div class="pagination center">
+		{% if pages.has_previous %}
+			<a href="?page={{ pages.previous_page_number }}"><< Previous</a>
+		{% endif %}
+		
+		<span class="current">
+			Page {{ pages.number }} of {{ pages.paginator.num_pages }}
+		</span>
+	        
+		{% if pages.has_next %}
+			<a href="?page={{ pages.next_page_number }}">Next >></a>
+		{% endif %}
+	 </div>
+</div>
+
+{% endblock book_list %}

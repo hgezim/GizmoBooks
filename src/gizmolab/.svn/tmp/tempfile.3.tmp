@@ -1,0 +1,131 @@
+# Django settings for gizmolab project.
+
+DEBUG = True
+TEMPLATE_DEBUG = True
+
+SEND_BROKEN_LINK_EMAILS = True
+
+ADMINS = (
+     ('Gezim', 'hgezim@gmail.com'),
+)
+
+#EMAIL SERVER SETTING
+EMAIL_HOST = 'mail.gizmobooks.com'
+EMAIL_HOST_USER = 'help@gizmobooks.com'
+EMAIL_HOST_PASSWORD = 'cerrnice'
+EMAIL_PORT = '587'
+DEFAULT_FROM_EMAIL = 'help@gizmobooks.com'
+
+
+MANAGERS = ADMINS
+
+DATABASES = {
+    'default': {
+        'NAME': 'gizmobooks_beta',
+        'ENGINE': 'django.db.backends.mysql',
+        'USER': 'gizmo',
+        'PASSWORD': 'cerrnice',
+        'HOST': 'localhost',
+    }
+}
+
+#CACHE_BACKEND = 'db://mooi_cache'
+
+# Local time zone for this installation. Choices can be found here:
+# http://en.wikipedia.org/wiki/List_of_tz_zones_by_name
+# although not all choices may be available on all operating systems.
+# If running in a Windows environment this must be set to the same as your
+# system time zone.
+TIME_ZONE = 'America/Edmonton'
+
+# Language code for this installation. All choices can be found here:
+# http://www.i18nguy.com/unicode/language-identifiers.html
+LANGUAGE_CODE = 'en-us'
+
+SITE_ID = 1
+
+# If you set this to False, Django will make some optimizations so as not
+# to load the internationalization machinery.
+USE_I18N = False
+
+# Absolute path to the directory that holds media.
+# Example: "/home/media/media.lawrence.com/"
+MEDIA_ROOT = '/Users/gezimhoxha/Sites/gizmobooks_beta'
+
+# URL that handles the media served from MEDIA_ROOT. Make sure to use a
+# trailing slash if there is a path component (optional in other cases).
+# Examples: "http://media.lawrence.com", "http://example.com/media/"
+MEDIA_URL = 'http://localhost/~gezimhoxha/gizmobooks_beta/'
+
+# URL prefix for admin media -- CSS, JavaScript and images. Make sure to use a
+# trailing slash.
+# Examples: "http://foo.com/media/", "/media/".
+ADMIN_MEDIA_PREFIX = '/media/'
+
+# Make this unique, and don't share it with anybody.
+SECRET_KEY = '&qm5add1*o-hm*!^+ifv@#5tb7argz2hk2)oiub$i#sfilm4kly'
+
+# List of callables that know how to import templates from various sources.
+TEMPLATE_LOADERS = (
+    'django.template.loaders.filesystem.load_template_source',
+    'django.template.loaders.app_directories.load_template_source',
+#     'django.template.loaders.eggs.load_template_source',
+)
+
+MIDDLEWARE_CLASSES = (
+    #'django.middleware.cache.UpdateCacheMiddleware',
+    #'django.middleware.common.CommonMiddleware',
+    'django.contrib.sessions.middleware.SessionMiddleware',
+    'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django.middleware.csrf.CsrfViewMiddleware',
+    #'django.middleware.cache.FetchFromCacheMiddleware',
+)
+
+ROOT_URLCONF = 'urls'
+
+TEMPLATE_CONTEXT_PROCESSORS = (
+                               "django.core.context_processors.request",
+                               "django.core.context_processors.auth",
+                               "django.core.context_processors.debug",
+                               "django.core.context_processors.media",
+                               "mooi.context_processors.ximi"
+                               )
+
+TEMPLATE_DIRS = (
+    # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
+    # Always use forward slashes, even on Windows.
+    # Don't forget to use absolute paths, not relative paths.
+    '/Users/gezimhoxha/projects/gizmobooks/dj12-upgrade/UI',
+)
+
+INSTALLED_APPS = (
+    'haystack',
+    'south',
+    'mooi',
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.sites',
+    #'fbapp',
+    'search',
+    'mailer',
+    'django.contrib.comments',
+)
+
+#profile
+AUTH_PROFILE_MODULE = 'mooi.Profile'
+
+# Facebook settings
+FACEBOOK_API_KEY = '3c685808aeccf74117a0c4b020795c81'
+FACEBOOK_SECRET_KEY = '25d62f27beaead3d1fcb879a9fb4fdc1'
+
+# haystack
+HAYSTACK_SITECONF = 'search_sites'
+HAYSTACK_SEARCH_ENGINE = 'xapian'
+HAYSTACK_XAPIAN_PATH = '/Users/gezimhoxha/Sites/gizmobooks_beta/index'
+
+# AWS
+AWS_LICENSE_KEY = "0ZGXDT11WAKWPG2G65G2"
+AWS_SECRET_ACCESS_KEY = "wQi9Yac9wd5lnL5e71EHdW6u+/n4LPTWXQKBe+ky"
+AWS_ACCESS_KEY_ID = "0ZGXDT11WAKWPG2G65G2"

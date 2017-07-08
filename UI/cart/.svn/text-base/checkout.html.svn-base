@@ -1,0 +1,74 @@
+{% extends "wide_pages.html" %}
+
+{% block title%}GizmoBooks.com Checkout{% endblock title%}
+{% block page_title%}Checkout{% endblock page_title%}
+		
+{% block bodyStyle %}checkout{% endblock bodyStyle%}
+{% block sub_content %}
+<div id="location_form">
+	<form method="POST">{% csrf_token %}
+		{{ location_form.non_field_errors }}
+		{{ location_form.location.errors }}
+		Shipping to: {{ location_form.location }}
+		<input type="submit" value="Change" />
+	</form>
+</div>
+    <table width="100%">
+        <thead>
+        	<th></th>
+            <th>Details</th>
+            <th>Price</th>
+        </thead>
+        {% if cart_errors %}
+        	<tr>
+        		<td><img class="picture" src="{{ MEDIA_URL }}{{ book_copy.book.picture }}" alt="{{ book_copy.book.title }}" title="{{ book_copy.book.title }}"/></td>
+        		<td>
+		            {{ book_copy.book.title }}<br />
+		            <small>{{ book_copy.book.get_authors }}</small><br /><br />
+		            <small>{{ book_copy.get_condition_display }}</small><br />
+		            <small>Seller: {{ book_copy.owner }}</small>
+        		</td>
+        		<td>{{ book_copy.get_price }}</td>
+        	</tr>
+        	<tr>
+        		<td colspan="3" class="error">
+        			{% for error in cart_errors %}
+        				{{ error }}<br />
+        			{% endfor %}
+        		</td>
+        	</tr>
+        {% else %}
+	        {% for item in cart %}
+	        <tr>
+	        	{% if item.product.book %}
+		        	<td class="center">
+		        		<img class="picture" src="{{ MEDIA_URL }}{{ item.product.book.picture }}" alt="{{ item.product.book.title }}" title="{{ item.product.book.title }}"/>
+					</td>
+		            <td>
+		            {{ item.product.book.title }}<br />
+		            <small>{{ item.product.book.get_authors }}</small><br /><br />
+		            <small>{{ item.product.get_condition_display }}</small><br />
+		            <small>Seller: {{ item.product.owner }}</small>
+		            </td>
+		            <td class="right">{{ item.product.get_price }}</td>
+	            {% else %}
+			        <td class="center">---</td>
+			        <td>Shipping from {{ item.product.from_location }}</td>
+			        <td class="right">${{ item.product.price }}</td>            
+	            {% endif %}
+	        </tr>
+	        {% endfor %}
+	        <tr id="totals">
+	        	<td></td>
+	        	<td class="right">Total:</td>
+	        	<td class="right">${{ cart.total }}</td>
+	        </tr>
+	        <tr>
+	        	<td></td>
+	        	<td></td>
+	        	<td class="right">{{ form.render }}</td>
+	        </tr>
+		{% endif %}
+    </table>
+
+{% endblock sub_content %}

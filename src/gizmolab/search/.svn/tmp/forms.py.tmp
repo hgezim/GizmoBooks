@@ -1,0 +1,78 @@
+from django import forms
+from haystack.forms import SearchForm
+import re
+from pyaws import ecs
+import settings
+
+class BookSearchForm(SearchForm):
+    def __init__(self, *args, **kwargs):
+        super(BookSearchForm, self).__init__(*args, **kwargs)
+        self.ISBN = None
+        self.title = None
+    
+    def search(self):
+        """
+        Does actual search.
+        
+        Returns a two element tuple. First one is the site search results. Second is amazon results.
+        """
+        
+        query = self.cleaned_data['q']
+        self.title = query
+        
+        # setup AWS
+        ecs.setLocale('ca')
+        ecs.setOptions({'AssociateTag':'gezhox-20'})
+        ecs.setLicenseKey(settings.AWS_LICENSE_KEY)
+        ecs.setSecretAccessKey(settings.AWS_SECRET_ACCESS_KEY)
+        AWSAccessKeyId = settings.AWS_ACCESS_KEY_ID
+        Service = 'AWSECommerceService'
+        
+        if self.is_valid():
+            if self.is_query_ISBN():
+                try:
+                    temp_books = ecs.ItemLookup(self.ISBN, IdType='ISBN', SearchIndex='Books', ResponseGroup='Images,ItemAttributes,OfferSummary')
+                    temp_book = temp_books[0]
+                    self.title = temp_book.Title                    
+                except:
+                    pass
+            
+            amazon_books = None
+            amazon_book_list = []
+            try:
+                amazon_books = ecs.ItemSearch(Keywords='', Title=self.title, SearchIndex='Books', ResponseGroup='Images,ItemAttributes,OfferSummary')
+                
+                # we only care about top 5 results 
+                for i, book in enumerate(amazon_books):
+                    if i >= 5:
+                        break
+                    amazon_book_list.append(book)
+                    
+            except:
+                pass
+            local_books_title = self.searchqueryset.auto_query(self.title)
+            local_books_query = self.searchqueryset.auto_query(query)
+            
+            local_books = local_books_query
+            # if title query returned more results make that local_books
+            if len(local_books_title) > len(local_books_query):
+                local_books = local_books_title
+            
+            return [local_books, amazon_book_list]
+        else:
+            return []
+        
+    def is_query_ISBN(self):
+        """
+        Returns True if query is an ISBN number, otherwise False.
+        Also sets self.ISBN to be just the plain number.
+        """
+        query = self.cleaned_data['q']
+        
+        # ISBN can contain: numbers, spaces, tabs, x or X, dashes, and underscores.
+        if re.search(r'[^0-9 \txX\-_]', query):
+            return False
+        else:
+            self.ISBN = re.sub(r'[^0-9xX]', '', query)
+            return True
+        

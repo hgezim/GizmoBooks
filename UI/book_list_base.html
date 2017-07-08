@@ -1,0 +1,63 @@
+{% extends "new_base.html" %}
+
+{% block bodyStyle %}main_page{% endblock bodyStyle %}
+
+{% block content%}
+	{% block page_header %}{% endblock page_header %}
+	<h1 class="center"><a name="buy">{% block page_title %}{{ current_subject }} Textbooks{% endblock %}</a></h1>
+	<!--  buy guide -->
+	<div id="buy_guide">
+		<form id="search_form" method="get" action="{% url haystack_search %}">
+			<div id="applesearch"> 
+				<span class="sbox_l"></span><span class="sbox">
+				<input name="q" id="id_q" style="outline: none;" value="Search..." type="text" id="srch_fld" /></span><span class="sbox_r" id="srch_clear">
+				</span> 
+			</div>
+		</form>
+	</div>
+	<!-- end buy guide -->
+	<!-- left nav_bar -->
+	<div id="subjects_bar">
+		<div class="title center">Subject</div>
+		{% load navigation %}
+		<ul>
+		{% for subject in subjects %}
+			<li>
+			<a class="{% active request subject.get_absolute_url %}" href="{{ subject.get_absolute_url|iriencode }}">{{ subject }}</a>
+			{% if subject = current_subject.parent %}
+				<ul>
+				{% for child in subject.get_children %}
+					<li><a class="{% active request child.get_absolute_url %}" href="{{ child.get_absolute_url|iriencode }}">{{ child }}</a></li>
+				{% endfor %}
+				</ul>			
+			{% endif %}
+			{% if subject = current_subject %}
+				<ul>
+				{% for child in children %}
+					<li><a class="{% active request child.get_absolute_url %}" href="{{ child.get_absolute_url|iriencode }}">{{ child }}</a></li>
+				{% endfor %}
+				</ul>
+			{% endif %}
+			</li>
+		{% endfor %}
+		</ul>
+	</div>
+	<!-- end lef nav_bar -->
+				
+	<!-- #middle begins here -->
+	<div id="middle">
+		{% block book_list %}
+		{% endblock book_list %}
+	</div>
+	<!-- #middle ends here -->
+{% endblock content%}
+
+{% block footer %}
+<small>
+	*Umm..hi, I'm Asterisk. What I was trying to tell you is that if you're selling a book
+	we only pick up from your location if you live in the same city as the buyer. Likewise, if you order
+	a book from us you will get it the next day, only if you live in the same city
+	as the seller.
+</small> 
+{% endblock footer%}
+

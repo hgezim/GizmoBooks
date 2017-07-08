@@ -1,0 +1,5 @@
+Thank you for registering on GizmoBooks.com.
+
+Please click the following link to complete your registration:
+
+{{site}}{% url registration_activate activation_key=activation_key %}

@@ -1,0 +1,4 @@
+Click the following link to confirm that you're selling "{{ book_copy.book }}":
+
+
+{{ site.domain }}{% url activate_copy activation_key=book_copy.activation_key %}

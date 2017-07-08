@@ -1,0 +1,70 @@
+{% extends "book_list_base.html" %}
+
+{% block title %}{{ book.title }}{% endblock title %}
+{% block page_title%}{{ book.title|truncatewords:4 }}{% endblock page_title%}	
+
+{% block bodyStyle %}book_page{% endblock %}
+		
+{% block book_list %}
+<div class="book">
+	<div class="picture">
+		<a href="{{ book.get_absolute_url }}">
+			<img src="{{ MEDIA_URL }}{{ book.picture }}" style="vertical-align:text-top;" alt="{{ book.title }}" width="85" height="115" />
+		</a>
+	</div>
+	<div class="info">
+		<span class="title">{{ book.title }}</span>
+		<span class="authors"><br />
+			{{ book.get_authors }}
+		</span>
+		<div>
+			{% if book.list_price %}List Price:<span class="list_price">${{ book.list_price|floatformat:2 }}</span><br />{% endif %}
+			<span class="used">{% if book.used_count %}Used Price: ${{ book.min_used_price|floatformat:2 }}{% endif %} <br /></span> 
+			<span class="new">{% if book.new_count %}New Price: ${{ book.min_new_price|floatformat:2 }}{% endif %}</span>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div id="book_copies">
+		<table>
+			<thead>
+				<tr>
+					<th>
+						Price - 
+						includes shipping to:
+						<form method="POST">{% csrf_token %}
+							{{ location_form.non_field_errors }}
+							{{ location_form.location.errors }}
+							{{ location_form.location }}<br/>
+							<input type="submit" value="Change" />
+						</form>
+					</th><th>Condition</th><th>Seller</th><th>Buying Options</th>
+				</tr>
+			</thead>
+			<tbody>
+				{% for bookcopy, price in copy_set %}
+				<tr>
+					<td>{{ price }}</td>
+					<td>{{ bookcopy.get_condition_display }}</td>
+					<td>
+						{% if bookcopy.sponsored %}
+							<input type="button" value="Amazon" />
+						{% else %}
+							{{ bookcopy.owner }}
+							<br />
+							Ships from: {{ bookcopy.owner.profile.postal_code.location }}
+						{% endif %}
+					</td>
+					<td>
+						{# Show Buy Now link if gizmobooks is one of the buying options #}
+						<a class="center thoughtbot" style="padding: 10px;" href="{% url cart_review bookcopy.id %}">Buy Now</a>
+					</td>
+				</tr>
+				{% empty %}
+					<td colspan="4">It looks like everyone sold their book here. Sorry!</td>
+				{% endfor %}
+			</tbody>
+		</table>
+</div>
+{% endblock book_list %}

@@ -1,0 +1,6582 @@
+Monkstown|NL|Canada|CA
+Petit Forte|NL|Canada|CA
+South East Bight|NL|Canada|CA
+McCallum|NL|Canada|CA
+Black Duck Siding|NL|Canada|CA
+Burgeo|NL|Canada|CA
+Ramea|NL|Canada|CA
+Francois|NL|Canada|CA
+Grey River|NL|Canada|CA
+St. John's|NL|Canada|CA
+Paradise|NL|Canada|CA
+Portugal Cove-St Philips|NL|Canada|CA
+Mount Pearl|NL|Canada|CA
+Gander|NL|Canada|CA
+Conception Bay South|NL|Canada|CA
+Topsail|NL|Canada|CA
+Foxtrap|NL|Canada|CA
+Kelligrews|NL|Canada|CA
+Upper Gullies|NL|Canada|CA
+Seal Cove CB|NL|Canada|CA
+Grand Falls-Windsor|NL|Canada|CA
+Corner Brook|NL|Canada|CA
+Kippens|NL|Canada|CA
+Cape North|NS|Canada|CA
+Capstick|NS|Canada|CA
+Dingwall|NS|Canada|CA
+Englishtown|NS|Canada|CA
+Ingonish|NS|Canada|CA
+Ingonish Beach|NS|Canada|CA
+Neils Harbour|NS|Canada|CA
+New Haven|NS|Canada|CA
+St Margaret Village|NS|Canada|CA
+Arichat|NS|Canada|CA
+Baddeck|NS|Canada|CA
+Belle Cote|NS|Canada|CA
+Belle Marche|NS|Canada|CA
+Cheticamp|NS|Canada|CA
+Cleveland|NS|Canada|CA
+D'Escousse|NS|Canada|CA
+Grand Etang|NS|Canada|CA
+Grand River|NS|Canada|CA
+Inverness|NS|Canada|CA
+Judique|NS|Canada|CA
+L'Ardoise|NS|Canada|CA
+Little Narrows|NS|Canada|CA
+Louisdale|NS|Canada|CA
+Lower l'Ardoise|NS|Canada|CA
+Mabou|NS|Canada|CA
+Margaree|NS|Canada|CA
+Margaree Centre|NS|Canada|CA
+Margaree Forks|NS|Canada|CA
+Margaree Harbour|NS|Canada|CA
+Margaree Valley|NS|Canada|CA
+Mulgrave|NS|Canada|CA
+North East Margaree|NS|Canada|CA
+Orangedale|NS|Canada|CA
+Petit de Grat|NS|Canada|CA
+Petit Etang|NS|Canada|CA
+Plateau|NS|Canada|CA
+Pleasant Bay|NS|Canada|CA
+Point Cross|NS|Canada|CA
+Port Hood|NS|Canada|CA
+River Bourgeois|NS|Canada|CA
+River Denys|NS|Canada|CA
+St-Joseph-du-Moine|NS|Canada|CA
+St Peters|NS|Canada|CA
+Sampson Cove|NS|Canada|CA
+Scotsville|NS|Canada|CA
+South West Margaree|NS|Canada|CA
+West Arichat|NS|Canada|CA
+West Bay|NS|Canada|CA
+West Bay Road|NS|Canada|CA
+Whycocomagh|NS|Canada|CA
+Wagmatcook|NS|Canada|CA
+Afton Station|NS|Canada|CA
+Aspen|NS|Canada|CA
+Boylston|NS|Canada|CA
+Canso|NS|Canada|CA
+Cross Roads Country Harbour|NS|Canada|CA
+Frankville|NS|Canada|CA
+Goldboro|NS|Canada|CA
+Goshen|NS|Canada|CA
+Guysborough|NS|Canada|CA
+Havre Boucher|NS|Canada|CA
+Heatherton|NS|Canada|CA
+Isaacs Harbour|NS|Canada|CA
+Larrys River|NS|Canada|CA
+Little Dover|NS|Canada|CA
+Monastery|NS|Canada|CA
+St Andrews|NS|Canada|CA
+Bickerton West|NS|Canada|CA
+Black Point|NS|Canada|CA
+Blandford|NS|Canada|CA
+Block House|NS|Canada|CA
+Boutiliers Point|NS|Canada|CA
+Brooklyn|NS|Canada|CA
+Chester|NS|Canada|CA
+Chester Basin|NS|Canada|CA
+Fishermans Harbour|NS|Canada|CA
+Head of Chezzetcook|NS|Canada|CA
+Head of Jeddore|NS|Canada|CA
+Head of St Margarets Bay|NS|Canada|CA
+Hubbards|NS|Canada|CA
+Italy Cross|NS|Canada|CA
+Jeddore Oyster Ponds|NS|Canada|CA
+Lake Charlotte|NS|Canada|CA
+Liscomb|NS|Canada|CA
+Little Tancook|NS|Canada|CA
+Lunenburg|NS|Canada|CA
+Mahone Bay|NS|Canada|CA
+Marie Joseph|NS|Canada|CA
+Mill Village|NS|Canada|CA
+Mooseland|NS|Canada|CA
+Mosers River|NS|Canada|CA
+Musquodoboit Harbour|NS|Canada|CA
+New Ross|NS|Canada|CA
+Petite-Riviere-Bridge|NS|Canada|CA
+Port Dufferin|NS|Canada|CA
+Port Medway|NS|Canada|CA
+Riverport|NS|Canada|CA
+Rose Bay|NS|Canada|CA
+Shearwater|NS|Canada|CA
+Sheet Harbour|NS|Canada|CA
+Sherbrooke|NS|Canada|CA
+Tancook Island|NS|Canada|CA
+Tangier|NS|Canada|CA
+West Dover|NS|Canada|CA
+Western Shore|NS|Canada|CA
+Barneys River Station|NS|Canada|CA
+Eureka|NS|Canada|CA
+Hopewell|NS|Canada|CA
+Malagash|NS|Canada|CA
+Merigomish|NS|Canada|CA
+Pictou|NS|Canada|CA
+Pictou Island|NS|Canada|CA
+Port Howe|NS|Canada|CA
+Pugwash|NS|Canada|CA
+Pugwash Junction|NS|Canada|CA
+River John|NS|Canada|CA
+Salt Springs Pictou|NS|Canada|CA
+Scotsburn|NS|Canada|CA
+Stellarton|NS|Canada|CA
+Sunnybrae|NS|Canada|CA
+Tatamagouche|NS|Canada|CA
+Thorburn|NS|Canada|CA
+Trenton|NS|Canada|CA
+Wallace|NS|Canada|CA
+West River Station|NS|Canada|CA
+Westville|NS|Canada|CA
+Joggins|NS|Canada|CA
+Maccan|NS|Canada|CA
+Nappan|NS|Canada|CA
+Northport|NS|Canada|CA
+River Hebert|NS|Canada|CA
+River Hebert East|NS|Canada|CA
+Advocate Harbour|NS|Canada|CA
+Bass River|NS|Canada|CA
+Belmont|NS|Canada|CA
+Collingwood Corner|NS|Canada|CA
+Debert|NS|Canada|CA
+Diligent River|NS|Canada|CA
+Economy|NS|Canada|CA
+Five Islands|NS|Canada|CA
+Great Village|NS|Canada|CA
+Londonderry|NS|Canada|CA
+Lower Five Islands|NS|Canada|CA
+Oxford|NS|Canada|CA
+Oxford Junction|NS|Canada|CA
+Parrsboro|NS|Canada|CA
+Port Greville|NS|Canada|CA
+River Philip|NS|Canada|CA
+Southampton|NS|Canada|CA
+Springhill|NS|Canada|CA
+Wentworth|NS|Canada|CA
+Westchester Station|NS|Canada|CA
+Brookfield|NS|Canada|CA
+Centre Burlington|NS|Canada|CA
+Cheverie|NS|Canada|CA
+Currys Corner|NS|Canada|CA
+Densmores Mills|NS|Canada|CA
+Elderbank|NS|Canada|CA
+Ellershouse|NS|Canada|CA
+Kennetcook|NS|Canada|CA
+Maitland|NS|Canada|CA
+Meaghers Grant|NS|Canada|CA
+Micmac|NS|Canada|CA
+Middle Musquodoboit|NS|Canada|CA
+Milford Station|NS|Canada|CA
+Mount Uniacke|NS|Canada|CA
+Newport|NS|Canada|CA
+Newport Station|NS|Canada|CA
+Noel|NS|Canada|CA
+Ste Croix|NS|Canada|CA
+Scotch Village|NS|Canada|CA
+Shubenacadie|NS|Canada|CA
+Stewiacke|NS|Canada|CA
+Summerville|NS|Canada|CA
+Upper Kennetcook|NS|Canada|CA
+Upper Musquodoboit|NS|Canada|CA
+Upper Rawdon|NS|Canada|CA
+Upper Stewiacke|NS|Canada|CA
+Walton|NS|Canada|CA
+Waverley|NS|Canada|CA
+Windsor|NS|Canada|CA
+Auburn|NS|Canada|CA
+Avonport|NS|Canada|CA
+Aylesford|NS|Canada|CA
+Berwick|NS|Canada|CA
+Cambridge Station|NS|Canada|CA
+Canning|NS|Canada|CA
+Centreville|NS|Canada|CA
+Falmouth|NS|Canada|CA
+Grand Pre|NS|Canada|CA
+Greenwood|NS|Canada|CA
+Hantsport|NS|Canada|CA
+Kingston|NS|Canada|CA
+Port Williams|NS|Canada|CA
+Waterville|NS|Canada|CA
+Wilmot Station|NS|Canada|CA
+Barss Corners|NS|Canada|CA
+La Have|NS|Canada|CA
+New Germany|NS|Canada|CA
+Pleasantville|NS|Canada|CA
+Springfield|NS|Canada|CA
+Annapolis Royal|NS|Canada|CA
+Bear River|NS|Canada|CA
+Bridgetown|NS|Canada|CA
+Clementsport|NS|Canada|CA
+Clementsvale|NS|Canada|CA
+Cornwallis|NS|Canada|CA
+Deep Brook|NS|Canada|CA
+Granville Ferry|NS|Canada|CA
+Hampton|NS|Canada|CA
+Lawrencetown|NS|Canada|CA
+Margaretsville|NS|Canada|CA
+Middleton|NS|Canada|CA
+Paradise|NS|Canada|CA
+Smiths Cove|NS|Canada|CA
+Caledonia|NS|Canada|CA
+Greenfield|NS|Canada|CA
+Hunts Point|NS|Canada|CA
+Ingomar|NS|Canada|CA
+Jordan Falls|NS|Canada|CA
+Liverpool|NS|Canada|CA
+Lockeport|NS|Canada|CA
+Lydgate|NS|Canada|CA
+Maitland Bridge|NS|Canada|CA
+Milton|NS|Canada|CA
+Osborne Harbour|NS|Canada|CA
+Port Joli|NS|Canada|CA
+Port Mouton|NS|Canada|CA
+Sable River|NS|Canada|CA
+Shelburne|NS|Canada|CA
+South Brookfield|NS|Canada|CA
+Digby|NS|Canada|CA
+Freeport|NS|Canada|CA
+Little River|NS|Canada|CA
+Sandy Cove|NS|Canada|CA
+Tiverton|NS|Canada|CA
+Westport|NS|Canada|CA
+Arcadia|NS|Canada|CA
+Baccaro|NS|Canada|CA
+Barrington|NS|Canada|CA
+Barrington Passage|NS|Canada|CA
+Barton|NS|Canada|CA
+Belliveau Cove|NS|Canada|CA
+Cape Negro|NS|Canada|CA
+Carleton|NS|Canada|CA
+Church Point|NS|Canada|CA
+Clam Point|NS|Canada|CA
+Clarks Harbour|NS|Canada|CA
+Clyde River|NS|Canada|CA
+Crowell|NS|Canada|CA
+East Baccaro|NS|Canada|CA
+Glenwood|NS|Canada|CA
+Hebron|NS|Canada|CA
+Kemptville|NS|Canada|CA
+Little Brook|NS|Canada|CA
+Lower East Pubnico|NS|Canada|CA
+Lower Wedgeport|NS|Canada|CA
+Lower West Pubnico|NS|Canada|CA
+Lower Woods Harbour|NS|Canada|CA
+McGray|NS|Canada|CA
+Mavillette|NS|Canada|CA
+Meteghan|NS|Canada|CA
+Meteghan Centre|NS|Canada|CA
+Meteghan River|NS|Canada|CA
+Middle West Pubnico|NS|Canada|CA
+North East Point|NS|Canada|CA
+Plympton|NS|Canada|CA
+Port Clyde|NS|Canada|CA
+Port la Tour|NS|Canada|CA
+Port Maitland|NS|Canada|CA
+Pubnico|NS|Canada|CA
+Ste-Anne-du-Ruisseau|NS|Canada|CA
+Salmon River|NS|Canada|CA
+Saulnierville|NS|Canada|CA
+Shag Harbour|NS|Canada|CA
+Smithsville|NS|Canada|CA
+South Ohio|NS|Canada|CA
+Stoney Island|NS|Canada|CA
+Thomasville|NS|Canada|CA
+Tusket|NS|Canada|CA
+Upper Port la Tour|NS|Canada|CA
+Wedgeport|NS|Canada|CA
+West Pubnico|NS|Canada|CA
+Weymouth|NS|Canada|CA
+Glace Bay|NS|Canada|CA
+Donkin|NS|Canada|CA
+Port Caledonia|NS|Canada|CA
+Port Morien|NS|Canada|CA
+Tower Road|NS|Canada|CA
+Birch Grove|NS|Canada|CA
+Broughton|NS|Canada|CA
+Round Island|NS|Canada|CA
+Homeville|NS|Canada|CA
+South Head|NS|Canada|CA
+Black Brook|NS|Canada|CA
+Louisbourg|NS|Canada|CA
+Catalone|NS|Canada|CA
+Little Lorraine|NS|Canada|CA
+Bateston|NS|Canada|CA
+Main-A-Dieu|NS|Canada|CA
+Catalone Gut|NS|Canada|CA
+Fortress of Louisbourg|NS|Canada|CA
+Reserve Mines|NS|Canada|CA
+Dominion|NS|Canada|CA
+River Ryan|NS|Canada|CA
+Scotchtown|NS|Canada|CA
+New Waterford|NS|Canada|CA
+New Victoria|NS|Canada|CA
+Lingan|NS|Canada|CA
+Gardiner Mines|NS|Canada|CA
+East Bay|NS|Canada|CA
+Northside East Bay|NS|Canada|CA
+Islandview|NS|Canada|CA
+Ben Eoin|NS|Canada|CA
+St Andrews Channel|NS|Canada|CA
+Big Pond|NS|Canada|CA
+Enon|NS|Canada|CA
+Big Pond Centre|NS|Canada|CA
+Middle Cape|NS|Canada|CA
+Irishvale|NS|Canada|CA
+Irish Cove|NS|Canada|CA
+Marion Bridge|NS|Canada|CA
+Juniper Mountain|NS|Canada|CA
+Grand Mira South|NS|Canada|CA
+Upper Grand Mira|NS|Canada|CA
+Grand Mira North|NS|Canada|CA
+Huntington|NS|Canada|CA
+Rock Elm|NS|Canada|CA
+Sandfield|NS|Canada|CA
+Big Ridge|NS|Canada|CA
+French Road|NS|Canada|CA
+Gabarus|NS|Canada|CA
+Gabarus Lake|NS|Canada|CA
+Albert Bridge|NS|Canada|CA
+Mira Gut|NS|Canada|CA
+Sydney Forks|NS|Canada|CA
+Sydney|NS|Canada|CA
+Portage|NS|Canada|CA
+Blacketts Lake|NS|Canada|CA
+Coxheath|NS|Canada|CA
+Howie Center|NS|Canada|CA
+Prime Brook|NS|Canada|CA
+Dutch Brook|NS|Canada|CA
+Carabou Marsh|NS|Canada|CA
+Caribou Marsh|NS|Canada|CA
+Mira Road|NS|Canada|CA
+South Bar|NS|Canada|CA
+Victoria Mines|NS|Canada|CA
+Lingan Road|NS|Canada|CA
+Westmount|NS|Canada|CA
+Sydney River|NS|Canada|CA
+Christmas Island|NS|Canada|CA
+Grand Narrows|NS|Canada|CA
+Big Beach|NS|Canada|CA
+Pipers Cove|NS|Canada|CA
+Benacadie|NS|Canada|CA
+Castle Bay|NS|Canada|CA
+Shenacadie|NS|Canada|CA
+Beaver Cove|NS|Canada|CA
+Sydney Mines|NS|Canada|CA
+Eskasoni|NS|Canada|CA
+Big Bras d'Or|NS|Canada|CA
+Black Rock|NS|Canada|CA
+Boularderie East|NS|Canada|CA
+Boularderie Center|NS|Canada|CA
+Ross Ferry|NS|Canada|CA
+Kempt Head|NS|Canada|CA
+New Harris|NS|Canada|CA
+New Campbellton|NS|Canada|CA
+Cape Dauphin|NS|Canada|CA
+Alder Point|NS|Canada|CA
+Florence|NS|Canada|CA
+Little Pond|NS|Canada|CA
+Mill Creek|NS|Canada|CA
+Georges River|NS|Canada|CA
+Point Aconi|NS|Canada|CA
+Groves Point|NS|Canada|CA
+Bras d'Or|NS|Canada|CA
+Millville|NS|Canada|CA
+Dalem Lake|NS|Canada|CA
+Southside Boularderie|NS|Canada|CA
+Hillside Boularderie|NS|Canada|CA
+Little Bras d'Or|NS|Canada|CA
+Scotch Lake|NS|Canada|CA
+Long Island|NS|Canada|CA
+Barrachois|NS|Canada|CA
+Ironville|NS|Canada|CA
+Boisdale|NS|Canada|CA
+North Sydney|NS|Canada|CA
+Leitches Creek|NS|Canada|CA
+North West ARM|NS|Canada|CA
+Upper North Sydney|NS|Canada|CA
+Upper Leitches Creek|NS|Canada|CA
+Frenchvale|NS|Canada|CA
+Beechmont|NS|Canada|CA
+Macadams Lake|NS|Canada|CA
+Gillis Lake|NS|Canada|CA
+Balls Creek|NS|Canada|CA
+Point Edward|NS|Canada|CA
+Edwardsville|NS|Canada|CA
+Iona|NS|Canada|CA
+Grass Cove|NS|Canada|CA
+Jamesville|NS|Canada|CA
+Barra Glen|NS|Canada|CA
+Mackinnons Harbour|NS|Canada|CA
+Highland Hill|NS|Canada|CA
+Red Point|NS|Canada|CA
+Ottawa Brook|NS|Canada|CA
+St Columba|NS|Canada|CA
+Gillis Point|NS|Canada|CA
+Washabuck Centre|NS|Canada|CA
+Upper Washabuck|NS|Canada|CA
+Lower Washabuck|NS|Canada|CA
+Loch Lomond|NS|Canada|CA
+Lake Uist|NS|Canada|CA
+Antigonish|NS|Canada|CA
+New Glasgow|NS|Canada|CA
+Fourchu|NS|Canada|CA
+Framboise|NS|Canada|CA
+Framboise Intervale|NS|Canada|CA
+Stirling|NS|Canada|CA
+Truro|NS|Canada|CA
+Elmsdale|NS|Canada|CA
+Lantz|NS|Canada|CA
+Dutch Settlement|NS|Canada|CA
+Belnan|NS|Canada|CA
+Nine Mile River|NS|Canada|CA
+Upper Nine Mile River|NS|Canada|CA
+East Gore|NS|Canada|CA
+Barr Settlement|NS|Canada|CA
+Lake Fletcher|NS|Canada|CA
+Wellington|NS|Canada|CA
+Windsor Junction|NS|Canada|CA
+Enfield|NS|Canada|CA
+Oakfield|NS|Canada|CA
+Grand Lake|NS|Canada|CA
+Goffs|NS|Canada|CA
+Oldham|NS|Canada|CA
+Fall River|NS|Canada|CA
+Dartmouth|NS|Canada|CA
+Cole Harbour|NS|Canada|CA
+Westphal|NS|Canada|CA
+North Preston|NS|Canada|CA
+Cherry Brook|NS|Canada|CA
+East Preston|NS|Canada|CA
+Mineville|NS|Canada|CA
+East Lawrencetown|NS|Canada|CA
+Lake Echo|NS|Canada|CA
+Porters Lake|NS|Canada|CA
+Middle Porters Lake|NS|Canada|CA
+West Porters Lake|NS|Canada|CA
+Eastern Passage|NS|Canada|CA
+Halifax|NS|Canada|CA
+Lakeside|NS|Canada|CA
+Beechville|NS|Canada|CA
+Timberlea|NS|Canada|CA
+Goodwood|NS|Canada|CA
+Hatchet Lake|NS|Canada|CA
+Brookside|NS|Canada|CA
+Whites Lake|NS|Canada|CA
+Terence Bay River|NS|Canada|CA
+Terence Bay|NS|Canada|CA
+Lower Prospect|NS|Canada|CA
+Shad Bay|NS|Canada|CA
+Prospect Bay|NS|Canada|CA
+Prospect|NS|Canada|CA
+Prospect Village|NS|Canada|CA
+Harrietsfield|NS|Canada|CA
+Williamswood|NS|Canada|CA
+Sambro|NS|Canada|CA
+Fergusons Cove|NS|Canada|CA
+Herring Cove|NS|Canada|CA
+Halibut Bay|NS|Canada|CA
+Bear Cove|NS|Canada|CA
+Portuguese Cove|NS|Canada|CA
+Duncan Cove|NS|Canada|CA
+Ketch Harbour|NS|Canada|CA
+Bald Rock|NS|Canada|CA
+Sambro Head|NS|Canada|CA
+East Pennant|NS|Canada|CA
+Sambro Creek|NS|Canada|CA
+West Pennant|NS|Canada|CA
+Hubley|NS|Canada|CA
+Lewis Lake|NS|Canada|CA
+Upper Tantallon|NS|Canada|CA
+Stillwater Lake|NS|Canada|CA
+Hammonds Plains|NS|Canada|CA
+Bayside|NS|Canada|CA
+Blind Bay|NS|Canada|CA
+McGraths Cove|NS|Canada|CA
+Tantallon|NS|Canada|CA
+Glen Margaret|NS|Canada|CA
+Glen Haven|NS|Canada|CA
+French Village|NS|Canada|CA
+Seabright|NS|Canada|CA
+Hacketts Cove|NS|Canada|CA
+Indian Harbour|NS|Canada|CA
+Peggys Cove|NS|Canada|CA
+East Dover|NS|Canada|CA
+Ingramport|NS|Canada|CA
+Bedford|NS|Canada|CA
+Lucasville|NS|Canada|CA
+Lower Sackville|NS|Canada|CA
+Lakeview|NS|Canada|CA
+Beaver Bank|NS|Canada|CA
+Middle Sackville|NS|Canada|CA
+Upper Sackville|NS|Canada|CA
+Kinsac|NS|Canada|CA
+Amherst|NS|Canada|CA
+Kentville|NS|Canada|CA
+New Minas|NS|Canada|CA
+Wolfville|NS|Canada|CA
+Coldbrook|NS|Canada|CA
+Bridgewater|NS|Canada|CA
+Yarmouth|NS|Canada|CA
+Port Hawkesbury|NS|Canada|CA
+Long Point|NS|Canada|CA
+Craigmore|NS|Canada|CA
+Creignish|NS|Canada|CA
+Troy|NS|Canada|CA
+Newtown|NS|Canada|CA
+Port Hastings|NS|Canada|CA
+Queensville|NS|Canada|CA
+Lexington|NS|Canada|CA
+Mackdale|NS|Canada|CA
+Sugar Camp|NS|Canada|CA
+Askilton|NS|Canada|CA
+Crandall Road|NS|Canada|CA
+Pleasant Hill|NS|Canada|CA
+Melville|NS|Canada|CA
+Point Tupper|NS|Canada|CA
+Port Malcolm|NS|Canada|CA
+Belfast|PE|Canada|CA
+Belle River|PE|Canada|CA
+Bonshaw|PE|Canada|CA
+Breadalbane|PE|Canada|CA
+Cardigan|PE|Canada|CA
+Cornwall|PE|Canada|CA
+Crapaud|PE|Canada|CA
+Elmira|PE|Canada|CA
+Georgetown|PE|Canada|CA
+Green Gables|PE|Canada|CA
+Hunter River|PE|Canada|CA
+York|PE|Canada|CA
+Montague|PE|Canada|CA
+Morell|PE|Canada|CA
+Mount Stewart|PE|Canada|CA
+Murray Harbour|PE|Canada|CA
+Murray River|PE|Canada|CA
+North Rustico|PE|Canada|CA
+North Wiltshire|PE|Canada|CA
+Pownal|PE|Canada|CA
+St-Peters Bay|PE|Canada|CA
+Souris|PE|Canada|CA
+Vernon Bridge|PE|Canada|CA
+Victoria|PE|Canada|CA
+Wood Islands|PE|Canada|CA
+Albany|PE|Canada|CA
+Alberton|PE|Canada|CA
+Bedeque|PE|Canada|CA
+Bloomfield Station|PE|Canada|CA
+Central Bedeque|PE|Canada|CA
+Coleman|PE|Canada|CA
+Ellerslie|PE|Canada|CA
+Elmsdale|PE|Canada|CA
+Freetown|PE|Canada|CA
+Kensington|PE|Canada|CA
+Kinkora|PE|Canada|CA
+Lennox Island|PE|Canada|CA
+Miminegash|PE|Canada|CA
+Miscouche|PE|Canada|CA
+O'Leary|PE|Canada|CA
+Port Borden|PE|Canada|CA
+Richmond|PE|Canada|CA
+St-Louis|PE|Canada|CA
+Slemon Park|PE|Canada|CA
+Tignish|PE|Canada|CA
+Tyne Valley|PE|Canada|CA
+Wellington Station|PE|Canada|CA
+Charlottetown|PE|Canada|CA
+Stratford|PE|Canada|CA
+Winsloe|PE|Canada|CA
+Summerside|PE|Canada|CA
+Dieppe|NB|Canada|CA
+Moncton|NB|Canada|CA
+Riverview|NB|Canada|CA
+Lutes Mountain|NB|Canada|CA
+Berry Mills|NB|Canada|CA
+Indian Mountain|NB|Canada|CA
+Gallagher Ridge|NB|Canada|CA
+New Scotland|NB|Canada|CA
+Stilesville|NB|Canada|CA
+Dundas|NB|Canada|CA
+Ammon|NB|Canada|CA
+Gladeside|NB|Canada|CA
+Steeves Mountain|NB|Canada|CA
+Boundary Creek|NB|Canada|CA
+Allison|NB|Canada|CA
+Lakeville-Westmorland|NB|Canada|CA
+Irishtown|NB|Canada|CA
+Saint-Philippe|NB|Canada|CA
+Scotch Settlement|NB|Canada|CA
+Greater Lakeburn|NB|Canada|CA
+Meadow Brook|NB|Canada|CA
+Calhoun|NB|Canada|CA
+Macdougall Settlement|NB|Canada|CA
+Lower Coverdale|NB|Canada|CA
+Berryton|NB|Canada|CA
+Pine Glen|NB|Canada|CA
+Stoney Creek|NB|Canada|CA
+Turtle Creek|NB|Canada|CA
+Upper Coverdale|NB|Canada|CA
+Miramichi|NB|Canada|CA
+Napan|NB|Canada|CA
+Miramichi Bay|NB|Canada|CA
+Laketon|NB|Canada|CA
+St Margarets|NB|Canada|CA
+Redmondville|NB|Canada|CA
+Glenwood|NB|Canada|CA
+Bay du Vin|NB|Canada|CA
+Black River Bridge|NB|Canada|CA
+Gardiner Point|NB|Canada|CA
+South Nelson|NB|Canada|CA
+Barnaby|NB|Canada|CA
+Eel Ground|NB|Canada|CA
+Strathadam|NB|Canada|CA
+Whitney|NB|Canada|CA
+South Esk|NB|Canada|CA
+Beaverbrook|NB|Canada|CA
+Bellefond|NB|Canada|CA
+Chaplin Island Road|NB|Canada|CA
+Maple Glen|NB|Canada|CA
+Derby Junction|NB|Canada|CA
+Lower Derby|NB|Canada|CA
+Millerton|NB|Canada|CA
+Derby|NB|Canada|CA
+Bryenton|NB|Canada|CA
+Parker Road|NB|Canada|CA
+Williamstown|NB|Canada|CA
+Little Bartibog|NB|Canada|CA
+Russellville|NB|Canada|CA
+Bartibog|NB|Canada|CA
+Lower Newcastle|NB|Canada|CA
+Bartibog Bridge|NB|Canada|CA
+Oak Point|NB|Canada|CA
+Caraquet|NB|Canada|CA
+Bertrand|NB|Canada|CA
+Bas-Caraquet|NB|Canada|CA
+Pokesudie|NB|Canada|CA
+Tracadie-Sheila|NB|Canada|CA
+Val Comeau|NB|Canada|CA
+Tracadie Beach|NB|Canada|CA
+Pointe des Robichaud|NB|Canada|CA
+Pont Lafrance|NB|Canada|CA
+Leech|NB|Canada|CA
+Haut Sheila|NB|Canada|CA
+St Pons|NB|Canada|CA
+Benoit|NB|Canada|CA
+St Irenee|NB|Canada|CA
+Pointe A Bouleau|NB|Canada|CA
+Canton des Basques|NB|Canada|CA
+Saumarez|NB|Canada|CA
+Alderwood|NB|Canada|CA
+Riviere A la Truite|NB|Canada|CA
+Gauvreau|NB|Canada|CA
+Petit Tracadie|NB|Canada|CA
+Losier Settlement|NB|Canada|CA
+Pont Landry|NB|Canada|CA
+Sainte Rose|NB|Canada|CA
+Six Roads|NB|Canada|CA
+Four Roads|NB|Canada|CA
+Pointe a Tom|NB|Canada|CA
+Pointe a Bouleau|NB|Canada|CA
+Bathurst|NB|Canada|CA
+North Tetagouche|NB|Canada|CA
+South Tetagouche|NB|Canada|CA
+Janeville|NB|Canada|CA
+Canobie|NB|Canada|CA
+Pokeshaw|NB|Canada|CA
+Rocheville|NB|Canada|CA
+Clifton|NB|Canada|CA
+Stonehaven|NB|Canada|CA
+New Bandon Gloucester Co|NB|Canada|CA
+Middle River|NB|Canada|CA
+Salmon Beach|NB|Canada|CA
+Black Rock|NB|Canada|CA
+Rough Waters|NB|Canada|CA
+Chamberlain Settlement|NB|Canada|CA
+Gloucester Junction|NB|Canada|CA
+Little River Gloucester Co|NB|Canada|CA
+Big River|NB|Canada|CA
+Pabineau Falls|NB|Canada|CA
+Brunswick Mines|NB|Canada|CA
+Nepisiguit Falls|NB|Canada|CA
+Rio Grande|NB|Canada|CA
+Sainte-Anne Gloucester Co|NB|Canada|CA
+Rosehill|NB|Canada|CA
+Tetagouche Falls|NB|Canada|CA
+Pabineau First Nation|NB|Canada|CA
+Quispamsis|NB|Canada|CA
+Rothesay|NB|Canada|CA
+Fairvale|NB|Canada|CA
+Saint John|NB|Canada|CA
+Renforth|NB|Canada|CA
+Mispec|NB|Canada|CA
+Upper Golden Grove|NB|Canada|CA
+Willow Grove|NB|Canada|CA
+Clover Valley|NB|Canada|CA
+Garnett Settlement|NB|Canada|CA
+Black River|NB|Canada|CA
+Gardner Creek|NB|Canada|CA
+Rowley|NB|Canada|CA
+Upper Loch Lomond|NB|Canada|CA
+Baxters Corner|NB|Canada|CA
+Oromocto|NB|Canada|CA
+Swan Creek|NB|Canada|CA
+Burton|NB|Canada|CA
+Geary|NB|Canada|CA
+Haneytown|NB|Canada|CA
+Waterville-Sunbury|NB|Canada|CA
+French Lake|NB|Canada|CA
+Fredericton|NB|Canada|CA
+McLeod Hill|NB|Canada|CA
+Royal Road|NB|Canada|CA
+Estey's Bridge|NB|Canada|CA
+Kingsley|NB|Canada|CA
+Birdton|NB|Canada|CA
+Hamtown Corner|NB|Canada|CA
+Richibucto Road|NB|Canada|CA
+Noonan|NB|Canada|CA
+Douglas|NB|Canada|CA
+Lower St Marys|NB|Canada|CA
+Maugerville|NB|Canada|CA
+Sheffield|NB|Canada|CA
+Penniac|NB|Canada|CA
+Mount Hope|NB|Canada|CA
+Killarney Road|NB|Canada|CA
+Burpee|NB|Canada|CA
+Lincoln|NB|Canada|CA
+Waasis|NB|Canada|CA
+Nasonworth|NB|Canada|CA
+Beaver Dam|NB|Canada|CA
+Rusagonis|NB|Canada|CA
+New Maryland|NB|Canada|CA
+Hanwell|NB|Canada|CA
+Charters Settlement|NB|Canada|CA
+Island View|NB|Canada|CA
+Lower Kingsclear|NB|Canada|CA
+French Village-York|NB|Canada|CA
+Kingsclear First Nation|NB|Canada|CA
+Upper Kingsclear|NB|Canada|CA
+Mazerolle Settlement|NB|Canada|CA
+St Stephen|NB|Canada|CA
+Dufferin Charlotte Co|NB|Canada|CA
+Upper Mills|NB|Canada|CA
+Valley Road|NB|Canada|CA
+Crocker Hill|NB|Canada|CA
+Oak Haven|NB|Canada|CA
+Oak Bay|NB|Canada|CA
+Waweig|NB|Canada|CA
+Little Ridge|NB|Canada|CA
+St David Ridge|NB|Canada|CA
+Old Ridge|NB|Canada|CA
+Basswood Ridge|NB|Canada|CA
+Hayman Hill|NB|Canada|CA
+Heathland|NB|Canada|CA
+Mayfield|NB|Canada|CA
+Scotch Ridge|NB|Canada|CA
+Pomeroy Ridge|NB|Canada|CA
+Barter Settlement|NB|Canada|CA
+Burnt Hill|NB|Canada|CA
+Mohannes|NB|Canada|CA
+Campbellton|NB|Canada|CA
+Atholville|NB|Canada|CA
+Tide Head|NB|Canada|CA
+Glencoe|NB|Canada|CA
+Squaw Cap|NB|Canada|CA
+Dawsonville|NB|Canada|CA
+Glenlevit|NB|Canada|CA
+Mann's Mountain|NB|Canada|CA
+Flatlands|NB|Canada|CA
+Robinsonville|NB|Canada|CA
+Val-d'Amour|NB|Canada|CA
+Saint-Arthur|NB|Canada|CA
+McLeods|NB|Canada|CA
+Dalhousie Junction|NB|Canada|CA
+Point la Nim|NB|Canada|CA
+Upsalquitch|NB|Canada|CA
+Wyers Brook|NB|Canada|CA
+Edmundston|NB|Canada|CA
+Verret|NB|Canada|CA
+St-Hilaire|NB|Canada|CA
+Grand Falls|NB|Canada|CA
+Saint-Andre|NB|Canada|CA
+Dsl de Saint-Andre|NB|Canada|CA
+Drummond|NB|Canada|CA
+Dsl de Drummond|NB|Canada|CA
+Grand-Sault/Grand Falls|NB|Canada|CA
+Dsl de Grand-Sault/Falls|NB|Canada|CA
+California Settlement|NB|Canada|CA
+Morrell Siding|NB|Canada|CA
+Four Falls|NB|Canada|CA
+Hardwood Ridge|NB|Canada|CA
+Immigrant Road|NB|Canada|CA
+Upper Salmon Creek|NB|Canada|CA
+North Forks|NB|Canada|CA
+Briggs Corner Queens Co|NB|Canada|CA
+Gaspereau Forks|NB|Canada|CA
+Salmon River Road|NB|Canada|CA
+Chipman|NB|Canada|CA
+Iron Bound Cove|NB|Canada|CA
+Midland Queens Co|NB|Canada|CA
+Red Bank Queens Co|NB|Canada|CA
+Bronson Settlement|NB|Canada|CA
+Dufferin Queens Co|NB|Canada|CA
+Coal Creek|NB|Canada|CA
+Cumberland Bay|NB|Canada|CA
+Ripples|NB|Canada|CA
+Albrights Corner|NB|Canada|CA
+New Zion|NB|Canada|CA
+Wuhrs Beach|NB|Canada|CA
+Lakeville Corner|NB|Canada|CA
+Maquapit Lake|NB|Canada|CA
+Clarks Corner|NB|Canada|CA
+Douglas Harbour|NB|Canada|CA
+Scotchtown|NB|Canada|CA
+Princess Park|NB|Canada|CA
+Sunnyside Beach|NB|Canada|CA
+Sypher Cove|NB|Canada|CA
+Little River Hill|NB|Canada|CA
+Flowers Cove|NB|Canada|CA
+Old Avon|NB|Canada|CA
+Printz Cove|NB|Canada|CA
+Newcastle Creek|NB|Canada|CA
+Newcastle Centre|NB|Canada|CA
+Minto|NB|Canada|CA
+Evans Road|NB|Canada|CA
+Slope|NB|Canada|CA
+New England Settlement|NB|Canada|CA
+New Avon|NB|Canada|CA
+Pondstream|NB|Canada|CA
+Waterborough|NB|Canada|CA
+Codys|NB|Canada|CA
+Salmon Creek|NB|Canada|CA
+Long Creek|NB|Canada|CA
+Highfield|NB|Canada|CA
+Coles Island Queens Co|NB|Canada|CA
+Cambridge-Narrows|NB|Canada|CA
+Youngs Cove|NB|Canada|CA
+Wickham|NB|Canada|CA
+Picketts Cove|NB|Canada|CA
+Mill Cove|NB|Canada|CA
+Whites Cove|NB|Canada|CA
+Hunters Home|NB|Canada|CA
+Jemseg|NB|Canada|CA
+Lower Cambridge|NB|Canada|CA
+Big Cove Queens Co|NB|Canada|CA
+Sussex|NB|Canada|CA
+Lower Cove|NB|Canada|CA
+Sussex Corner|NB|Canada|CA
+Sussex South|NB|Canada|CA
+Poodiac|NB|Canada|CA
+Wards Creek|NB|Canada|CA
+Picadilly|NB|Canada|CA
+Dutch Valley|NB|Canada|CA
+Southfield|NB|Canada|CA
+Waterford|NB|Canada|CA
+Cedar Camp|NB|Canada|CA
+Chambers Settlement|NB|Canada|CA
+Donegal|NB|Canada|CA
+Ratter Corner|NB|Canada|CA
+Drurys Cove|NB|Canada|CA
+Mechanic Settlement|NB|Canada|CA
+Cassidy Lake|NB|Canada|CA
+Four Corners|NB|Canada|CA
+Mill Brook|NB|Canada|CA
+Sussex East|NB|Canada|CA
+Hammondvale|NB|Canada|CA
+South Branch Kings Co|NB|Canada|CA
+Springdale|NB|Canada|CA
+Vinegar Hill|NB|Canada|CA
+Hillsdale|NB|Canada|CA
+Jeffries Corner|NB|Canada|CA
+Walker Settlement|NB|Canada|CA
+Lisson Settlement|NB|Canada|CA
+Markhamville|NB|Canada|CA
+New Line|NB|Canada|CA
+Parlee Brook|NB|Canada|CA
+Little Salmon River West|NB|Canada|CA
+Shepody Kings Co|NB|Canada|CA
+Penobsquis|NB|Canada|CA
+Clover Hill|NB|Canada|CA
+Head of Millstream|NB|Canada|CA
+Dubee Settlement|NB|Canada|CA
+Carsonville|NB|Canada|CA
+Mount Hebron|NB|Canada|CA
+Jordan Mountain|NB|Canada|CA
+Knightville|NB|Canada|CA
+Mount Pisgah|NB|Canada|CA
+Mount Middleton|NB|Canada|CA
+Roachville|NB|Canada|CA
+Newtown|NB|Canada|CA
+Summerfield Kings Co|NB|Canada|CA
+Dunsinane|NB|Canada|CA
+Perry Settlement|NB|Canada|CA
+Plumweseep|NB|Canada|CA
+Whites Mountain|NB|Canada|CA
+Smiths Creek|NB|Canada|CA
+Rosevale|NB|Canada|CA
+Riverside-Albert|NB|Canada|CA
+Caledonia Mountain|NB|Canada|CA
+Alma|NB|Canada|CA
+New Horton|NB|Canada|CA
+Dawson Settlement|NB|Canada|CA
+Edgetts Landing|NB|Canada|CA
+Albert Mines|NB|Canada|CA
+Baltimore|NB|Canada|CA
+Cape Station|NB|Canada|CA
+Curryville|NB|Canada|CA
+Salem|NB|Canada|CA
+Hillsborough|NB|Canada|CA
+Hebron|NB|Canada|CA
+Dennis Beach|NB|Canada|CA
+Germantown|NB|Canada|CA
+Beaverbrook Albert Co|NB|Canada|CA
+West River|NB|Canada|CA
+Hopewell Hill|NB|Canada|CA
+Harvey Albert Co|NB|Canada|CA
+Midway|NB|Canada|CA
+Hopewell Cape|NB|Canada|CA
+Lower Cape|NB|Canada|CA
+Osborne Corner|NB|Canada|CA
+Hillsborough West|NB|Canada|CA
+Shenstone|NB|Canada|CA
+Shepody Albert Co|NB|Canada|CA
+Waterside|NB|Canada|CA
+Weldon|NB|Canada|CA
+Fundy National Park|NB|Canada|CA
+Colpitts Settlement|NB|Canada|CA
+Salisbury|NB|Canada|CA
+Little River Albert Co|NB|Canada|CA
+Lewis Mountain|NB|Canada|CA
+Parkindale|NB|Canada|CA
+Monteagle|NB|Canada|CA
+Second North River|NB|Canada|CA
+The Glades|NB|Canada|CA
+Salisbury West|NB|Canada|CA
+Memramcook|NB|Canada|CA
+Taylor Village|NB|Canada|CA
+Dorchester|NB|Canada|CA
+Cherry Burton|NB|Canada|CA
+Sackville Road|NB|Canada|CA
+Fairfield Westmorland Co|NB|Canada|CA
+Middleton|NB|Canada|CA
+Dorchester Cape|NB|Canada|CA
+Johnson's Mills|NB|Canada|CA
+Rockport|NB|Canada|CA
+Upper Dorchester|NB|Canada|CA
+Upper Rockport|NB|Canada|CA
+Memramcook East|NB|Canada|CA
+Sackville|NB|Canada|CA
+Upper Sackville|NB|Canada|CA
+Midgic|NB|Canada|CA
+Cookville|NB|Canada|CA
+Centre Village|NB|Canada|CA
+Anderson Settlement|NB|Canada|CA
+Frosty Hollow|NB|Canada|CA
+Westcock|NB|Canada|CA
+British Settlement|NB|Canada|CA
+Wood Point|NB|Canada|CA
+Aulac|NB|Canada|CA
+Point de Bute|NB|Canada|CA
+Jolicure|NB|Canada|CA
+Middle Sackville|NB|Canada|CA
+Bayfield|NB|Canada|CA
+Murray Corner|NB|Canada|CA
+Port Elgin|NB|Canada|CA
+Baie Verte|NB|Canada|CA
+Coburg|NB|Canada|CA
+Johnston Point|NB|Canada|CA
+Cape Spear|NB|Canada|CA
+Little Shemogue|NB|Canada|CA
+Mates Corner|NB|Canada|CA
+Upper Cape|NB|Canada|CA
+Malden|NB|Canada|CA
+Melrose|NB|Canada|CA
+Cape Tormentine|NB|Canada|CA
+Timber River|NB|Canada|CA
+Otter Creek|NB|Canada|CA
+Woodside|NB|Canada|CA
+Bas-Cap-Pele|NB|Canada|CA
+Cap-Pele|NB|Canada|CA
+Portage|NB|Canada|CA
+Petit-Cap|NB|Canada|CA
+Shemogue|NB|Canada|CA
+Trois-Ruisseaux|NB|Canada|CA
+Scoudouc|NB|Canada|CA
+Shediac|NB|Canada|CA
+Pointe-du-Chene|NB|Canada|CA
+Shediac Cape|NB|Canada|CA
+Scoudouc Road|NB|Canada|CA
+Grand-Barachois|NB|Canada|CA
+Cormier-Village|NB|Canada|CA
+Haute-Aboujagane|NB|Canada|CA
+Saint-Andre-Leblanc|NB|Canada|CA
+Boudreau-Ouest|NB|Canada|CA
+Shediac River|NB|Canada|CA
+Shediac Bridge|NB|Canada|CA
+Grande-Digue|NB|Canada|CA
+Shediac Bridge-Shediac River|NB|Canada|CA
+Cocagne|NB|Canada|CA
+Sainte-Anne-de-Kent|NB|Canada|CA
+Sainte-Marie-de-Kent|NB|Canada|CA
+Bouctouche|NB|Canada|CA
+Saint-Maurice|NB|Canada|CA
+Saint-Joseph-de-Kent|NB|Canada|CA
+Saint-Norbert|NB|Canada|CA
+Bouctouche Sud|NB|Canada|CA
+Pointe Dixon Point|NB|Canada|CA
+Bouctouche Reserve|NB|Canada|CA
+Bouctouche Cove|NB|Canada|CA
+McIntosh Hill|NB|Canada|CA
+Baie de Bouctouche|NB|Canada|CA
+Saint-Edouard-de-Kent|NB|Canada|CA
+Saint-Thomas-de-Kent|NB|Canada|CA
+Ste-Anne-de-Kent|NB|Canada|CA
+Ste-Marie-de-Kent|NB|Canada|CA
+Bass River|NB|Canada|CA
+Smith's Corner|NB|Canada|CA
+Main River|NB|Canada|CA
+Targettville|NB|Canada|CA
+Browns Yard|NB|Canada|CA
+Fords Mills|NB|Canada|CA
+Cails Mills|NB|Canada|CA
+Canaan Station|NB|Canada|CA
+Hebert|NB|Canada|CA
+Birch Ridge|NB|Canada|CA
+Adamsville|NB|Canada|CA
+Coal Branch|NB|Canada|CA
+Clairville|NB|Canada|CA
+Beersville|NB|Canada|CA
+Harcourt|NB|Canada|CA
+Saint-Paul|NB|Canada|CA
+Saint-Antoine|NB|Canada|CA
+Notre-Dame|NB|Canada|CA
+Saint-Antoine Sud|NB|Canada|CA
+McKees Mills|NB|Canada|CA
+Saint-Gregoire|NB|Canada|CA
+Renauds Mills|NB|Canada|CA
+St-Antoine Nord|NB|Canada|CA
+Haut-Saint-Antoine|NB|Canada|CA
+Pelerin|NB|Canada|CA
+Saint-Damien|NB|Canada|CA
+Saint-Antoine-de-Kent|NB|Canada|CA
+Saint-Charles|NB|Canada|CA
+Richibouctou-Village|NB|Canada|CA
+Galloway|NB|Canada|CA
+Indian Island|NB|Canada|CA
+Rexton|NB|Canada|CA
+Jardineville|NB|Canada|CA
+Childs Creek|NB|Canada|CA
+East Branch|NB|Canada|CA
+Mundleville|NB|Canada|CA
+Big Cove|NB|Canada|CA
+Upper Rexton|NB|Canada|CA
+West Branch|NB|Canada|CA
+South Branch Kent Co|NB|Canada|CA
+Ford Bank|NB|Canada|CA
+Pine Ridge|NB|Canada|CA
+Balla Philip|NB|Canada|CA
+Richibucto|NB|Canada|CA
+Aldouane|NB|Canada|CA
+Richibucto-Village|NB|Canada|CA
+Saint-Louis-de-Kent|NB|Canada|CA
+Portage St-Louis|NB|Canada|CA
+Kouchibouguac|NB|Canada|CA
+Canisto|NB|Canada|CA
+Saint-Louis|NB|Canada|CA
+Saint-Ignace|NB|Canada|CA
+Kouchibouguac National Park|NB|Canada|CA
+Rogersville|NB|Canada|CA
+Rogersville-Ouest|NB|Canada|CA
+Collette|NB|Canada|CA
+Rogersville-Est|NB|Canada|CA
+Acadieville|NB|Canada|CA
+Rosaireville|NB|Canada|CA
+Acadie Siding|NB|Canada|CA
+Kent Junction|NB|Canada|CA
+Noinville|NB|Canada|CA
+Murray Settlement|NB|Canada|CA
+Anagance|NB|Canada|CA
+Cornhill|NB|Canada|CA
+Elgin|NB|Canada|CA
+Havelock|NB|Canada|CA
+Dobson Corner|NB|Canada|CA
+Prosser Brook|NB|Canada|CA
+Glenvale|NB|Canada|CA
+Harewood|NB|Canada|CA
+Steeves Settlement|NB|Canada|CA
+Kinnear Settlement|NB|Canada|CA
+Fawcett Hill|NB|Canada|CA
+Killams Mills|NB|Canada|CA
+Pollett River|NB|Canada|CA
+Portage Vale|NB|Canada|CA
+River Glade|NB|Canada|CA
+Petitcodiac East|NB|Canada|CA
+Petitcodiac|NB|Canada|CA
+South Canaan|NB|Canada|CA
+Wheaton Settlement|NB|Canada|CA
+Intervale|NB|Canada|CA
+Hicksville|NB|Canada|CA
+Mannhurst|NB|Canada|CA
+Hillgrove|NB|Canada|CA
+Canaan Forks|NB|Canada|CA
+New Canaan|NB|Canada|CA
+Forest Glen|NB|Canada|CA
+Lawrence Station|NB|Canada|CA
+Oak Hill|NB|Canada|CA
+Tower Hill|NB|Canada|CA
+Johnson Settlement Charlotte C|NB|Canada|CA
+Rollingdam|NB|Canada|CA
+Moores Mills|NB|Canada|CA
+Andersonville|NB|Canada|CA
+Baillie|NB|Canada|CA
+Canoose|NB|Canada|CA
+Dewolfe|NB|Canada|CA
+Elmsville|NB|Canada|CA
+Honeydale|NB|Canada|CA
+Lynnfield|NB|Canada|CA
+Leverville|NB|Canada|CA
+Pleasant Ridge Char County|NB|Canada|CA
+St Andrews|NB|Canada|CA
+Chamcook|NB|Canada|CA
+Bayside|NB|Canada|CA
+Bartletts Mills|NB|Canada|CA
+Bocabec|NB|Canada|CA
+St George|NB|Canada|CA
+Canal|NB|Canada|CA
+Bonny River|NB|Canada|CA
+Second Falls|NB|Canada|CA
+Lee Settlement|NB|Canada|CA
+Breadalbane|NB|Canada|CA
+Bethel|NB|Canada|CA
+Digdeguash|NB|Canada|CA
+Letang|NB|Canada|CA
+Back Bay|NB|Canada|CA
+Upper Letang|NB|Canada|CA
+Utopia|NB|Canada|CA
+L'Etete|NB|Canada|CA
+Mascarene|NB|Canada|CA
+Caithness|NB|Canada|CA
+Welshpool|NB|Canada|CA
+Wilsons Beach|NB|Canada|CA
+Grand Manan|NB|Canada|CA
+White Head Island|NB|Canada|CA
+White Head|NB|Canada|CA
+Blacks Harbour|NB|Canada|CA
+Beaver Harbour|NB|Canada|CA
+Pennfield|NB|Canada|CA
+Seeleys Cove|NB|Canada|CA
+Pocologan|NB|Canada|CA
+Lepreau|NB|Canada|CA
+New River Beach|NB|Canada|CA
+Little Lepreau|NB|Canada|CA
+Musquash|NB|Canada|CA
+Maces Bay|NB|Canada|CA
+Dipper Harbour|NB|Canada|CA
+Chance Harbour|NB|Canada|CA
+Prince of Wales|NB|Canada|CA
+Grand Bay-Westfield|NB|Canada|CA
+Woodmans Point|NB|Canada|CA
+Nerepis|NB|Canada|CA
+Welsford|NB|Canada|CA
+Clarendon|NB|Canada|CA
+Lower Greenwich|NB|Canada|CA
+Public Landing|NB|Canada|CA
+Morrisdale|NB|Canada|CA
+Tracy|NB|Canada|CA
+Three Tree Creek|NB|Canada|CA
+Upper Tracy|NB|Canada|CA
+Vespra|NB|Canada|CA
+Tracyville|NB|Canada|CA
+Hoyt|NB|Canada|CA
+Central Blissville|NB|Canada|CA
+Fredericton Junction|NB|Canada|CA
+Wirral|NB|Canada|CA
+South Oromocto Lake|NB|Canada|CA
+Gagetown|NB|Canada|CA
+Upper Gagetown|NB|Canada|CA
+Glenwood Kings Co|NB|Canada|CA
+Oak Point Kings Co|NB|Canada|CA
+Upper Hampstead|NB|Canada|CA
+Elm Hill|NB|Canada|CA
+Pleasant Villa|NB|Canada|CA
+Queenstown|NB|Canada|CA
+Central Hampstead|NB|Canada|CA
+Hampstead|NB|Canada|CA
+Browns Flat|NB|Canada|CA
+Evandale|NB|Canada|CA
+Central Greenwich|NB|Canada|CA
+Kingston|NB|Canada|CA
+Hampton|NB|Canada|CA
+Erbs Cove|NB|Canada|CA
+Barnesville|NB|Canada|CA
+Long Point|NB|Canada|CA
+Nauwigewauk|NB|Canada|CA
+Passekeag|NB|Canada|CA
+Damascus|NB|Canada|CA
+Upperton|NB|Canada|CA
+Upham|NB|Canada|CA
+Salt Springs|NB|Canada|CA
+Titusville|NB|Canada|CA
+Smithtown|NB|Canada|CA
+Hanford Brook|NB|Canada|CA
+Bloomfield Kings Co|NB|Canada|CA
+Grove Hill|NB|Canada|CA
+Darlings Island|NB|Canada|CA
+Lakeside|NB|Canada|CA
+Lower Norton|NB|Canada|CA
+French Village Kings Co|NB|Canada|CA
+Apohaqui|NB|Canada|CA
+Belleisle Creek|NB|Canada|CA
+Berwick|NB|Canada|CA
+Erb Settlement|NB|Canada|CA
+Snider Mountain|NB|Canada|CA
+Collina|NB|Canada|CA
+Pearsonville|NB|Canada|CA
+Kierstead Mountain|NB|Canada|CA
+Marrtown|NB|Canada|CA
+Riverbank South|NB|Canada|CA
+Pleasant Ridge Kings Co|NB|Canada|CA
+Searsville|NB|Canada|CA
+Lower Millstream|NB|Canada|CA
+Parleeville|NB|Canada|CA
+Fairfield|NB|Canada|CA
+St Martins|NB|Canada|CA
+Orange Hill|NB|Canada|CA
+Bay View|NB|Canada|CA
+West Quaco|NB|Canada|CA
+Bains Corner|NB|Canada|CA
+Tynemouth Creek|NB|Canada|CA
+St Martins North|NB|Canada|CA
+Shanklin|NB|Canada|CA
+Summerville|NB|Canada|CA
+Bayswater|NB|Canada|CA
+Clifton Royal|NB|Canada|CA
+Carters Point|NB|Canada|CA
+Long Reach|NB|Canada|CA
+Norton|NB|Canada|CA
+Kars|NB|Canada|CA
+Keirsteadville|NB|Canada|CA
+Shannon|NB|Canada|CA
+Midland Kings Co|NB|Canada|CA
+Springfield Kings Co|NB|Canada|CA
+Hatfield Point|NB|Canada|CA
+Henderson Settlement|NB|Canada|CA
+Riverbank Kings Co|NB|Canada|CA
+Moosehorn Creek|NB|Canada|CA
+Lord's Cove|NB|Canada|CA
+Lambertville|NB|Canada|CA
+Hersonville|NB|Canada|CA
+Lambert's Cove|NB|Canada|CA
+Stuart Town|NB|Canada|CA
+Cummings Cove|NB|Canada|CA
+Northern Harbour|NB|Canada|CA
+Fairhaven|NB|Canada|CA
+Leonardville|NB|Canada|CA
+Hibernia Cove|NB|Canada|CA
+Calders Head|NB|Canada|CA
+Chocolate Cove|NB|Canada|CA
+Richardson|NB|Canada|CA
+Taxis River|NB|Canada|CA
+Parker Ridge|NB|Canada|CA
+Boiestown|NB|Canada|CA
+Bloomfield Ridge|NB|Canada|CA
+Astle|NB|Canada|CA
+Hayesville|NB|Canada|CA
+Holtville|NB|Canada|CA
+Stanley|NB|Canada|CA
+Woodlands|NB|Canada|CA
+Limekiln|NB|Canada|CA
+Currieburg|NB|Canada|CA
+Tay Creek|NB|Canada|CA
+Fredericksburg|NB|Canada|CA
+Cardigan|NB|Canada|CA
+Napadogan|NB|Canada|CA
+Tay Falls|NB|Canada|CA
+North Tay|NB|Canada|CA
+Giants Glen|NB|Canada|CA
+Cross Creek|NB|Canada|CA
+Williamsburg|NB|Canada|CA
+Ward Settlement|NB|Canada|CA
+Maple Grove|NB|Canada|CA
+Red Rock|NB|Canada|CA
+English Settlement|NB|Canada|CA
+Green Hill|NB|Canada|CA
+Maclaggan Bridge|NB|Canada|CA
+Taymouth|NB|Canada|CA
+Durham Bridge|NB|Canada|CA
+Nashwaak Village|NB|Canada|CA
+McGivney|NB|Canada|CA
+Nashwaak Bridge|NB|Canada|CA
+Zionville|NB|Canada|CA
+Wiggins Mill|NB|Canada|CA
+Staples Settlement|NB|Canada|CA
+Middle Hainesville|NB|Canada|CA
+Lower Hainesville|NB|Canada|CA
+Central Hainesville|NB|Canada|CA
+Greenhill Lake|NB|Canada|CA
+Upper Hainesville|NB|Canada|CA
+Upper Caverhill|NB|Canada|CA
+Hawkins Corner|NB|Canada|CA
+Maplewood|NB|Canada|CA
+Nortondale|NB|Canada|CA
+Millville|NB|Canada|CA
+Clarkville|NB|Canada|CA
+Howland Ridge|NB|Canada|CA
+Springfield York Co|NB|Canada|CA
+Brewers Mill|NB|Canada|CA
+Maple Ridge|NB|Canada|CA
+Nackawic|NB|Canada|CA
+Southampton|NB|Canada|CA
+Pokiok|NB|Canada|CA
+Hawkshaw|NB|Canada|CA
+Dumfries|NB|Canada|CA
+Barony|NB|Canada|CA
+Upper Queensbury|NB|Canada|CA
+Rossville|NB|Canada|CA
+Hartfield|NB|Canada|CA
+Campbell Settlement York Co|NB|Canada|CA
+Temperance Vale|NB|Canada|CA
+Central Waterville|NB|Canada|CA
+Dorrington Hill|NB|Canada|CA
+Johnson Settlement York Co|NB|Canada|CA
+Meductic|NB|Canada|CA
+Dow Settlement|NB|Canada|CA
+North Lake|NB|Canada|CA
+Temple|NB|Canada|CA
+Charlie Lake|NB|Canada|CA
+Ritchie|NB|Canada|CA
+Fosterville|NB|Canada|CA
+Canterbury|NB|Canada|CA
+Eel River Lake|NB|Canada|CA
+Forest City|NB|Canada|CA
+Marne|NB|Canada|CA
+Skiff Lake|NB|Canada|CA
+Hartin Settlement|NB|Canada|CA
+Dead Creek|NB|Canada|CA
+Scott Siding|NB|Canada|CA
+Green Mountain|NB|Canada|CA
+Pemberton Ridge|NB|Canada|CA
+Carrol Ridge|NB|Canada|CA
+McAdam|NB|Canada|CA
+St Croix|NB|Canada|CA
+Harvey Station|NB|Canada|CA
+Harvey York Co|NB|Canada|CA
+Brockway|NB|Canada|CA
+Flume Ridge|NB|Canada|CA
+Yoho|NB|Canada|CA
+Smithfield|NB|Canada|CA
+New Market|NB|Canada|CA
+Lake George|NB|Canada|CA
+Prince William|NB|Canada|CA
+Kings Landing Historical Settl|NB|Canada|CA
+Keswick Ridge|NB|Canada|CA
+Mactaquac|NB|Canada|CA
+Lower Queensbury|NB|Canada|CA
+Burtts Corner|NB|Canada|CA
+Zealand|NB|Canada|CA
+Bear Island|NB|Canada|CA
+Scotch Settlement York Co|NB|Canada|CA
+Scotch Lake|NB|Canada|CA
+Jewetts Mills|NB|Canada|CA
+Keswick|NB|Canada|CA
+Upper Keswick|NB|Canada|CA
+Saint-Francois-de-Madawaska|NB|Canada|CA
+Lac Baker|NB|Canada|CA
+Baker Brook|NB|Canada|CA
+Clair|NB|Canada|CA
+Saint-Jacques|NB|Canada|CA
+St-Joseph-de-Madawaska|NB|Canada|CA
+Saint-Basile|NB|Canada|CA
+Madawaska Maliseet Frst Nation|NB|Canada|CA
+Riviere-Verte|NB|Canada|CA
+Sainte-Anne-de-Madawaska|NB|Canada|CA
+St Leonard|NB|Canada|CA
+Notre Dame de Lourdes|NB|Canada|CA
+Siegas|NB|Canada|CA
+Saint-Leonard-Parent|NB|Canada|CA
+Plaster Rock|NB|Canada|CA
+Sisson Ridge|NB|Canada|CA
+Anfield|NB|Canada|CA
+New Denmark|NB|Canada|CA
+Wapske|NB|Canada|CA
+Everett|NB|Canada|CA
+McLaughlin|NB|Canada|CA
+Blue Mountain Bend|NB|Canada|CA
+Riley Brook|NB|Canada|CA
+Enterprise|NB|Canada|CA
+Hazeldean|NB|Canada|CA
+Lake Edward|NB|Canada|CA
+Blue Bell|NB|Canada|CA
+Burntland Brook|NB|Canada|CA
+Linton Corner|NB|Canada|CA
+Weaver|NB|Canada|CA
+Oxbow|NB|Canada|CA
+North View|NB|Canada|CA
+Odell|NB|Canada|CA
+Sisson Brook|NB|Canada|CA
+Crombie Settlement|NB|Canada|CA
+Three Brooks|NB|Canada|CA
+Nictau|NB|Canada|CA
+Two Brooks|NB|Canada|CA
+Maple View|NB|Canada|CA
+St Almo|NB|Canada|CA
+Anderson Road|NB|Canada|CA
+Muniac|NB|Canada|CA
+Aroostook|NB|Canada|CA
+Perth-Andover|NB|Canada|CA
+Aroostook Junction|NB|Canada|CA
+Tilley|NB|Canada|CA
+Tobique First Nation|NB|Canada|CA
+Beaconsfield|NB|Canada|CA
+Arthurette|NB|Canada|CA
+Lower Kintore|NB|Canada|CA
+Carlingford|NB|Canada|CA
+Medford|NB|Canada|CA
+Bairdsville|NB|Canada|CA
+Red Rapids|NB|Canada|CA
+Quaker Brook|NB|Canada|CA
+Craig Flats|NB|Canada|CA
+Hillandale|NB|Canada|CA
+Gladwyn|NB|Canada|CA
+Kilburn|NB|Canada|CA
+Kincardine|NB|Canada|CA
+Bon Accord|NB|Canada|CA
+Upper Kintore|NB|Canada|CA
+Tobique Narrows|NB|Canada|CA
+Leonard Colony|NB|Canada|CA
+Currie Siding|NB|Canada|CA
+Rowena|NB|Canada|CA
+River de Chute|NB|Canada|CA
+Tinker|NB|Canada|CA
+Bath|NB|Canada|CA
+Johnville|NB|Canada|CA
+Killoween|NB|Canada|CA
+Moose Mountain|NB|Canada|CA
+Upper Kent|NB|Canada|CA
+Maplehurst|NB|Canada|CA
+Beechwood|NB|Canada|CA
+Holmesville|NB|Canada|CA
+Piercemont|NB|Canada|CA
+Monquart|NB|Canada|CA
+Weston|NB|Canada|CA
+Centreville|NB|Canada|CA
+Avondale|NB|Canada|CA
+Good Corner|NB|Canada|CA
+Deerville|NB|Canada|CA
+Bloomfield Carleton Co|NB|Canada|CA
+Brookville|NB|Canada|CA
+Beckim Settlement|NB|Canada|CA
+Tracey Mills|NB|Canada|CA
+Charleston|NB|Canada|CA
+Williamstown Carleton Co|NB|Canada|CA
+Mount Delight|NB|Canada|CA
+Lakeville Carleton Co|NB|Canada|CA
+Long Settlement|NB|Canada|CA
+Royalton|NB|Canada|CA
+Lower Knoxford|NB|Canada|CA
+Summerfield Carleton Co|NB|Canada|CA
+East Centreville|NB|Canada|CA
+Gregg Settlement|NB|Canada|CA
+Upper Knoxford|NB|Canada|CA
+Hartley Settlement|NB|Canada|CA
+Lakeville|NB|Canada|CA
+Gordonsville|NB|Canada|CA
+Glassville|NB|Canada|CA
+Knowlesville|NB|Canada|CA
+Florenceville|NB|Canada|CA
+Juniper|NB|Canada|CA
+Divide|NB|Canada|CA
+Deersdale|NB|Canada|CA
+Greenfield|NB|Canada|CA
+Clearview|NB|Canada|CA
+Bristol|NB|Canada|CA
+Carlow|NB|Canada|CA
+Bristol Junction|NB|Canada|CA
+Fielding|NB|Canada|CA
+Mount Pleasant|NB|Canada|CA
+Wicklow|NB|Canada|CA
+Windsor|NB|Canada|CA
+Oakland|NB|Canada|CA
+West Florenceville|NB|Canada|CA
+Bannon|NB|Canada|CA
+East Coldstream|NB|Canada|CA
+Lansdowne|NB|Canada|CA
+Stickney|NB|Canada|CA
+Peel|NB|Canada|CA
+Riverbank Carleton Co|NB|Canada|CA
+Armond|NB|Canada|CA
+Woodstock|NB|Canada|CA
+Wakefield|NB|Canada|CA
+Beardsley|NB|Canada|CA
+Lower Woodstock|NB|Canada|CA
+Belleville|NB|Canada|CA
+Bedell|NB|Canada|CA
+Woodstock First Nation|NB|Canada|CA
+Jacksonville|NB|Canada|CA
+Upper Woodstock|NB|Canada|CA
+Jacksontown|NB|Canada|CA
+Lindsay|NB|Canada|CA
+Green Road|NB|Canada|CA
+Rosedale|NB|Canada|CA
+Mapledale|NB|Canada|CA
+Teeds Mills|NB|Canada|CA
+McKenzie Corner|NB|Canada|CA
+Richmond Corner|NB|Canada|CA
+Richmond Settlement|NB|Canada|CA
+Irish Settlement|NB|Canada|CA
+Campbell Settlement|NB|Canada|CA
+Hartford|NB|Canada|CA
+Red Bridge|NB|Canada|CA
+Oakville|NB|Canada|CA
+Jackson Falls|NB|Canada|CA
+Plymouth|NB|Canada|CA
+Grafton|NB|Canada|CA
+Northampton|NB|Canada|CA
+Newbridge|NB|Canada|CA
+East Newbridge|NB|Canada|CA
+Bull Lake|NB|Canada|CA
+Pembroke|NB|Canada|CA
+Speerville|NB|Canada|CA
+Newburg|NB|Canada|CA
+McKenna|NB|Canada|CA
+Debec|NB|Canada|CA
+Benton|NB|Canada|CA
+Kirkland|NB|Canada|CA
+Elmwood|NB|Canada|CA
+Union Corner|NB|Canada|CA
+Limestone|NB|Canada|CA
+Monument|NB|Canada|CA
+Maxwell|NB|Canada|CA
+Bulls Creek|NB|Canada|CA
+Flemington|NB|Canada|CA
+Oak Mountain|NB|Canada|CA
+Hay Settlement|NB|Canada|CA
+Riceville|NB|Canada|CA
+Lower Brighton|NB|Canada|CA
+Waterville Carleton Co|NB|Canada|CA
+Hartland|NB|Canada|CA
+Victoria Corner|NB|Canada|CA
+Mainstream|NB|Canada|CA
+Rockland|NB|Canada|CA
+East Brighton|NB|Canada|CA
+St Thomas|NB|Canada|CA
+Coldstream|NB|Canada|CA
+Cloverdale|NB|Canada|CA
+Carlisle|NB|Canada|CA
+Ashland|NB|Canada|CA
+Pole Hill|NB|Canada|CA
+Howard Brook|NB|Canada|CA
+Bubartown|NB|Canada|CA
+Upper Brighton|NB|Canada|CA
+Somerville|NB|Canada|CA
+Wilmot|NB|Canada|CA
+Connell|NB|Canada|CA
+Simonds|NB|Canada|CA
+Saint-Quentin|NB|Canada|CA
+Saint-Martin-de-Restigouche|NB|Canada|CA
+Kedgwick|NB|Canada|CA
+Kedgwick Ouest|NB|Canada|CA
+Kedgwick River|NB|Canada|CA
+Kedgwick Sud|NB|Canada|CA
+Kedgwick Nord|NB|Canada|CA
+St-Jean-Baptiste|NB|Canada|CA
+Adams Gulch|NB|Canada|CA
+Menneval|NB|Canada|CA
+Whites Brook|NB|Canada|CA
+Eel River Bar First Nation|NB|Canada|CA
+Dalhousie|NB|Canada|CA
+Balmoral|NB|Canada|CA
+Balmoral Estates|NB|Canada|CA
+Balmoral Sud|NB|Canada|CA
+Blair Athol|NB|Canada|CA
+Saint-Maure|NB|Canada|CA
+Eel River Crossing|NB|Canada|CA
+Eel River Cove|NB|Canada|CA
+Dundee|NB|Canada|CA
+North Shannonvale|NB|Canada|CA
+Charlo|NB|Canada|CA
+Charlo South|NB|Canada|CA
+Blackland Restigouche Co|NB|Canada|CA
+Nash Creek|NB|Canada|CA
+New Mills|NB|Canada|CA
+Lorne|NB|Canada|CA
+Belledune|NB|Canada|CA
+Gravel Hill|NB|Canada|CA
+Benjamin River|NB|Canada|CA
+Black Point|NB|Canada|CA
+Sea Side|NB|Canada|CA
+Petit-Rocher-Sud|NB|Canada|CA
+Petit-Rocher|NB|Canada|CA
+Petit-Rocher-Ouest|NB|Canada|CA
+Laplante|NB|Canada|CA
+Alcida|NB|Canada|CA
+Dauversiere|NB|Canada|CA
+Petit-Rocher-Nord|NB|Canada|CA
+Madran|NB|Canada|CA
+Pointe-Verte|NB|Canada|CA
+Tremblay|NB|Canada|CA
+Beresford|NB|Canada|CA
+Dunlop|NB|Canada|CA
+Robertville|NB|Canada|CA
+Sainte-Therese Sud|NB|Canada|CA
+Sainte-Louise|NB|Canada|CA
+Sormany|NB|Canada|CA
+Lugar|NB|Canada|CA
+Nicholas Denys|NB|Canada|CA
+Free Grant|NB|Canada|CA
+Sainte-Rosette|NB|Canada|CA
+Saint-Laurent|NB|Canada|CA
+Saint-Laurent Nord|NB|Canada|CA
+Nigadoo|NB|Canada|CA
+Allardville|NB|Canada|CA
+Saint-Sauveur|NB|Canada|CA
+Goodwin Mill|NB|Canada|CA
+Miramichi Road|NB|Canada|CA
+Poirier Subdivision|NB|Canada|CA
+Bois-Gagnon|NB|Canada|CA
+Saint-Isidore|NB|Canada|CA
+Hacheyville|NB|Canada|CA
+Duguayville|NB|Canada|CA
+Tilley Road|NB|Canada|CA
+Grande-Anse|NB|Canada|CA
+Dugas|NB|Canada|CA
+Village-des-Poirier|NB|Canada|CA
+Maisonnette|NB|Canada|CA
+Anse-Bleue|NB|Canada|CA
+Saint-Leolin|NB|Canada|CA
+Riviere du Nord|NB|Canada|CA
+Inkerman|NB|Canada|CA
+Maltempec|NB|Canada|CA
+Pokemouche|NB|Canada|CA
+Saint-Simon|NB|Canada|CA
+Village Blanchard|NB|Canada|CA
+Evangeline|NB|Canada|CA
+Inkerman Ferry|NB|Canada|CA
+Landry Office|NB|Canada|CA
+Paquetville|NB|Canada|CA
+Bas-Paquetville|NB|Canada|CA
+Petit-Paquetville|NB|Canada|CA
+Rang-Saint-Georges|NB|Canada|CA
+Notre-Dame-des-Erables|NB|Canada|CA
+Trudel|NB|Canada|CA
+Saint-Amateur|NB|Canada|CA
+Burnsville|NB|Canada|CA
+Haut-Paquetville|NB|Canada|CA
+Val-Doucet|NB|Canada|CA
+Bois-Blanc|NB|Canada|CA
+Shippagan|NB|Canada|CA
+Savoie Landing|NB|Canada|CA
+Chiasson Office|NB|Canada|CA
+Le Goulet|NB|Canada|CA
+Pointe-Brule|NB|Canada|CA
+Haut-Shippagan|NB|Canada|CA
+Pointe-Sauvage|NB|Canada|CA
+Baie de Petit-Pokemouche|NB|Canada|CA
+Lameque|NB|Canada|CA
+Miscou|NB|Canada|CA
+Sainte-Marie-Saint-Raphael|NB|Canada|CA
+Petite-Riviere-de-l'Ile|NB|Canada|CA
+Pointe-Alexandre|NB|Canada|CA
+Petite-Lameque|NB|Canada|CA
+Pigeon Hill|NB|Canada|CA
+Sainte-Cecile|NB|Canada|CA
+Petit-Shippagan|NB|Canada|CA
+Pointe-Canot|NB|Canada|CA
+Cap-Bateau|NB|Canada|CA
+Coteau Road|NB|Canada|CA
+Haut-Lameque|NB|Canada|CA
+Baie-Sainte-Anne|NB|Canada|CA
+Hardwicke|NB|Canada|CA
+Escuminac|NB|Canada|CA
+Pointe-Sapin|NB|Canada|CA
+Lockstead|NB|Canada|CA
+White Rapids|NB|Canada|CA
+Blackville|NB|Canada|CA
+Gray Rapids|NB|Canada|CA
+Bartholomew|NB|Canada|CA
+Cains River|NB|Canada|CA
+Arbeau Settlement|NB|Canada|CA
+Upper Blackville|NB|Canada|CA
+Smith Crossing|NB|Canada|CA
+Barnettville|NB|Canada|CA
+Howard|NB|Canada|CA
+Keenans|NB|Canada|CA
+Doaktown|NB|Canada|CA
+Blissfield|NB|Canada|CA
+Grand Lake Road|NB|Canada|CA
+New Bandon Northumb Co|NB|Canada|CA
+Bettsburg|NB|Canada|CA
+Weaver Siding|NB|Canada|CA
+Hazelton|NB|Canada|CA
+Storeytown|NB|Canada|CA
+Nelson Hollow|NB|Canada|CA
+McNamee|NB|Canada|CA
+Carrolls Crossing|NB|Canada|CA
+Porter Cove|NB|Canada|CA
+Ludlow|NB|Canada|CA
+Priceville|NB|Canada|CA
+Red Bank|NB|Canada|CA
+Red Bank Reserve|NB|Canada|CA
+Sunny Corner|NB|Canada|CA
+Boom Road|NB|Canada|CA
+Exmoor|NB|Canada|CA
+Big Hole|NB|Canada|CA
+Curventon|NB|Canada|CA
+Sevogle|NB|Canada|CA
+Trout Brook|NB|Canada|CA
+Wayerton|NB|Canada|CA
+Hilltop|NB|Canada|CA
+Lyttleton|NB|Canada|CA
+Sillikers|NB|Canada|CA
+Matthews Settlement|NB|Canada|CA
+Halcomb|NB|Canada|CA
+Warwick Settlement|NB|Canada|CA
+Cassillis|NB|Canada|CA
+Renous|NB|Canada|CA
+Pineville|NB|Canada|CA
+Chelmsford|NB|Canada|CA
+McKinleyville|NB|Canada|CA
+Doyles Brook|NB|Canada|CA
+Quarryville|NB|Canada|CA
+Upper Derby|NB|Canada|CA
+Neguac|NB|Canada|CA
+Stymiest|NB|Canada|CA
+Burnt Church First Nation|NB|Canada|CA
+Burnt Church|NB|Canada|CA
+Village-Saint-Laurent|NB|Canada|CA
+New Jersey|NB|Canada|CA
+Barryville|NB|Canada|CA
+Lagaceville|NB|Canada|CA
+Lavillette|NB|Canada|CA
+Saint-Wilfred|NB|Canada|CA
+Allainville|NB|Canada|CA
+Fairisle|NB|Canada|CA
+Caissie Road|NB|Canada|CA
+Robichaud Settlement|NB|Canada|CA
+Tabusintac|NB|Canada|CA
+Brantville|NB|Canada|CA
+Haut-Riviere-du-Portage|NB|Canada|CA
+Riviere-du-Portage|NB|Canada|CA
+Sainte-Christine-d'Auvergne|QC|Canada|CA
+Beaupre|QC|Canada|CA
+Boischatel|QC|Canada|CA
+Cap-Sante|QC|Canada|CA
+Chateau-Richer|QC|Canada|CA
+Courcelette|QC|Canada|CA
+Deschambault|QC|Canada|CA
+Donnacona|QC|Canada|CA
+Grondines|QC|Canada|CA
+Isle-aux-Coudres|QC|Canada|CA
+Jacques-Cartier|QC|Canada|CA
+La Baleine|QC|Canada|CA
+Lac-Beauport|QC|Canada|CA
+Lac-Sergent|QC|Canada|CA
+L'Ange Gardien|QC|Canada|CA
+Petite-Riviere-Saint-Francois|QC|Canada|CA
+Les Eboulements|QC|Canada|CA
+Neuville|QC|Canada|CA
+Portneuf|QC|Canada|CA
+Portneuf-Station|QC|Canada|CA
+Riviere-A-Pierre|QC|Canada|CA
+Saint-Alban|QC|Canada|CA
+Sainte-Anne-de-Beaupre|QC|Canada|CA
+Saint-Basile-de-Portneuf|QC|Canada|CA
+Saint-Basile-Station|QC|Canada|CA
+Saint-Bernard-sur-Mer|QC|Canada|CA
+Sainte-Brigitte-de-Laval|QC|Canada|CA
+Saint-Casimir|QC|Canada|CA
+Fossambault-sur-le-Lac|QC|Canada|CA
+Lac-Saint-Joseph|QC|Canada|CA
+Ste-Catherine-de-la-J-Cartier|QC|Canada|CA
+Sainte-Famille|QC|Canada|CA
+Saint-Ferreol-les-Neiges|QC|Canada|CA
+Saint-Francois-d'Orleans|QC|Canada|CA
+Saint-Gilbert|QC|Canada|CA
+Saint-Hilarion|QC|Canada|CA
+Saint-Jean-d'Orleans|QC|Canada|CA
+St-Joachim-de-Montmorency|QC|Canada|CA
+Saint-Joseph-de-la-Rive|QC|Canada|CA
+Saint-Laurent-l'Ile-d'Orleans|QC|Canada|CA
+Saint-Leonard-de-Portneuf|QC|Canada|CA
+Saint-Marc-des-Carrieres|QC|Canada|CA
+Sainte-Petronille|QC|Canada|CA
+Saint-Pierre-Ile-d'Orleans|QC|Canada|CA
+Saint-Thuribe|QC|Canada|CA
+Saint-Tite-des-Caps|QC|Canada|CA
+Saint-Urbain-de-Charlevoix|QC|Canada|CA
+Saint-Ubalde|QC|Canada|CA
+Shannon|QC|Canada|CA
+Lac-Delage|QC|Canada|CA
+Stoneham|QC|Canada|CA
+Saint-Gabriel-de-Valcartier|QC|Canada|CA
+Wendake|QC|Canada|CA
+Valcartier Bpm 210|QC|Canada|CA
+Bassin|QC|Canada|CA
+Cap-aux-Meules|QC|Canada|CA
+Entry Island|QC|Canada|CA
+L'Etang-du-Nord|QC|Canada|CA
+Fatima|QC|Canada|CA
+Grande-Entree|QC|Canada|CA
+Havre-Aubert|QC|Canada|CA
+Havre-aux-Maisons|QC|Canada|CA
+Leslie|QC|Canada|CA
+Pointe-aux-Loups|QC|Canada|CA
+Barachois|QC|Canada|CA
+Black Cape|QC|Canada|CA
+Bonaventure|QC|Canada|CA
+Cap-d'Espoir|QC|Canada|CA
+Caplan|QC|Canada|CA
+Carleton|QC|Canada|CA
+Chandler|QC|Canada|CA
+Pointe-A-la-Croix|QC|Canada|CA
+Escuminac|QC|Canada|CA
+Gascons|QC|Canada|CA
+Cascapedia-Saint-Jules|QC|Canada|CA
+Grande-Riviere|QC|Canada|CA
+Grande-Riviere-Ouest|QC|Canada|CA
+L'Alverne|QC|Canada|CA
+Maria|QC|Canada|CA
+New Carlisle|QC|Canada|CA
+Newport|QC|Canada|CA
+New Richmond|QC|Canada|CA
+Nouvelle|QC|Canada|CA
+Nouvelle-Ouest|QC|Canada|CA
+Pabos|QC|Canada|CA
+Pabos Mills|QC|Canada|CA
+Paspebiac|QC|Canada|CA
+Perce|QC|Canada|CA
+Pointe-A-la-Garde|QC|Canada|CA
+Port-Daniel|QC|Canada|CA
+Listuguj|QC|Canada|CA
+Riviere-Paspebiac|QC|Canada|CA
+Saint-Alphonse-de-Caplan|QC|Canada|CA
+Saint-Elzear-de-Bonaventure|QC|Canada|CA
+Saint-Georges-de-Malbaie|QC|Canada|CA
+Saint-Jogues|QC|Canada|CA
+Saint-Omer|QC|Canada|CA
+Saint-Simeon-de-Bonaventure|QC|Canada|CA
+Sainte-Therese-de-Gaspe|QC|Canada|CA
+Saint-Godefroi|QC|Canada|CA
+Shigawake|QC|Canada|CA
+Val-d'Espoir|QC|Canada|CA
+Cap-au-Renard|QC|Canada|CA
+Cloridorme|QC|Canada|CA
+Grande-Vallee|QC|Canada|CA
+Gros-Morne|QC|Canada|CA
+Madeleine-Centre|QC|Canada|CA
+Manche-d'Epee|QC|Canada|CA
+Marsoui|QC|Canada|CA
+Mont-Louis|QC|Canada|CA
+Mont-Saint-Pierre|QC|Canada|CA
+Murdochville|QC|Canada|CA
+Petite-Vallee|QC|Canada|CA
+Riviere-A-Claude|QC|Canada|CA
+Riviere-Madeleine|QC|Canada|CA
+Ruisseau-A-Rebours|QC|Canada|CA
+L'Anse-Pleureuse|QC|Canada|CA
+La Martre|QC|Canada|CA
+Aguanish|QC|Canada|CA
+Baie-Johan-Beetz|QC|Canada|CA
+Blanc-Sablon|QC|Canada|CA
+Brador|QC|Canada|CA
+Chevery|QC|Canada|CA
+Clarke City|QC|Canada|CA
+Fermont|QC|Canada|CA
+Gallix|QC|Canada|CA
+Gethsemani|QC|Canada|CA
+Harrington Harbour|QC|Canada|CA
+Havre-Saint-Pierre|QC|Canada|CA
+L'Ile-Michon|QC|Canada|CA
+Kegaska|QC|Canada|CA
+La Tabatiere|QC|Canada|CA
+Longue-Pointe-de-Mingan|QC|Canada|CA
+Lourdes-de-Blanc-Sablon|QC|Canada|CA
+Magpie|QC|Canada|CA
+Middle Bay|QC|Canada|CA
+Moisie|QC|Canada|CA
+Mutton Bay|QC|Canada|CA
+Natashquan|QC|Canada|CA
+Old Fort Bay|QC|Canada|CA
+Riviere-au-Tonnerre|QC|Canada|CA
+Riviere-Saint-Jean|QC|Canada|CA
+Riviere-Saint-Paul|QC|Canada|CA
+Saint-Augustin-Saguenay|QC|Canada|CA
+Schefferville|QC|Canada|CA
+Sheldrake|QC|Canada|CA
+Tete-A-la-Baleine|QC|Canada|CA
+Port-Menier|QC|Canada|CA
+Kawawachikamach|QC|Canada|CA
+Baie-Trinite|QC|Canada|CA
+Betsiamites|QC|Canada|CA
+Chute-aux-Outardes|QC|Canada|CA
+Franquelin|QC|Canada|CA
+Godbout|QC|Canada|CA
+Les Buissons|QC|Canada|CA
+Pointe-aux-Outardes|QC|Canada|CA
+Pointe-Lebel|QC|Canada|CA
+Riviere-Colombier|QC|Canada|CA
+Riviere-Pentecote|QC|Canada|CA
+Ragueneau|QC|Canada|CA
+Albertville|QC|Canada|CA
+Baie-des-Sables|QC|Canada|CA
+Cap-Chat|QC|Canada|CA
+Cap-Chat-Est|QC|Canada|CA
+Capucins|QC|Canada|CA
+Causapscal|QC|Canada|CA
+Grosses-Roches|QC|Canada|CA
+Lac-au-Saumon|QC|Canada|CA
+Lac-Humqui|QC|Canada|CA
+La Redemption|QC|Canada|CA
+L'Ascension-de-Patapedia|QC|Canada|CA
+Les Boules|QC|Canada|CA
+Les Mechins|QC|Canada|CA
+Matapedia|QC|Canada|CA
+Metis Beach|QC|Canada|CA
+Padoue|QC|Canada|CA
+Petit-Matane|QC|Canada|CA
+Price|QC|Canada|CA
+Routhierville|QC|Canada|CA
+Saint-Adelme|QC|Canada|CA
+Saint-Alexandre-des-Lacs|QC|Canada|CA
+Saint-Alexis-de-Matapedia|QC|Canada|CA
+Saint-Andre-de-Restigouche|QC|Canada|CA
+Sainte-Angele-de-Merici|QC|Canada|CA
+Saint-Damase-de-Matapedia|QC|Canada|CA
+Sainte-Felicite|QC|Canada|CA
+Sainte-Flavie|QC|Canada|CA
+Sainte-Florence|QC|Canada|CA
+Saint-Francois-d'Assise|QC|Canada|CA
+Ste-Irene-de-Matapedia|QC|Canada|CA
+Saint-Jean-de-Cherbourg|QC|Canada|CA
+Saint-Jean-de-Matapedia|QC|Canada|CA
+Ste-Jeanne-d'Arc-de-Matane|QC|Canada|CA
+Saint-Leandre|QC|Canada|CA
+Saint-Leon-le-Grand|QC|Canada|CA
+Saint-Luc-de-Matane|QC|Canada|CA
+Sainte-Marguerite-Marie|QC|Canada|CA
+Saint-Moise|QC|Canada|CA
+Saint-Noel|QC|Canada|CA
+St-Octave|QC|Canada|CA
+Sainte-Paule|QC|Canada|CA
+Saint-Rene-de-Matane|QC|Canada|CA
+Saint-Tharcisius|QC|Canada|CA
+Saint-Ulric|QC|Canada|CA
+Saint-Vianney|QC|Canada|CA
+Sayabec|QC|Canada|CA
+Val-Brillant|QC|Canada|CA
+Saint-Cleophas|QC|Canada|CA
+Esprit-Saint|QC|Canada|CA
+La Trinite-des-Monts|QC|Canada|CA
+Les Hauteurs|QC|Canada|CA
+Luceville|QC|Canada|CA
+Saint-Anaclet|QC|Canada|CA
+Sainte-Blandine|QC|Canada|CA
+Saint-Charles-Garnier|QC|Canada|CA
+Saint-Donat|QC|Canada|CA
+Saint-Gabriel-de-Rimouski|QC|Canada|CA
+Sainte-Luce|QC|Canada|CA
+Saint-Marcellin|QC|Canada|CA
+Saint-Narcisse-de-Rimouski|QC|Canada|CA
+Biencourt|QC|Canada|CA
+Lac-des-Aigles|QC|Canada|CA
+Saint-Guy|QC|Canada|CA
+Auclair|QC|Canada|CA
+Le Bic|QC|Canada|CA
+Cabano|QC|Canada|CA
+Cacouna|QC|Canada|CA
+Pohenegamook|QC|Canada|CA
+L'Isle-Verte|QC|Canada|CA
+L'Isle-Verte-Ouest|QC|Canada|CA
+Kamouraska|QC|Canada|CA
+Ladriere|QC|Canada|CA
+Lejeune|QC|Canada|CA
+Saint-Marc-du-Lac-Long|QC|Canada|CA
+Lots-Renverses|QC|Canada|CA
+Mont-Carmel|QC|Canada|CA
+Notre-Dame-du-Lac|QC|Canada|CA
+Notre-Dame-du-Portage|QC|Canada|CA
+Packington|QC|Canada|CA
+Riviere-Bleue|QC|Canada|CA
+Riviere-Ouelle|QC|Canada|CA
+Riviere-Trois-Pistoles|QC|Canada|CA
+Saint-Alexandre-de-Kamouraska|QC|Canada|CA
+Saint-Andre-de-Kamouraska|QC|Canada|CA
+Saint-Antonin|QC|Canada|CA
+Saint-Arsene|QC|Canada|CA
+St-Athanase|QC|Canada|CA
+Saint-Bruno-de-Kamouraska|QC|Canada|CA
+Saint-Clement|QC|Canada|CA
+Saint-Cyprien|QC|Canada|CA
+Saint-Denis-de-la-Bouteillerie|QC|Canada|CA
+Saint-Eloi|QC|Canada|CA
+Saint-Elzear-de-Temiscouata|QC|Canada|CA
+Saint-Epiphane|QC|Canada|CA
+Saint-Eusebe|QC|Canada|CA
+Saint-Fabien|QC|Canada|CA
+Sainte-Francoise|QC|Canada|CA
+Saint-Francois-Xavier-de-Viger|QC|Canada|CA
+St-Gabriel-de-Kamouraska|QC|Canada|CA
+Saint-Germain|QC|Canada|CA
+Sainte-Helene-de-Kamouraska|QC|Canada|CA
+Saint-Honore-de-Temiscouata|QC|Canada|CA
+Saint-Hubert-Riviere-du-Loup|QC|Canada|CA
+Saint-Jean-de-Dieu|QC|Canada|CA
+Saint-Jean-de-la-Lande|QC|Canada|CA
+Saint-Joseph-de-Kamouraska|QC|Canada|CA
+Saint-Juste-du-Lac|QC|Canada|CA
+Saint-Louis-du-Ha-Ha|QC|Canada|CA
+St-Mathieu|QC|Canada|CA
+Saint-Medard|QC|Canada|CA
+Saint-Modeste|QC|Canada|CA
+Saint-Pacome|QC|Canada|CA
+Saint-Pascal|QC|Canada|CA
+Saint-Paul-de-la-Croix|QC|Canada|CA
+Saint-Philippe-de-Neri|QC|Canada|CA
+Saint-Pierre-de-Lamy|QC|Canada|CA
+Saint-Simon-de-Rimouski|QC|Canada|CA
+Saint-Valerien-de-Rimouski|QC|Canada|CA
+Sainte-Rita|QC|Canada|CA
+Squatec|QC|Canada|CA
+Trois-Pistoles|QC|Canada|CA
+Saint-Martin|QC|Canada|CA
+Courcelles|QC|Canada|CA
+St-Jean-de-la-Lande-de-Beauce|QC|Canada|CA
+La Guadeloupe|QC|Canada|CA
+Lambton|QC|Canada|CA
+Saint-Come-Liniere|QC|Canada|CA
+Notre-Dame-des-Pins|QC|Canada|CA
+Saint-Simon-les-Mines|QC|Canada|CA
+Saint-Alfred|QC|Canada|CA
+Sainte-Aurelie|QC|Canada|CA
+Saint-Benjamin|QC|Canada|CA
+Saint-Benoit-Labre|QC|Canada|CA
+Saint-Ephrem-de-Beauce|QC|Canada|CA
+Saint-Evariste-de-Forsyth|QC|Canada|CA
+Saint-Gedeon-de-Beauce|QC|Canada|CA
+Saint-Honore-de-Shenley|QC|Canada|CA
+Saint-Ludger|QC|Canada|CA
+Saint-Philibert|QC|Canada|CA
+Saint-Prosper-de-Dorchester|QC|Canada|CA
+Saint-Rene|QC|Canada|CA
+Saint-Theophile|QC|Canada|CA
+Saint-Victor|QC|Canada|CA
+Saint-Zacharie|QC|Canada|CA
+Saint-Robert-Bellarmin|QC|Canada|CA
+Saint-Joseph-de-Coleraine|QC|Canada|CA
+Sainte-Clotilde-de-Beauce|QC|Canada|CA
+Disraeli|QC|Canada|CA
+East Broughton|QC|Canada|CA
+East Broughton Station|QC|Canada|CA
+Leeds Village|QC|Canada|CA
+Kinnear's Mills|QC|Canada|CA
+Pontbriand|QC|Canada|CA
+Robertsonville|QC|Canada|CA
+Saint-Adrien-d'Irlande|QC|Canada|CA
+Saint-Ferdinand|QC|Canada|CA
+Saint-Frederic|QC|Canada|CA
+Saint-Jules|QC|Canada|CA
+Adstock|QC|Canada|CA
+Saint-Pierre-de-Broughton|QC|Canada|CA
+Saint-Severin-de-Beauce|QC|Canada|CA
+Tring-Jonction|QC|Canada|CA
+Ham-Nord|QC|Canada|CA
+Norbertville|QC|Canada|CA
+Saint-Norbert-d'Arthabaska|QC|Canada|CA
+Notre-Dame-de-Ham|QC|Canada|CA
+Saint-Fortunat|QC|Canada|CA
+Sainte-Helene-de-Chester|QC|Canada|CA
+Chesterville|QC|Canada|CA
+Saint-Pierre-Baptiste|QC|Canada|CA
+Sainte-Sophie-d'Halifax|QC|Canada|CA
+Saint-Valere|QC|Canada|CA
+Armagh|QC|Canada|CA
+Barre|QC|Canada|CA
+Beaumont|QC|Canada|CA
+Berthier-sur-Mer|QC|Canada|CA
+Buckland|QC|Canada|CA
+Cap-Saint-Ignace|QC|Canada|CA
+Cap-Saint-Ignace-Station|QC|Canada|CA
+Dijon|QC|Canada|CA
+Frampton|QC|Canada|CA
+Honfleur|QC|Canada|CA
+L'Isle-aux-Grues|QC|Canada|CA
+Lac-Etchemin|QC|Canada|CA
+Lac-Frontiere|QC|Canada|CA
+La Durantaye|QC|Canada|CA
+Lamartine|QC|Canada|CA
+Sainte-Justine|QC|Canada|CA
+La Pocatiere|QC|Canada|CA
+La Pocatiere-Station|QC|Canada|CA
+L'Islet|QC|Canada|CA
+L'Isletville|QC|Canada|CA
+Morigeau|QC|Canada|CA
+Notre-Dame-du-Rosaire|QC|Canada|CA
+Panet|QC|Canada|CA
+Ravignan|QC|Canada|CA
+Saint-Adalbert|QC|Canada|CA
+Saint-Anselme|QC|Canada|CA
+Sainte-Apolline-de-Patton|QC|Canada|CA
+Saint-Aubert|QC|Canada|CA
+Saint-Camille-de-Bellechasse|QC|Canada|CA
+Saint-Charles-de-Bellechasse|QC|Canada|CA
+Sainte-Claire|QC|Canada|CA
+Saint-Cyrille-de-l'Islet|QC|Canada|CA
+Saint-Damase-des-Aulnaies|QC|Canada|CA
+Saint-Damien-de-Buckland|QC|Canada|CA
+Sainte-Euphemie|QC|Canada|CA
+St-Francois-Montmagny|QC|Canada|CA
+Ste-Germaine-Station|QC|Canada|CA
+Saint-Gervais|QC|Canada|CA
+Saint-Henri-de-Levis|QC|Canada|CA
+Saint-Jean-Port-Joli|QC|Canada|CA
+Saint-Just-de-Bretenieres|QC|Canada|CA
+Saint-Lazare-de-Bellechasse|QC|Canada|CA
+Sainte-Louise|QC|Canada|CA
+Sainte-Lucie-de-Beauregard|QC|Canada|CA
+Saint-Magloire|QC|Canada|CA
+Saint-Malachie|QC|Canada|CA
+St-Marcel-de-l'Islet|QC|Canada|CA
+Saint-Michel-de-Bellechasse|QC|Canada|CA
+St-Nazaire-de-Buckland|QC|Canada|CA
+Saint-Neree|QC|Canada|CA
+St-Onesime|QC|Canada|CA
+Saint-Pamphile|QC|Canada|CA
+Saint-Paul-de-Montminy|QC|Canada|CA
+Sainte-Perpetue-de-l'Islet|QC|Canada|CA
+Saint-Philemon|QC|Canada|CA
+Saint-Pierre-Montmagny|QC|Canada|CA
+Saint-Raphael|QC|Canada|CA
+Saint-Roch-des-Aulnaies|QC|Canada|CA
+Sainte-Rose-de-Watford|QC|Canada|CA
+Sainte-Sabine-de-Bellechasse|QC|Canada|CA
+Saint-Vallier|QC|Canada|CA
+Standon|QC|Canada|CA
+Tourville|QC|Canada|CA
+Sainte-Felicite-de-l'Islet|QC|Canada|CA
+Saint-Omer-l'Islet|QC|Canada|CA
+Saint-Patrice-de-Beaurivage|QC|Canada|CA
+Sainte-Helene-de-Breakeyville|QC|Canada|CA
+Deschaillons-sur-Saint-Laurent|QC|Canada|CA
+Dosquet|QC|Canada|CA
+Fortierville|QC|Canada|CA
+Inverness|QC|Canada|CA
+Issoudun|QC|Canada|CA
+Joly|QC|Canada|CA
+Laurier-Station|QC|Canada|CA
+Laurierville|QC|Canada|CA
+Lotbiniere|QC|Canada|CA
+Lourdes|QC|Canada|CA
+Lyster|QC|Canada|CA
+Saint-Narcisse-de-Beaurivage|QC|Canada|CA
+Parisville|QC|Canada|CA
+Saint-Edouard-de-Lotbiniere|QC|Canada|CA
+Saint-Agapit|QC|Canada|CA
+Sainte-Agathe-de-Lotbiniere|QC|Canada|CA
+Saint-Antoine-de-Tilly|QC|Canada|CA
+Saint-Apollinaire|QC|Canada|CA
+Saint-Bernard|QC|Canada|CA
+Sainte-Croix|QC|Canada|CA
+Saint-Elzear|QC|Canada|CA
+Leclercville|QC|Canada|CA
+Saint-Flavien|QC|Canada|CA
+Sainte-Francoise-de-Lotbiniere|QC|Canada|CA
+Saint-Gilles|QC|Canada|CA
+Sainte-Henedine|QC|Canada|CA
+Saint-Isidore|QC|Canada|CA
+Saint-Joseph-de-Beauce|QC|Canada|CA
+Saint-Lambert-de-Lauzon|QC|Canada|CA
+Ste-Marguerite-de-Dorchester|QC|Canada|CA
+Saint-Odilon|QC|Canada|CA
+Saint-Sylvestre|QC|Canada|CA
+Saints-Anges|QC|Canada|CA
+Scott|QC|Canada|CA
+Val-Alain|QC|Canada|CA
+Vallee-Jonction|QC|Canada|CA
+Villeroy|QC|Canada|CA
+Baie-Sainte-Catherine|QC|Canada|CA
+Forestville|QC|Canada|CA
+Grandes-Bergeronnes|QC|Canada|CA
+Les Escoumins|QC|Canada|CA
+Notre-Dame-des-Monts|QC|Canada|CA
+Riviere-Portneuf|QC|Canada|CA
+Saint-Aime-des-Lacs|QC|Canada|CA
+Saint-Irenee|QC|Canada|CA
+Saint-Simeon|QC|Canada|CA
+Sacre-Coeur-Saguenay|QC|Canada|CA
+Longue-Rive|QC|Canada|CA
+Tadoussac|QC|Canada|CA
+Alouette|QC|Canada|CA
+Begin|QC|Canada|CA
+Falardeau|QC|Canada|CA
+Saint-Charles-de-Bourget|QC|Canada|CA
+Ferland-Et-Boilleau|QC|Canada|CA
+L'Anse-Saint-Jean|QC|Canada|CA
+Saint-Honore-de-Chicoutimi|QC|Canada|CA
+Saint-Felix-d'Otis|QC|Canada|CA
+Petit-Saguenay|QC|Canada|CA
+Riviere-Eternite|QC|Canada|CA
+Saint-Fulgence|QC|Canada|CA
+Sainte-Rose-du-Nord|QC|Canada|CA
+Saint-Eugene-d'Argentenay|QC|Canada|CA
+Mistissini|QC|Canada|CA
+Boulanger|QC|Canada|CA
+Chambord|QC|Canada|CA
+Chapais|QC|Canada|CA
+Dalmas|QC|Canada|CA
+Saint-Francois-de-Sales|QC|Canada|CA
+Desbiens|QC|Canada|CA
+Saint-Thomas-Didyme|QC|Canada|CA
+Girardville|QC|Canada|CA
+Hebertville-Station|QC|Canada|CA
+Lac-Bouchette|QC|Canada|CA
+Lamarche|QC|Canada|CA
+L'Ascension-de-Notre-Seigneur|QC|Canada|CA
+Larouche|QC|Canada|CA
+Saint-Ludger-de-Milot|QC|Canada|CA
+Peribonka|QC|Canada|CA
+Mashteuiatsh|QC|Canada|CA
+Saint-Andre-du-Lac-Saint-Jean|QC|Canada|CA
+Saint-Bruno-Lac-Saint-Jean|QC|Canada|CA
+Saint-Edmond-les-Plaines|QC|Canada|CA
+Saint-Gedeon|QC|Canada|CA
+Sainte-Hedwidge-de-Roberval|QC|Canada|CA
+Labrecque|QC|Canada|CA
+Sainte-Monique-Lac-Saint-Jean|QC|Canada|CA
+St-Nazaire-du-Lac-St-Jean|QC|Canada|CA
+Taillon|QC|Canada|CA
+Obedjiwan|QC|Canada|CA
+Ouje-Bougoumou|QC|Canada|CA
+Batiscan|QC|Canada|CA
+Wolinak|QC|Canada|CA
+Champlain|QC|Canada|CA
+Charette|QC|Canada|CA
+Grandes-Piles|QC|Canada|CA
+Herouxville|QC|Canada|CA
+Lac-A-la-Tortue|QC|Canada|CA
+Lac-aux-Sables|QC|Canada|CA
+Saint-Mathieu-du-Parc|QC|Canada|CA
+La Croche|QC|Canada|CA
+Lemieux|QC|Canada|CA
+Manseau|QC|Canada|CA
+Montauban|QC|Canada|CA
+Montauban-Les-Mines|QC|Canada|CA
+Pointe-du-Lac|QC|Canada|CA
+Proulxville|QC|Canada|CA
+Riviere-Matawin|QC|Canada|CA
+Riviere-Mekinac|QC|Canada|CA
+Saint-Adelphe-de-Champlain|QC|Canada|CA
+Sainte-Anne-de-la-Perade|QC|Canada|CA
+St-Barnabe-Nord|QC|Canada|CA
+Saint-Boniface-de-Shawinigan|QC|Canada|CA
+Sainte-Cecile-de-Levrard|QC|Canada|CA
+Saint-Elie|QC|Canada|CA
+Saint-Etienne-des-Gres|QC|Canada|CA
+Sainte-Genevieve-de-Bastican|QC|Canada|CA
+Saint-Jean-des-Piles|QC|Canada|CA
+Sainte-Marie-de-Blandford|QC|Canada|CA
+Saint-Maurice|QC|Canada|CA
+Saint-Narcisse|QC|Canada|CA
+Saint-Pierre-les-Becquets|QC|Canada|CA
+Saint-Prosper|QC|Canada|CA
+Saint-Severe|QC|Canada|CA
+Sainte-Sophie-de-Levrard|QC|Canada|CA
+Saint-Stanislas-de-Champlain|QC|Canada|CA
+Sainte-Thecle|QC|Canada|CA
+Saint-Tite|QC|Canada|CA
+Notre-Dame-du-Mont-Carmel|QC|Canada|CA
+Saint-Luc-de-Vincennes|QC|Canada|CA
+Yamachiche|QC|Canada|CA
+Clova|QC|Canada|CA
+Lac-Edouard|QC|Canada|CA
+Parent|QC|Canada|CA
+Wemotaci|QC|Canada|CA
+Audet|QC|Canada|CA
+Beaulac|QC|Canada|CA
+Garthby|QC|Canada|CA
+Lac-Drolet|QC|Canada|CA
+Milan|QC|Canada|CA
+Marston|QC|Canada|CA
+Nantes|QC|Canada|CA
+Piopolis|QC|Canada|CA
+Sainte-Cecile-de-Whitton|QC|Canada|CA
+Saint-Romain|QC|Canada|CA
+Saint-Sebastien-de-Frontenac|QC|Canada|CA
+Stornoway|QC|Canada|CA
+Stratford|QC|Canada|CA
+Woburn|QC|Canada|CA
+Aston-Jonction|QC|Canada|CA
+Saint-Louis-de-Blandford|QC|Canada|CA
+Daveluyville|QC|Canada|CA
+Sainte-Anne-du-Sault|QC|Canada|CA
+Sainte-Eulalie|QC|Canada|CA
+Saint-Samuel-de-Horton|QC|Canada|CA
+Saint-Sylvere|QC|Canada|CA
+Saint-Wenceslas|QC|Canada|CA
+Saint-Rosaire|QC|Canada|CA
+Quebec|QC|Canada|CA
+Beauport|QC|Canada|CA
+Charlesbourg|QC|Canada|CA
+Vanier|QC|Canada|CA
+Sainte-Foy|QC|Canada|CA
+Sillery|QC|Canada|CA
+Cap-Rouge|QC|Canada|CA
+Loretteville|QC|Canada|CA
+L'Ancienne-Lorette|QC|Canada|CA
+Saint-Augustin-de-Desmaures|QC|Canada|CA
+Saint-Emile|QC|Canada|CA
+Lac-Saint-Charles|QC|Canada|CA
+Pont-Rouge|QC|Canada|CA
+Val-Belair|QC|Canada|CA
+Saint-Raymond|QC|Canada|CA
+Baie-Saint-Paul|QC|Canada|CA
+Clermont|QC|Canada|CA
+Sept-Iles|QC|Canada|CA
+Maliotenam|QC|Canada|CA
+Sainte-Anne-des-Monts|QC|Canada|CA
+Matane|QC|Canada|CA
+Gaspe|QC|Canada|CA
+Baie-Comeau|QC|Canada|CA
+La Malbaie|QC|Canada|CA
+Port-Cartier|QC|Canada|CA
+Mont-Joli|QC|Canada|CA
+St-Jean-Baptiste|QC|Canada|CA
+Saint-Joseph-de-Lepage|QC|Canada|CA
+Amqui|QC|Canada|CA
+Rimouski|QC|Canada|CA
+Rimouski-Est|QC|Canada|CA
+Sainte-Odile-sur-Rimouski|QC|Canada|CA
+Pointe-au-Pere|QC|Canada|CA
+Riviere-du-Loup|QC|Canada|CA
+Degelis|QC|Canada|CA
+Montmagny|QC|Canada|CA
+Beauceville|QC|Canada|CA
+Saint-Georges|QC|Canada|CA
+Aubert-Gallion|QC|Canada|CA
+Saint-Georges-Est|QC|Canada|CA
+Lac-Megantic|QC|Canada|CA
+Frontenac|QC|Canada|CA
+Pintendre|QC|Canada|CA
+Sainte-Marie|QC|Canada|CA
+Thetford Mines|QC|Canada|CA
+Black Lake|QC|Canada|CA
+Saint-Etienne-de-Lauzon|QC|Canada|CA
+Saint-Redempteur|QC|Canada|CA
+Plessisville|QC|Canada|CA
+Princeville|QC|Canada|CA
+Victoriaville|QC|Canada|CA
+Saint-Christophe-d'Arthabaska|QC|Canada|CA
+Levis|QC|Canada|CA
+St-Joseph-de-la-Pointe-de-Levy|QC|Canada|CA
+Saint-Romuald|QC|Canada|CA
+Charny|QC|Canada|CA
+Saint-Jean-Chrysostome|QC|Canada|CA
+Saint-Nicolas|QC|Canada|CA
+La Baie|QC|Canada|CA
+Chicoutimi|QC|Canada|CA
+Canton Tremblay|QC|Canada|CA
+Laterriere|QC|Canada|CA
+Shipshaw|QC|Canada|CA
+Saint-Ambroise|QC|Canada|CA
+Jonquiere|QC|Canada|CA
+Lac-Kenogami|QC|Canada|CA
+Alma|QC|Canada|CA
+Metabetchouan-Lac-a-la-Croix|QC|Canada|CA
+Roberval|QC|Canada|CA
+La Dore|QC|Canada|CA
+Saint-Prime|QC|Canada|CA
+Saint-Felicien|QC|Canada|CA
+Dolbeau-Mistassini|QC|Canada|CA
+Albanel|QC|Canada|CA
+Normandin|QC|Canada|CA
+Sainte-Elisabeth-de-Proulx|QC|Canada|CA
+Saint-Stanislas|QC|Canada|CA
+Hebertville|QC|Canada|CA
+Chibougamau|QC|Canada|CA
+Saint-Louis-de-France|QC|Canada|CA
+Cap-de-la-Madeleine|QC|Canada|CA
+Sainte-Marthe-du-Cap|QC|Canada|CA
+Trois-Rivieres|QC|Canada|CA
+Trois-Rivieres-Ouest|QC|Canada|CA
+Becancour|QC|Canada|CA
+Shawinigan|QC|Canada|CA
+Saint-Gerard-des-Laurentides|QC|Canada|CA
+Shawinigan-Sud|QC|Canada|CA
+Grand-Mere|QC|Canada|CA
+Saint-Georges-de-Champlain|QC|Canada|CA
+La Tuque|QC|Canada|CA
+Montreal|QC|Canada|CA
+Pointe-aux-Trembles|QC|Canada|CA
+Montreal-Est|QC|Canada|CA
+Anjou|QC|Canada|CA
+Montreal-Nord|QC|Canada|CA
+Saint-Leonard|QC|Canada|CA
+Outremont|QC|Canada|CA
+Mont-Royal|QC|Canada|CA
+Verdun|QC|Canada|CA
+Hampstead|QC|Canada|CA
+Cote Saint-Luc|QC|Canada|CA
+Westmount|QC|Canada|CA
+Montreal-Ouest|QC|Canada|CA
+Saint-Laurent|QC|Canada|CA
+Dorval|QC|Canada|CA
+Pointe-Claire|QC|Canada|CA
+Laval|QC|Canada|CA
+Vimont|QC|Canada|CA
+Sainte-Rose|QC|Canada|CA
+Pont-Viau|QC|Canada|CA
+Fabreville|QC|Canada|CA
+Laval-Ouest|QC|Canada|CA
+Chomedey|QC|Canada|CA
+Sainte-Dorothee|QC|Canada|CA
+Lasalle|QC|Canada|CA
+Lachine|QC|Canada|CA
+Roxboro|QC|Canada|CA
+Pierrefonds|QC|Canada|CA
+Dollard-des-Ormeaux|QC|Canada|CA
+L'Ile-Bizard|QC|Canada|CA
+Sainte-Genevieve|QC|Canada|CA
+Kirkland|QC|Canada|CA
+Beaconsfield|QC|Canada|CA
+Senneville|QC|Canada|CA
+Sainte-Anne-de-Bellevue|QC|Canada|CA
+Baie-d'Urfe|QC|Canada|CA
+Danville|QC|Canada|CA
+Kingsey Falls|QC|Canada|CA
+Saint-Adrien|QC|Canada|CA
+Saint-Albert|QC|Canada|CA
+Saint-Camille|QC|Canada|CA
+Sainte-Clotilde-de-Horton|QC|Canada|CA
+Saint-Georges-de-Windsor|QC|Canada|CA
+Saint-Remi-de-Tingwick|QC|Canada|CA
+Tingwick|QC|Canada|CA
+Warwick|QC|Canada|CA
+Wotton|QC|Canada|CA
+Ascot Corner|QC|Canada|CA
+Austin|QC|Canada|CA
+Ayer's Cliff|QC|Canada|CA
+Stanstead|QC|Canada|CA
+Bishopton|QC|Canada|CA
+Bromptonville|QC|Canada|CA
+Bury|QC|Canada|CA
+Chartierville|QC|Canada|CA
+Compton|QC|Canada|CA
+Cookshire|QC|Canada|CA
+Dixville|QC|Canada|CA
+East Angus|QC|Canada|CA
+Westbury|QC|Canada|CA
+East Hereford|QC|Canada|CA
+Georgeville|QC|Canada|CA
+Katevale|QC|Canada|CA
+Kingsbury|QC|Canada|CA
+La Patrie|QC|Canada|CA
+Martinville|QC|Canada|CA
+Canton Melbourne|QC|Canada|CA
+Richmond|QC|Canada|CA
+Ulverton|QC|Canada|CA
+North Hatley|QC|Canada|CA
+Notre-Dame-des-Bois|QC|Canada|CA
+Cleveland|QC|Canada|CA
+Marbleton|QC|Canada|CA
+Saint-Benoit-du-Lac|QC|Canada|CA
+Saint-Claude|QC|Canada|CA
+Saint-Denis-de-Brompton|QC|Canada|CA
+Sainte-Edwidge|QC|Canada|CA
+Saint-Elie-d'Orford|QC|Canada|CA
+Saint-Felix-de-Kingsey|QC|Canada|CA
+St-Francois-Xavier-de-Brompton|QC|Canada|CA
+Saint-Hermenegilde|QC|Canada|CA
+Saint-Isidore-de-Clifton|QC|Canada|CA
+Saint-Malo|QC|Canada|CA
+Lingwick|QC|Canada|CA
+Sawyerville|QC|Canada|CA
+Scotstown|QC|Canada|CA
+Stanhope|QC|Canada|CA
+Ogden|QC|Canada|CA
+Stoke|QC|Canada|CA
+Waterville|QC|Canada|CA
+Weedon|QC|Canada|CA
+Bon-Conseil|QC|Canada|CA
+L'Avenir|QC|Canada|CA
+Saint-Bonaventure|QC|Canada|CA
+Sainte-Brigitte-des-Saults|QC|Canada|CA
+Saint-Celestin|QC|Canada|CA
+Saint-Eugene-de-Grantham|QC|Canada|CA
+Saint-Edmond-de-Grantham|QC|Canada|CA
+Saint-Germain-de-Grantham|QC|Canada|CA
+Saint-Guillaume|QC|Canada|CA
+Saint-Leonard-d'Aston|QC|Canada|CA
+Saint-Lucien|QC|Canada|CA
+Sainte-Perpetue|QC|Canada|CA
+Wickham|QC|Canada|CA
+Abbotsford|QC|Canada|CA
+Abercorn|QC|Canada|CA
+Ange-Gardien|QC|Canada|CA
+Bolton Centre|QC|Canada|CA
+Bonsecours|QC|Canada|CA
+Brome|QC|Canada|CA
+Dunham|QC|Canada|CA
+Eastman|QC|Canada|CA
+Foster|QC|Canada|CA
+Fulford|QC|Canada|CA
+Knowlton|QC|Canada|CA
+Lawrenceville|QC|Canada|CA
+Mansonville|QC|Canada|CA
+Racine|QC|Canada|CA
+Roxton Pond|QC|Canada|CA
+Saint-Alphonse-de-Granby|QC|Canada|CA
+Sainte-Anne-de-la-Rochelle|QC|Canada|CA
+Sainte-Cecile-de-Milton|QC|Canada|CA
+Saint-Etienne-de-Bolton|QC|Canada|CA
+Saint-Joachim-de-Shefford|QC|Canada|CA
+South Bolton|QC|Canada|CA
+Stukely-Sud|QC|Canada|CA
+Sutton|QC|Canada|CA
+Valcourt|QC|Canada|CA
+Warden|QC|Canada|CA
+Waterloo|QC|Canada|CA
+West Brome|QC|Canada|CA
+Baie-du-Febvre|QC|Canada|CA
+Grand-Saint-Esprit|QC|Canada|CA
+La Visitation-de-Yamask|QC|Canada|CA
+Odanak|QC|Canada|CA
+Pierreville|QC|Canada|CA
+Saint-Elphege|QC|Canada|CA
+Massueville|QC|Canada|CA
+Saint-Aime|QC|Canada|CA
+Saint-Louis|QC|Canada|CA
+Saint-David-d'Yamaska|QC|Canada|CA
+Saint-Francois-du-Lac|QC|Canada|CA
+Sainte-Monique|QC|Canada|CA
+Saint-Ours|QC|Canada|CA
+Saint-Pie-de-Guire|QC|Canada|CA
+Saint-Robert|QC|Canada|CA
+Sainte-Victoire-de-Sorel|QC|Canada|CA
+Saint-Zephirin-de-Courval|QC|Canada|CA
+Yamaska|QC|Canada|CA
+Yamaska-Est|QC|Canada|CA
+Acton Vale|QC|Canada|CA
+La Presentation|QC|Canada|CA
+Saint-Bernard-de-Michaudville|QC|Canada|CA
+Roxton Falls|QC|Canada|CA
+Saint-Barnabe-Sud|QC|Canada|CA
+Sainte-Christine|QC|Canada|CA
+Saint-Damase|QC|Canada|CA
+Saint-Denis-sur-Richelieu|QC|Canada|CA
+Saint-Dominique|QC|Canada|CA
+Sainte-Helene-de-Bagot|QC|Canada|CA
+Saint-Hugues|QC|Canada|CA
+Saint-Jude|QC|Canada|CA
+Saint-Liboire|QC|Canada|CA
+Sainte-Madeleine|QC|Canada|CA
+Saint-Marcel-de-Richelieu|QC|Canada|CA
+Saint-Nazaire-d'Acton|QC|Canada|CA
+Saint-Pie|QC|Canada|CA
+Sainte-Rosalie|QC|Canada|CA
+Saint-Simon-de-Bagot|QC|Canada|CA
+Saint-Theodore-d'Acton|QC|Canada|CA
+Saint-Thomas-d'Aquin|QC|Canada|CA
+St-Valerien|QC|Canada|CA
+Durham-Sud|QC|Canada|CA
+Lefebvre|QC|Canada|CA
+Maricourt|QC|Canada|CA
+Upton|QC|Canada|CA
+Saint-Charles-sur-Richelieu|QC|Canada|CA
+Bedford|QC|Canada|CA
+Canton Bedford|QC|Canada|CA
+Clarenceville|QC|Canada|CA
+Noyan|QC|Canada|CA
+Frelighsburg|QC|Canada|CA
+Henryville|QC|Canada|CA
+Ile-aux-Noix|QC|Canada|CA
+Lacolle|QC|Canada|CA
+Mont-Saint-Gregoire|QC|Canada|CA
+Napierville|QC|Canada|CA
+Notre-Dame-de-Stanbridge|QC|Canada|CA
+Philipsburg|QC|Canada|CA
+Pike River|QC|Canada|CA
+Richelain|QC|Canada|CA
+Saint-Alexandre-d'Iberville|QC|Canada|CA
+Saint-Armand|QC|Canada|CA
+Saint-Bernard-de-Lacolle|QC|Canada|CA
+Saint-Blaise-sur-Richelieu|QC|Canada|CA
+Sainte-Brigide-d'Iberville|QC|Canada|CA
+Saint-Ignace-de-Stanbridge|QC|Canada|CA
+Saint-Jacques-le-Mineur|QC|Canada|CA
+Sainte-Sabine|QC|Canada|CA
+Saint-Sebastien|QC|Canada|CA
+Saint-Valentin|QC|Canada|CA
+Sabrevois|QC|Canada|CA
+Stanbridge East|QC|Canada|CA
+Stanbridge Station|QC|Canada|CA
+Venise-En-Quebec|QC|Canada|CA
+Berthierville|QC|Canada|CA
+Crabtree|QC|Canada|CA
+Saint-Ambroise-de-Kildare|QC|Canada|CA
+Lanoraie|QC|Canada|CA
+Lavaltrie|QC|Canada|CA
+Saint-Antoine-de-Lavaltrie|QC|Canada|CA
+Lourdes-de-Joliette|QC|Canada|CA
+Mandeville|QC|Canada|CA
+Manouane|QC|Canada|CA
+Maskinonge|QC|Canada|CA
+Sainte-Angele-de-Premont|QC|Canada|CA
+Rawdon|QC|Canada|CA
+Saint-Alexis-de-Montcalm|QC|Canada|CA
+Saint-Alexis-des-Monts|QC|Canada|CA
+Saint-Alphonse-Rodriguez|QC|Canada|CA
+Saint-Barthelemy|QC|Canada|CA
+Sainte-Beatrix|QC|Canada|CA
+Saint-Calixte|QC|Canada|CA
+Saint-Cleophas-de-Brandon|QC|Canada|CA
+Saint-Come|QC|Canada|CA
+Saint-Cuthbert|QC|Canada|CA
+Saint-Damien|QC|Canada|CA
+Saint-Didace|QC|Canada|CA
+Saint-Edouard-de-Maskinonge|QC|Canada|CA
+Sainte-Elisabeth|QC|Canada|CA
+Sainte-Emelie-de-l'Energie|QC|Canada|CA
+Saint-Esprit|QC|Canada|CA
+Saint-Felix-de-Valois|QC|Canada|CA
+Saint-Gabriel-de-Brandon|QC|Canada|CA
+La Visitation-de-l'Ile-Dupas|QC|Canada|CA
+Saint-Ignace-de-Loyola|QC|Canada|CA
+Saint-Jacques|QC|Canada|CA
+Saint-Jean-de-Matha|QC|Canada|CA
+Sainte-Julienne|QC|Canada|CA
+Saint-Justin|QC|Canada|CA
+Saint-Leon|QC|Canada|CA
+Saint-Liguori|QC|Canada|CA
+Sainte-Marcelline-de-Kildare|QC|Canada|CA
+Sainte-Marie-Salome|QC|Canada|CA
+Sainte-Melanie|QC|Canada|CA
+Saint-Michel-des-Saints|QC|Canada|CA
+Saint-Norbert|QC|Canada|CA
+Saint-Paul|QC|Canada|CA
+Saint-Paulin|QC|Canada|CA
+Saint-Roch-de-l'Achigan|QC|Canada|CA
+Saint-Roch-Ouest|QC|Canada|CA
+Chertsey|QC|Canada|CA
+Saint-Thomas|QC|Canada|CA
+Sainte-Ursule|QC|Canada|CA
+Saint-Zenon|QC|Canada|CA
+Calixa-Lavallee|QC|Canada|CA
+Kahnawake|QC|Canada|CA
+Contrecoeur|QC|Canada|CA
+Sainte-Catherine|QC|Canada|CA
+Delson|QC|Canada|CA
+Hemmingford|QC|Canada|CA
+Rougemont|QC|Canada|CA
+Saint-Amable|QC|Canada|CA
+Sainte-Angele-de-Monnoir|QC|Canada|CA
+Saint-Antoine-sur-Richelieu|QC|Canada|CA
+Saint-Cesaire|QC|Canada|CA
+Sainte-Clotilde-de-Chateauguay|QC|Canada|CA
+Saint-Edouard-de-Napierville|QC|Canada|CA
+Saint-Isidore-de-Laprairie|QC|Canada|CA
+Saint-Jean-Baptiste|QC|Canada|CA
+Saint-Marc-sur-Richelieu|QC|Canada|CA
+Saint-Mathieu-de-Laprairie|QC|Canada|CA
+Saint-Michel|QC|Canada|CA
+Saint-Philippe|QC|Canada|CA
+Saint-Remi|QC|Canada|CA
+Saint-Roch-de-Richelieu|QC|Canada|CA
+Sherrington|QC|Canada|CA
+Vercheres|QC|Canada|CA
+Domaine-des-Hauts-Bois|QC|Canada|CA
+Sainte-Julie|QC|Canada|CA
+Kangirsuk|QC|Canada|CA
+Kuujjuaq|QC|Canada|CA
+Chisasibi|QC|Canada|CA
+Kuujjuarapik|QC|Canada|CA
+Ivujivik|QC|Canada|CA
+Quaqtaq|QC|Canada|CA
+Kangiqsujuaq|QC|Canada|CA
+Wemindji|QC|Canada|CA
+Inukjuak|QC|Canada|CA
+Kangiqsualujjuaq|QC|Canada|CA
+Puvirnituq|QC|Canada|CA
+Waskaganish|QC|Canada|CA
+Salluit|QC|Canada|CA
+Tasiujaq|QC|Canada|CA
+Akulivik|QC|Canada|CA
+Eastmain|QC|Canada|CA
+Aupaluk|QC|Canada|CA
+Umiujaq|QC|Canada|CA
+Oka|QC|Canada|CA
+Pointe-Calumet|QC|Canada|CA
+Sainte-Anne-des-Plaines|QC|Canada|CA
+Saint-Joseph-du-Lac|QC|Canada|CA
+Sainte-Marthe-sur-le-Lac|QC|Canada|CA
+Coteau-du-Lac|QC|Canada|CA
+Dalhousie|QC|Canada|CA
+Hudson|QC|Canada|CA
+Hudson Heights|QC|Canada|CA
+Ile-Perrot-Sud|QC|Canada|CA
+Pointe-des-Cascades|QC|Canada|CA
+Pointe-Fortune|QC|Canada|CA
+Rigaud|QC|Canada|CA
+Tres-Saint-Redempteur|QC|Canada|CA
+Riviere-Beaudette|QC|Canada|CA
+Saint-Clet|QC|Canada|CA
+Sainte-Justine-de-Newton|QC|Canada|CA
+Sainte-Marthe|QC|Canada|CA
+Saint-Polycarpe|QC|Canada|CA
+Saint-Telesphore|QC|Canada|CA
+Saint-Zotique|QC|Canada|CA
+Bellefeuille|QC|Canada|CA
+Mille-Isles|QC|Canada|CA
+Sainte-Anne-des-Lacs|QC|Canada|CA
+Laurentides|QC|Canada|CA
+Saint-Lin|QC|Canada|CA
+Morin-Heights|QC|Canada|CA
+Piedmont|QC|Canada|CA
+St-Sauveur-des-Monts|QC|Canada|CA
+St-Sauveur|QC|Canada|CA
+Prevost|QC|Canada|CA
+Athelstan|QC|Canada|CA
+Cazaville|QC|Canada|CA
+Dewittville|QC|Canada|CA
+Franklin|QC|Canada|CA
+Hinchinbrooke|QC|Canada|CA
+Howick|QC|Canada|CA
+Huntingdon|QC|Canada|CA
+Melocheville|QC|Canada|CA
+Ormstown|QC|Canada|CA
+Godmanchester|QC|Canada|CA
+Saint-Anicet|QC|Canada|CA
+Sainte-Agnes-de-Dundee|QC|Canada|CA
+Saint-Antoine-Abbe|QC|Canada|CA
+Sainte-Barbe|QC|Canada|CA
+Saint-Chrysostome|QC|Canada|CA
+Saint-Etienne-de-Beauharnois|QC|Canada|CA
+Saint-Louis-de-Gonzague|QC|Canada|CA
+Sainte-Martine|QC|Canada|CA
+Saint-Stanislas-de-Kostka|QC|Canada|CA
+Saint-Urbain-Premier|QC|Canada|CA
+Havelock|QC|Canada|CA
+Arundel|QC|Canada|CA
+Barkmere|QC|Canada|CA
+Brebeuf|QC|Canada|CA
+Esterel|QC|Canada|CA
+Boileau|QC|Canada|CA
+Huberdeau|QC|Canada|CA
+Saint-Remi-d'Amherst|QC|Canada|CA
+La Macaza|QC|Canada|CA
+La Minerve|QC|Canada|CA
+Labelle|QC|Canada|CA
+Lac-Superieur|QC|Canada|CA
+Saint-Faustin-Lac-Carre|QC|Canada|CA
+Lac-des-Plages|QC|Canada|CA
+Saint-Emile-de-Suffolk|QC|Canada|CA
+Ste-Marguerite-du-Lac-Masson|QC|Canada|CA
+La Conception|QC|Canada|CA
+L'Annonciation|QC|Canada|CA
+L'Ascension|QC|Canada|CA
+Marchand|QC|Canada|CA
+Lantier|QC|Canada|CA
+Sainte-Lucie-des-Laurentides|QC|Canada|CA
+Wentworth-Nord|QC|Canada|CA
+Notre-Dame-de-la-Merci|QC|Canada|CA
+Saint-Adolphe-d'Howard|QC|Canada|CA
+Saint-Donat-de-Montcalm|QC|Canada|CA
+Entrelacs|QC|Canada|CA
+Ste-Lucie-de-Doncaster|QC|Canada|CA
+Amherst|QC|Canada|CA
+Lac-des-Seize-Iles|QC|Canada|CA
+Val-David|QC|Canada|CA
+Val-des-Lacs|QC|Canada|CA
+Val-Morin|QC|Canada|CA
+Vendee|QC|Canada|CA
+Montcalm|QC|Canada|CA
+Weir|QC|Canada|CA
+Calumet|QC|Canada|CA
+Grenville|QC|Canada|CA
+Cheneville|QC|Canada|CA
+Duhamel|QC|Canada|CA
+Fassett|QC|Canada|CA
+Gore|QC|Canada|CA
+Montebello|QC|Canada|CA
+Montpellier|QC|Canada|CA
+Namur|QC|Canada|CA
+Notre-Dame-de-la-Paix|QC|Canada|CA
+Papineauville|QC|Canada|CA
+Plaisance|QC|Canada|CA
+Pointe-au-Chene|QC|Canada|CA
+Ripon|QC|Canada|CA
+Saint-Andre-Avellin|QC|Canada|CA
+Saint-Andre-d'Argenteuil|QC|Canada|CA
+Saint-Placide|QC|Canada|CA
+Chute-Saint-Philippe|QC|Canada|CA
+Farley|QC|Canada|CA
+Ferme-Neuve|QC|Canada|CA
+Sainte-Anne-du-Lac|QC|Canada|CA
+Grand-Remous|QC|Canada|CA
+Ste-Famille-d'Aumond|QC|Canada|CA
+Kiamika|QC|Canada|CA
+Beaux-Rivages|QC|Canada|CA
+Lac-des-Ecorces|QC|Canada|CA
+Des Ruisseaux|QC|Canada|CA
+Lac-des-Iles|QC|Canada|CA
+Lac-Saint-Paul|QC|Canada|CA
+Lac-Saguay|QC|Canada|CA
+Montcerf|QC|Canada|CA
+Mont-Saint-Michel|QC|Canada|CA
+Nominingue|QC|Canada|CA
+Lac-du-Cerf|QC|Canada|CA
+Notre-Dame-de-Pontmain|QC|Canada|CA
+Sainte-Veronique|QC|Canada|CA
+Val-Barrette|QC|Canada|CA
+Rapid Lake|QC|Canada|CA
+Alcove|QC|Canada|CA
+Blue Sea|QC|Canada|CA
+Bouchette|QC|Canada|CA
+Bristol|QC|Canada|CA
+Bryson|QC|Canada|CA
+L'Ile-du-Grand-Calumet|QC|Canada|CA
+Campbell's Bay|QC|Canada|CA
+Chapeau|QC|Canada|CA
+Danford Lake|QC|Canada|CA
+Davidson|QC|Canada|CA
+Duclos|QC|Canada|CA
+Farrellton|QC|Canada|CA
+Fort-Coulonge|QC|Canada|CA
+Gracefield|QC|Canada|CA
+Kazabazua|QC|Canada|CA
+Lac-Cayamant|QC|Canada|CA
+Lac-Sainte-Marie|QC|Canada|CA
+Ladysmith|QC|Canada|CA
+Denholm|QC|Canada|CA
+Low|QC|Canada|CA
+Luskville|QC|Canada|CA
+Messines|QC|Canada|CA
+Norway Bay|QC|Canada|CA
+Notre-Dame-de-la-Salette|QC|Canada|CA
+Notre-Dame-du-Laus|QC|Canada|CA
+Otter Lake|QC|Canada|CA
+Portage-du-Fort|QC|Canada|CA
+Quyon|QC|Canada|CA
+Sainte-Cecile-de-Masham|QC|Canada|CA
+Sainte-Therese-de-la-Gatineau|QC|Canada|CA
+Shawville|QC|Canada|CA
+Thurso|QC|Canada|CA
+Val-des-Bois|QC|Canada|CA
+Venosta|QC|Canada|CA
+Wakefield|QC|Canada|CA
+Waltham|QC|Canada|CA
+Wilson's Corner|QC|Canada|CA
+Lac des Loups|QC|Canada|CA
+Rapides-des-Joachims|QC|Canada|CA
+Saint-Sixte|QC|Canada|CA
+Barraute|QC|Canada|CA
+Cadillac|QC|Canada|CA
+Champneuf|QC|Canada|CA
+Saint-Felix-de-Dalquier|QC|Canada|CA
+Desmaraisville|QC|Canada|CA
+Saint-Marc-de-Figuery|QC|Canada|CA
+Guyenne|QC|Canada|CA
+Saint-Mathieu-d'Harricana|QC|Canada|CA
+La Corne|QC|Canada|CA
+La Morandiere|QC|Canada|CA
+La Motte|QC|Canada|CA
+Landrienne|QC|Canada|CA
+Launay|QC|Canada|CA
+Lebel-sur-Quevillon|QC|Canada|CA
+Malartic|QC|Canada|CA
+Matagami|QC|Canada|CA
+Miquelon|QC|Canada|CA
+Preissac|QC|Canada|CA
+Berry|QC|Canada|CA
+Riviere-Heva|QC|Canada|CA
+Rochebaucourt|QC|Canada|CA
+Saint-Dominique-du-Rosaire|QC|Canada|CA
+Sainte-Gertrude-de-Villeneuve|QC|Canada|CA
+Belcourt|QC|Canada|CA
+Senneterre|QC|Canada|CA
+Sullivan|QC|Canada|CA
+Val-Senneville|QC|Canada|CA
+Vassan|QC|Canada|CA
+Villemontel|QC|Canada|CA
+Radisson|QC|Canada|CA
+Nemiscau|QC|Canada|CA
+Waswanipi|QC|Canada|CA
+Lac-Simon|QC|Canada|CA
+Angliers|QC|Canada|CA
+Arntfield|QC|Canada|CA
+Authier|QC|Canada|CA
+Authier-Nord|QC|Canada|CA
+Bearn|QC|Canada|CA
+Beaucanton|QC|Canada|CA
+Bellecombe|QC|Canada|CA
+Belleterre|QC|Canada|CA
+Sainte-Germaine-Boule|QC|Canada|CA
+Chazel|QC|Canada|CA
+Clericy|QC|Canada|CA
+Clerval|QC|Canada|CA
+Cloutier|QC|Canada|CA
+Colombourg|QC|Canada|CA
+Desmeloizes|QC|Canada|CA
+Duparquet|QC|Canada|CA
+Dupuy|QC|Canada|CA
+Evain|QC|Canada|CA
+Fabre|QC|Canada|CA
+Fugereville|QC|Canada|CA
+Gallichan|QC|Canada|CA
+Guerin|QC|Canada|CA
+Saint-Bruno-de-Guigues|QC|Canada|CA
+Kipawa|QC|Canada|CA
+Laforce|QC|Canada|CA
+Laniel|QC|Canada|CA
+La Reine|QC|Canada|CA
+Latulipe|QC|Canada|CA
+Laverlochere|QC|Canada|CA
+Lorrainville|QC|Canada|CA
+Macamic|QC|Canada|CA
+Mancebourg|QC|Canada|CA
+Moffet|QC|Canada|CA
+Montbeillard|QC|Canada|CA
+Mont-Brun|QC|Canada|CA
+Nedelec|QC|Canada|CA
+Normetal|QC|Canada|CA
+Notre-Dame-du-Nord|QC|Canada|CA
+Palmarolle|QC|Canada|CA
+Poularies|QC|Canada|CA
+Rapide-Danseur|QC|Canada|CA
+Remigny|QC|Canada|CA
+Rollet|QC|Canada|CA
+Roquemaure|QC|Canada|CA
+Saint-Eugene-de-Guigues|QC|Canada|CA
+Saint-Vital-de-Clermont|QC|Canada|CA
+Taschereau|QC|Canada|CA
+Tee Lake|QC|Canada|CA
+Temiscaming|QC|Canada|CA
+Val-Paradis|QC|Canada|CA
+Val-Saint-Gilles|QC|Canada|CA
+Villebois|QC|Canada|CA
+Ville-Marie|QC|Canada|CA
+Coaticook|QC|Canada|CA
+Barnston|QC|Canada|CA
+Compton Station|QC|Canada|CA
+Fleurimont|QC|Canada|CA
+Sherbrooke|QC|Canada|CA
+Ascot|QC|Canada|CA
+Lennoxville|QC|Canada|CA
+Eaton|QC|Canada|CA
+Rock Forest|QC|Canada|CA
+Deauville|QC|Canada|CA
+Windsor|QC|Canada|CA
+Saint-Gregoire-de-Greenlay|QC|Canada|CA
+Asbestos|QC|Canada|CA
+Magog|QC|Canada|CA
+Canton Magog|QC|Canada|CA
+Canton Stanstead|QC|Canada|CA
+Omerville|QC|Canada|CA
+Orford|QC|Canada|CA
+Saint-Cyrille-de-Wendover|QC|Canada|CA
+Saint-Joachim-de-Courval|QC|Canada|CA
+Saint-Nicephore|QC|Canada|CA
+Drummondville|QC|Canada|CA
+Saint-Charles-de-Drummond|QC|Canada|CA
+Saint-Majorique|QC|Canada|CA
+Granby|QC|Canada|CA
+Canton-de-Granby|QC|Canada|CA
+Canton de Shefford|QC|Canada|CA
+Cowansville|QC|Canada|CA
+Brigham|QC|Canada|CA
+East Farnham|QC|Canada|CA
+Bromont|QC|Canada|CA
+Farnham|QC|Canada|CA
+Saint-Hyacinthe|QC|Canada|CA
+Saint-Luc|QC|Canada|CA
+Saint-Athanase|QC|Canada|CA
+Iberville|QC|Canada|CA
+Saint-Jean-sur-Richelieu|QC|Canada|CA
+L'Acadie|QC|Canada|CA
+McMasterville|QC|Canada|CA
+Beloeil|QC|Canada|CA
+Saint-Mathieu-de-Beloeil|QC|Canada|CA
+Mont-Saint-Hilaire|QC|Canada|CA
+Otterburn Park|QC|Canada|CA
+Carignan|QC|Canada|CA
+Chambly|QC|Canada|CA
+Richelieu|QC|Canada|CA
+Saint-Mathias-sur-Richelieu|QC|Canada|CA
+Marieville|QC|Canada|CA
+Saint-Basile-le-Grand|QC|Canada|CA
+Sorel-Tracy|QC|Canada|CA
+Sainte-Anne-de-Sorel|QC|Canada|CA
+Saint-Joseph-de-Sorel|QC|Canada|CA
+Nicolet|QC|Canada|CA
+Saint-Jean-Baptiste-de-Nicolet|QC|Canada|CA
+Nicolet-Sud|QC|Canada|CA
+Saint-Bruno|QC|Canada|CA
+Varennes|QC|Canada|CA
+Saint-Hubert|QC|Canada|CA
+Boucherville|QC|Canada|CA
+Longueuil|QC|Canada|CA
+Saint-Lambert|QC|Canada|CA
+Lemoyne|QC|Canada|CA
+Greenfield Park|QC|Canada|CA
+Brossard|QC|Canada|CA
+Saint-Constant|QC|Canada|CA
+Sainte-Sophie|QC|Canada|CA
+Saint-Colomban|QC|Canada|CA
+Saint-Jerome|QC|Canada|CA
+Candiac|QC|Canada|CA
+La Prairie|QC|Canada|CA
+Louiseville|QC|Canada|CA
+L'Assomption|QC|Canada|CA
+Saint-Sulpice|QC|Canada|CA
+L'Epiphanie|QC|Canada|CA
+Repentigny|QC|Canada|CA
+Charlemagne|QC|Canada|CA
+Le Gardeur|QC|Canada|CA
+Notre-Dame-des-Prairies|QC|Canada|CA
+Saint-Charles-Borromee|QC|Canada|CA
+Joliette|QC|Canada|CA
+St-Paul|QC|Canada|CA
+Chateauguay|QC|Canada|CA
+Lery|QC|Canada|CA
+Maple Grove|QC|Canada|CA
+Beauharnois|QC|Canada|CA
+Mercier|QC|Canada|CA
+Grande-Ile|QC|Canada|CA
+Salaberry-de-Valleyfield|QC|Canada|CA
+Saint-Timothee|QC|Canada|CA
+Lachenaie|QC|Canada|CA
+Terrebonne|QC|Canada|CA
+Bois-des-Filion|QC|Canada|CA
+Lorraine|QC|Canada|CA
+Rosemere|QC|Canada|CA
+Blainville|QC|Canada|CA
+Sainte-Therese|QC|Canada|CA
+Boisbriand|QC|Canada|CA
+Mirabel|QC|Canada|CA
+Mascouche|QC|Canada|CA
+La Plaine|QC|Canada|CA
+Saint-Eustache|QC|Canada|CA
+Deux-Montagnes|QC|Canada|CA
+Les Cedres|QC|Canada|CA
+Saint-Lazare|QC|Canada|CA
+Vaudreuil-Dorion|QC|Canada|CA
+L'Ile-Perrot|QC|Canada|CA
+Notre-Dame-de-l'Ile-Perrot|QC|Canada|CA
+Terrasse-Vaudreuil|QC|Canada|CA
+Pincourt|QC|Canada|CA
+L'Ile-Cadieux|QC|Canada|CA
+Vaudreuil-sur-le-Lac|QC|Canada|CA
+Les Coteaux|QC|Canada|CA
+Lafontaine|QC|Canada|CA
+Saint-Antoine|QC|Canada|CA
+Saint-Hippolyte|QC|Canada|CA
+Sainte-Adele|QC|Canada|CA
+Sainte-Agathe-des-Monts|QC|Canada|CA
+Sainte-Agathe-Nord|QC|Canada|CA
+Ivry-sur-le-Lac|QC|Canada|CA
+Mont-Tremblant|QC|Canada|CA
+Brownsburg-Chatham|QC|Canada|CA
+Harrington|QC|Canada|CA
+Lachute|QC|Canada|CA
+Buckingham|QC|Canada|CA
+L'Ange-Gardien|QC|Canada|CA
+Mulgrave et Derry|QC|Canada|CA
+Masson-Angers|QC|Canada|CA
+Val-des-Monts|QC|Canada|CA
+Gatineau|QC|Canada|CA
+Cantley|QC|Canada|CA
+Hull|QC|Canada|CA
+Chelsea|QC|Canada|CA
+Maniwaki|QC|Canada|CA
+Deleage|QC|Canada|CA
+Bois-Franc|QC|Canada|CA
+Egan|QC|Canada|CA
+Aylmer|QC|Canada|CA
+Mont-Laurier|QC|Canada|CA
+Val-Limoges|QC|Canada|CA
+Val-d'or|QC|Canada|CA
+Dubuisson|QC|Canada|CA
+Val-d'Or|QC|Canada|CA
+Amos|QC|Canada|CA
+Rouyn-Noranda|QC|Canada|CA
+D'Alembert|QC|Canada|CA
+Destor|QC|Canada|CA
+McWatters|QC|Canada|CA
+La Sarre|QC|Canada|CA
+Almonte|ON|Canada|CA
+Ashton|ON|Canada|CA
+Bourget|ON|Canada|CA
+Braeside|ON|Canada|CA
+Carlsbad Springs|ON|Canada|CA
+Carp|ON|Canada|CA
+Casselman|ON|Canada|CA
+Clarence Creek|ON|Canada|CA
+Clayton|ON|Canada|CA
+Crysler|ON|Canada|CA
+Dunrobin|ON|Canada|CA
+Edwards|ON|Canada|CA
+Embrun|ON|Canada|CA
+Fitzroy Harbour|ON|Canada|CA
+Hammond|ON|Canada|CA
+Kars|ON|Canada|CA
+Kenmore|ON|Canada|CA
+Kinburn|ON|Canada|CA
+Limoges|ON|Canada|CA
+Metcalfe|ON|Canada|CA
+Morewood|ON|Canada|CA
+North Gower|ON|Canada|CA
+Osgoode|ON|Canada|CA
+Pakenham|ON|Canada|CA
+Ramsayville|ON|Canada|CA
+Richmond|ON|Canada|CA
+St Albert|ON|Canada|CA
+Sarsfield|ON|Canada|CA
+Vars|ON|Canada|CA
+Vernon|ON|Canada|CA
+Wendover|ON|Canada|CA
+White Lake|ON|Canada|CA
+Woodlawn|ON|Canada|CA
+Saint-Pascal-Baylon|ON|Canada|CA
+Munster|ON|Canada|CA
+Alfred|ON|Canada|CA
+Chute a Blondeau|ON|Canada|CA
+Curran|ON|Canada|CA
+Dalkeith|ON|Canada|CA
+Fournier|ON|Canada|CA
+Glen Robertson|ON|Canada|CA
+Lefaivre|ON|Canada|CA
+L'Orignal|ON|Canada|CA
+Plantagenet|ON|Canada|CA
+Ste Anne de Prescott|ON|Canada|CA
+St Bernardin|ON|Canada|CA
+St Eugene|ON|Canada|CA
+Vankleek Hill|ON|Canada|CA
+Alexandria|ON|Canada|CA
+Apple Hill|ON|Canada|CA
+Avonmore|ON|Canada|CA
+Bainsville|ON|Canada|CA
+Berwick|ON|Canada|CA
+Chesterville|ON|Canada|CA
+Dunvegan|ON|Canada|CA
+Finch|ON|Canada|CA
+Green Valley|ON|Canada|CA
+Ingleside|ON|Canada|CA
+Lancaster|ON|Canada|CA
+Long Sault|ON|Canada|CA
+Lunenburg|ON|Canada|CA
+Martintown|ON|Canada|CA
+Maxville|ON|Canada|CA
+Monkland|ON|Canada|CA
+Moose Creek|ON|Canada|CA
+Morrisburg|ON|Canada|CA
+Newington|ON|Canada|CA
+North Lancaster|ON|Canada|CA
+St Andrews West|ON|Canada|CA
+St Isidore|ON|Canada|CA
+South Lancaster|ON|Canada|CA
+Summerstown|ON|Canada|CA
+Upper Canada Village|ON|Canada|CA
+Williamsburg|ON|Canada|CA
+Williamstown|ON|Canada|CA
+Winchester|ON|Canada|CA
+Winchester Springs|ON|Canada|CA
+Addison|ON|Canada|CA
+Athens|ON|Canada|CA
+Brinston|ON|Canada|CA
+Cardinal|ON|Canada|CA
+Delta|ON|Canada|CA
+Frankville|ON|Canada|CA
+Inkerman|ON|Canada|CA
+Iroquois|ON|Canada|CA
+Lansdowne|ON|Canada|CA
+Lyn|ON|Canada|CA
+Lyndhurst|ON|Canada|CA
+Maitland|ON|Canada|CA
+Mallorytown|ON|Canada|CA
+Mountain|ON|Canada|CA
+Prescott|ON|Canada|CA
+Rockport|ON|Canada|CA
+South Mountain|ON|Canada|CA
+Spencerville|ON|Canada|CA
+Toledo|ON|Canada|CA
+Balderson|ON|Canada|CA
+Burritts Rapids|ON|Canada|CA
+Elgin|ON|Canada|CA
+Jasper|ON|Canada|CA
+Kemptville|ON|Canada|CA
+Lanark|ON|Canada|CA
+Lombardy|ON|Canada|CA
+McDonalds Corners|ON|Canada|CA
+Merrickville|ON|Canada|CA
+Newboro|ON|Canada|CA
+North Augusta|ON|Canada|CA
+Oxford Mills|ON|Canada|CA
+Oxford Station|ON|Canada|CA
+Portland|ON|Canada|CA
+Rideau Ferry|ON|Canada|CA
+Westport|ON|Canada|CA
+Arden|ON|Canada|CA
+Ardoch|ON|Canada|CA
+Bath|ON|Canada|CA
+Battersea|ON|Canada|CA
+Clarendon Station|ON|Canada|CA
+Cloyne|ON|Canada|CA
+Denbigh|ON|Canada|CA
+Elginburg|ON|Canada|CA
+Flinton|ON|Canada|CA
+Glenburnie|ON|Canada|CA
+Godfrey|ON|Canada|CA
+Harrowsmith|ON|Canada|CA
+Hartington|ON|Canada|CA
+Inverary|ON|Canada|CA
+Joyceville|ON|Canada|CA
+Kaladar|ON|Canada|CA
+Maberly|ON|Canada|CA
+Mississippi Station|ON|Canada|CA
+Mountain Grove|ON|Canada|CA
+Northbrook|ON|Canada|CA
+Odessa|ON|Canada|CA
+Ompah|ON|Canada|CA
+Parham|ON|Canada|CA
+Perth Road|ON|Canada|CA
+Plevna|ON|Canada|CA
+Seeleys Bay|ON|Canada|CA
+Sharbot Lake|ON|Canada|CA
+Snow Road Station|ON|Canada|CA
+Stella|ON|Canada|CA
+Sydenham|ON|Canada|CA
+Tichborne|ON|Canada|CA
+Verona|ON|Canada|CA
+Wolfe Island|ON|Canada|CA
+Barrys Bay|ON|Canada|CA
+Beachburg|ON|Canada|CA
+Bissett Creek|ON|Canada|CA
+Burnstown|ON|Canada|CA
+Calabogie|ON|Canada|CA
+Chalk River|ON|Canada|CA
+Cobden|ON|Canada|CA
+Combermere|ON|Canada|CA
+Cormac|ON|Canada|CA
+Dacre|ON|Canada|CA
+Deep River|ON|Canada|CA
+Deux Rivieres|ON|Canada|CA
+Douglas|ON|Canada|CA
+Eganville|ON|Canada|CA
+Foresters Falls|ON|Canada|CA
+Foymount|ON|Canada|CA
+Golden Lake|ON|Canada|CA
+Haley Station|ON|Canada|CA
+Killaloe|ON|Canada|CA
+Mackey|ON|Canada|CA
+Madawaska|ON|Canada|CA
+Palmer Rapids|ON|Canada|CA
+Quadeville|ON|Canada|CA
+Rolphton|ON|Canada|CA
+Round Lake Centre|ON|Canada|CA
+Stonecliffe|ON|Canada|CA
+Westmeath|ON|Canada|CA
+Whitney|ON|Canada|CA
+Wilno|ON|Canada|CA
+Griffith|ON|Canada|CA
+Ameliasburg|ON|Canada|CA
+Astra|ON|Canada|CA
+Baltimore|ON|Canada|CA
+Batawa|ON|Canada|CA
+Bloomfield|ON|Canada|CA
+Brighton|ON|Canada|CA
+Camden East|ON|Canada|CA
+Cannifton|ON|Canada|CA
+Carrying Place|ON|Canada|CA
+Castleton|ON|Canada|CA
+Centreville|ON|Canada|CA
+Cherry Valley|ON|Canada|CA
+Codrington|ON|Canada|CA
+Colborne|ON|Canada|CA
+Consecon|ON|Canada|CA
+Corbyville|ON|Canada|CA
+Demorestville|ON|Canada|CA
+Deseronto|ON|Canada|CA
+Eldorado|ON|Canada|CA
+Enterprise|ON|Canada|CA
+Erinsville|ON|Canada|CA
+Foxboro|ON|Canada|CA
+Frankford|ON|Canada|CA
+Gores Landing|ON|Canada|CA
+Grafton|ON|Canada|CA
+Harwood|ON|Canada|CA
+Hillier|ON|Canada|CA
+Madoc|ON|Canada|CA
+Marlbank|ON|Canada|CA
+Marmora|ON|Canada|CA
+Marysville|ON|Canada|CA
+Milford|ON|Canada|CA
+Newburgh|ON|Canada|CA
+Picton|ON|Canada|CA
+Plainfield|ON|Canada|CA
+Roblin|ON|Canada|CA
+Roseneath|ON|Canada|CA
+Roslin|ON|Canada|CA
+Selby|ON|Canada|CA
+Shannonville|ON|Canada|CA
+Springbrook|ON|Canada|CA
+Stirling|ON|Canada|CA
+Tamworth|ON|Canada|CA
+Thomasburg|ON|Canada|CA
+Tweed|ON|Canada|CA
+Warkworth|ON|Canada|CA
+Wellington|ON|Canada|CA
+Wooler|ON|Canada|CA
+Yarker|ON|Canada|CA
+Apsley|ON|Canada|CA
+Bailieboro|ON|Canada|CA
+Bancroft|ON|Canada|CA
+Bewdley|ON|Canada|CA
+Boulter|ON|Canada|CA
+Bridgenorth|ON|Canada|CA
+Buckhorn|ON|Canada|CA
+Burleigh Falls|ON|Canada|CA
+Campbellford|ON|Canada|CA
+Cardiff|ON|Canada|CA
+Coe Hill|ON|Canada|CA
+Curve Lake|ON|Canada|CA
+Douro|ON|Canada|CA
+Ennismore|ON|Canada|CA
+Fraserville|ON|Canada|CA
+Gilmour|ON|Canada|CA
+Harcourt|ON|Canada|CA
+Hastings|ON|Canada|CA
+Havelock|ON|Canada|CA
+Highland Grove|ON|Canada|CA
+Indian River|ON|Canada|CA
+Juniper Island|ON|Canada|CA
+Kawartha Park|ON|Canada|CA
+Keene|ON|Canada|CA
+Lakefield|ON|Canada|CA
+Lakehurst|ON|Canada|CA
+Lake St Peter|ON|Canada|CA
+L'Amable|ON|Canada|CA
+McArthurs Mills|ON|Canada|CA
+Maple Leaf|ON|Canada|CA
+Maynooth|ON|Canada|CA
+Norwood|ON|Canada|CA
+Omemee|ON|Canada|CA
+Reaboro|ON|Canada|CA
+Tory Hill|ON|Canada|CA
+Trent River|ON|Canada|CA
+Warsaw|ON|Canada|CA
+Westwood|ON|Canada|CA
+Wilberforce|ON|Canada|CA
+Woodview|ON|Canada|CA
+Youngs Point|ON|Canada|CA
+Bobcaygeon|ON|Canada|CA
+Bolsover|ON|Canada|CA
+Burnt River|ON|Canada|CA
+Cambray|ON|Canada|CA
+Cameron|ON|Canada|CA
+Carnarvon|ON|Canada|CA
+Coboconk|ON|Canada|CA
+Dunsford|ON|Canada|CA
+Eagle Lake|ON|Canada|CA
+Fenelon Falls|ON|Canada|CA
+Fort Irwin|ON|Canada|CA
+Gooderham|ON|Canada|CA
+Haliburton|ON|Canada|CA
+Irondale|ON|Canada|CA
+Kinmount|ON|Canada|CA
+Kirkfield|ON|Canada|CA
+Little Britain|ON|Canada|CA
+Lochlin|ON|Canada|CA
+Manilla|ON|Canada|CA
+Minden|ON|Canada|CA
+Norland|ON|Canada|CA
+Oakwood|ON|Canada|CA
+West Guilford|ON|Canada|CA
+Woodville|ON|Canada|CA
+Ottawa|ON|Canada|CA
+Nepean|ON|Canada|CA
+Gloucester|ON|Canada|CA
+Orleans|ON|Canada|CA
+Vanier|ON|Canada|CA
+Rockcliffe|ON|Canada|CA
+Kanata|ON|Canada|CA
+Stittsville|ON|Canada|CA
+Navan|ON|Canada|CA
+Cumberland|ON|Canada|CA
+Rockland|ON|Canada|CA
+Manotick|ON|Canada|CA
+Greely|ON|Canada|CA
+Russell|ON|Canada|CA
+Hawkesbury|ON|Canada|CA
+Cornwall|ON|Canada|CA
+Elizabethtown|ON|Canada|CA
+Brockville|ON|Canada|CA
+Smiths Falls|ON|Canada|CA
+Carleton Place|ON|Canada|CA
+Gananoque|ON|Canada|CA
+Perth|ON|Canada|CA
+Kingston|ON|Canada|CA
+Amherstview|ON|Canada|CA
+Westbrook|ON|Canada|CA
+Napanee|ON|Canada|CA
+Arnprior|ON|Canada|CA
+Renfrew|ON|Canada|CA
+Pembroke|ON|Canada|CA
+Petawawa|ON|Canada|CA
+Belleville|ON|Canada|CA
+Trenton|ON|Canada|CA
+Cobourg|ON|Canada|CA
+Peterborough|ON|Canada|CA
+Lindsay|ON|Canada|CA
+Bethany|ON|Canada|CA
+Campbellcroft|ON|Canada|CA
+Cavan|ON|Canada|CA
+Kendal|ON|Canada|CA
+Millbrook|ON|Canada|CA
+Newtonville|ON|Canada|CA
+Pontypool|ON|Canada|CA
+Ashburn|ON|Canada|CA
+Blackstock|ON|Canada|CA
+Caesarea|ON|Canada|CA
+Hampton|ON|Canada|CA
+Janetville|ON|Canada|CA
+Nestleton Station|ON|Canada|CA
+Orono|ON|Canada|CA
+Goodwood|ON|Canada|CA
+Greenbank|ON|Canada|CA
+Leaskdale|ON|Canada|CA
+Sandford|ON|Canada|CA
+Seagrave|ON|Canada|CA
+Sunderland|ON|Canada|CA
+Udora|ON|Canada|CA
+Baldwin|ON|Canada|CA
+Cannington|ON|Canada|CA
+Jacksons Point|ON|Canada|CA
+Pefferlaw|ON|Canada|CA
+Roches Point|ON|Canada|CA
+Sutton West|ON|Canada|CA
+Willow Beach|ON|Canada|CA
+Zephyr|ON|Canada|CA
+Beeton|ON|Canada|CA
+Bond Head|ON|Canada|CA
+Cedar Valley|ON|Canada|CA
+Kettleby|ON|Canada|CA
+Loretto|ON|Canada|CA
+Mount Albert|ON|Canada|CA
+Nobleton|ON|Canada|CA
+Queensville|ON|Canada|CA
+Schomberg|ON|Canada|CA
+Sharon|ON|Canada|CA
+Tottenham|ON|Canada|CA
+Brougham|ON|Canada|CA
+Gormley|ON|Canada|CA
+Greenwood|ON|Canada|CA
+Locust Hill|ON|Canada|CA
+Whitevale|ON|Canada|CA
+Black Creek Village|ON|Canada|CA
+Huttonville|ON|Canada|CA
+Kleinburg|ON|Canada|CA
+Beaverton|ON|Canada|CA
+Brechin|ON|Canada|CA
+Cedar Point|ON|Canada|CA
+Coldwater|ON|Canada|CA
+Cumberland Beach|ON|Canada|CA
+Longford Mills|ON|Canada|CA
+Moonstone|ON|Canada|CA
+Port McNicoll|ON|Canada|CA
+Port Severn|ON|Canada|CA
+Rama|ON|Canada|CA
+Sebright|ON|Canada|CA
+Victoria Harbour|ON|Canada|CA
+Washago|ON|Canada|CA
+Waubaushene|ON|Canada|CA
+Wyebridge|ON|Canada|CA
+Warminster|ON|Canada|CA
+Bell Ewart|ON|Canada|CA
+Churchill|ON|Canada|CA
+Cookstown|ON|Canada|CA
+Egbert|ON|Canada|CA
+Elmvale|ON|Canada|CA
+Gilford|ON|Canada|CA
+Hawkestone|ON|Canada|CA
+Hillsdale|ON|Canada|CA
+Lefroy|ON|Canada|CA
+Midhurst|ON|Canada|CA
+Minesing|ON|Canada|CA
+Oro Station|ON|Canada|CA
+Perkinsfield|ON|Canada|CA
+Phelpston|ON|Canada|CA
+Shanty Bay|ON|Canada|CA
+Thornton|ON|Canada|CA
+Wasaga Beach|ON|Canada|CA
+Wyevale|ON|Canada|CA
+Oro|ON|Canada|CA
+Angus|ON|Canada|CA
+Borden|ON|Canada|CA
+Creemore|ON|Canada|CA
+Duntroon|ON|Canada|CA
+Everett|ON|Canada|CA
+Glencairn|ON|Canada|CA
+Glen Huron|ON|Canada|CA
+Lisle|ON|Canada|CA
+New Lowell|ON|Canada|CA
+Nottawa|ON|Canada|CA
+Stayner|ON|Canada|CA
+Utopia|ON|Canada|CA
+Alton|ON|Canada|CA
+Belfountain|ON|Canada|CA
+Caledon Village|ON|Canada|CA
+Caledon East|ON|Canada|CA
+Grand Valley|ON|Canada|CA
+Honeywood|ON|Canada|CA
+Hornings Mills|ON|Canada|CA
+Inglewood|ON|Canada|CA
+Laurel|ON|Canada|CA
+Mansfield|ON|Canada|CA
+Orton|ON|Canada|CA
+Palgrave|ON|Canada|CA
+Rosemont|ON|Canada|CA
+Shelburne|ON|Canada|CA
+Campbellville|ON|Canada|CA
+Cheltenham|ON|Canada|CA
+Hornby|ON|Canada|CA
+Kilbride|ON|Canada|CA
+Limehouse|ON|Canada|CA
+Moffat|ON|Canada|CA
+Norval|ON|Canada|CA
+Terra Cotta|ON|Canada|CA
+Alberton|ON|Canada|CA
+Beamsville|ON|Canada|CA
+Binbrook|ON|Canada|CA
+Caistor Centre|ON|Canada|CA
+Campden|ON|Canada|CA
+Carlisle|ON|Canada|CA
+Copetown|ON|Canada|CA
+Freelton|ON|Canada|CA
+Grassie|ON|Canada|CA
+Hannon|ON|Canada|CA
+Jerseyville|ON|Canada|CA
+Jordan Station|ON|Canada|CA
+Lynden|ON|Canada|CA
+Millgrove|ON|Canada|CA
+Mount Hope|ON|Canada|CA
+Rockton|ON|Canada|CA
+St Anns|ON|Canada|CA
+Sheffield|ON|Canada|CA
+Smithville|ON|Canada|CA
+Troy|ON|Canada|CA
+Vineland|ON|Canada|CA
+Vineland Station|ON|Canada|CA
+Waterdown|ON|Canada|CA
+Wellandport|ON|Canada|CA
+West Flamborough|ON|Canada|CA
+Allanburg|ON|Canada|CA
+Crystal Beach|ON|Canada|CA
+Fenwick|ON|Canada|CA
+Fonthill|ON|Canada|CA
+Niagara on the Lake|ON|Canada|CA
+Port Robinson|ON|Canada|CA
+Queenston|ON|Canada|CA
+Ridgeville|ON|Canada|CA
+Ridgeway|ON|Canada|CA
+St Davids|ON|Canada|CA
+Sherkston|ON|Canada|CA
+Stevensville|ON|Canada|CA
+Virgil|ON|Canada|CA
+Wainfleet|ON|Canada|CA
+Port Hope|ON|Canada|CA
+Newcastle|ON|Canada|CA
+Bowmanville|ON|Canada|CA
+Haydon|ON|Canada|CA
+Courtice|ON|Canada|CA
+Oshawa|ON|Canada|CA
+Whitby|ON|Canada|CA
+Ajax|ON|Canada|CA
+Pickering|ON|Canada|CA
+Claremont|ON|Canada|CA
+Fort Erie|ON|Canada|CA
+Niagara Falls|ON|Canada|CA
+St Catharines|ON|Canada|CA
+Thorold|ON|Canada|CA
+Welland|ON|Canada|CA
+Port Colborne|ON|Canada|CA
+Grimsby|ON|Canada|CA
+Markham|ON|Canada|CA
+Unionville|ON|Canada|CA
+Thornhill|ON|Canada|CA
+Richmond Hill|ON|Canada|CA
+Orillia|ON|Canada|CA
+Newmarket|ON|Canada|CA
+Bradford|ON|Canada|CA
+Stouffville|ON|Canada|CA
+Aurora|ON|Canada|CA
+Woodbridge|ON|Canada|CA
+Concord|ON|Canada|CA
+Barrie|ON|Canada|CA
+Keswick|ON|Canada|CA
+Midland|ON|Canada|CA
+Mississauga|ON|Canada|CA
+Maple|ON|Canada|CA
+Vaughan|ON|Canada|CA
+Oakville|ON|Canada|CA
+Brampton|ON|Canada|CA
+King City|ON|Canada|CA
+Caledon|ON|Canada|CA
+Bolton|ON|Canada|CA
+Georgetown|ON|Canada|CA
+Acton|ON|Canada|CA
+Burlington|ON|Canada|CA
+Hamilton|ON|Canada|CA
+Stoney Creek|ON|Canada|CA
+Ancaster|ON|Canada|CA
+Dundas|ON|Canada|CA
+Port Perry|ON|Canada|CA
+Prince Albert|ON|Canada|CA
+Penetanguishene|ON|Canada|CA
+River Drive Park|ON|Canada|CA
+Holland Landing|ON|Canada|CA
+Uxbridge|ON|Canada|CA
+Alliston|ON|Canada|CA
+Innisfil|ON|Canada|CA
+Milton|ON|Canada|CA
+Orangeville|ON|Canada|CA
+Collingwood|ON|Canada|CA
+Scarborough|ON|Canada|CA
+North York|ON|Canada|CA
+East York|ON|Canada|CA
+Toronto|ON|Canada|CA
+York|ON|Canada|CA
+Etobicoke|ON|Canada|CA
+Canfield|ON|Canada|CA
+Cayuga|ON|Canada|CA
+Fisherville|ON|Canada|CA
+Hagersville|ON|Canada|CA
+Jarvis|ON|Canada|CA
+Lowbanks|ON|Canada|CA
+Nanticoke|ON|Canada|CA
+Ohsweken|ON|Canada|CA
+Port Dover|ON|Canada|CA
+Selkirk|ON|Canada|CA
+Townsend|ON|Canada|CA
+Alma|ON|Canada|CA
+Ariss|ON|Canada|CA
+Arkell|ON|Canada|CA
+Ayr|ON|Canada|CA
+Baden|ON|Canada|CA
+Ballinafad|ON|Canada|CA
+Belwood|ON|Canada|CA
+Bloomingdale|ON|Canada|CA
+Branchton|ON|Canada|CA
+Breslau|ON|Canada|CA
+Conestogo|ON|Canada|CA
+Eden Mills|ON|Canada|CA
+Elora|ON|Canada|CA
+Erin|ON|Canada|CA
+Floradale|ON|Canada|CA
+Glen Morris|ON|Canada|CA
+Hawkesville|ON|Canada|CA
+Heidelberg|ON|Canada|CA
+Hillsburgh|ON|Canada|CA
+Linwood|ON|Canada|CA
+Maryhill|ON|Canada|CA
+Morriston|ON|Canada|CA
+New Dundee|ON|Canada|CA
+Petersburg|ON|Canada|CA
+Puslinch|ON|Canada|CA
+Rockwood|ON|Canada|CA
+St Agatha|ON|Canada|CA
+St Clements|ON|Canada|CA
+St Jacobs|ON|Canada|CA
+Shakespeare|ON|Canada|CA
+Tavistock|ON|Canada|CA
+Wallenstein|ON|Canada|CA
+Wellesley|ON|Canada|CA
+West Montrose|ON|Canada|CA
+Badjeros|ON|Canada|CA
+Dundalk|ON|Canada|CA
+Feversham|ON|Canada|CA
+Flesherton|ON|Canada|CA
+Kimberley|ON|Canada|CA
+Markdale|ON|Canada|CA
+Maxwell|ON|Canada|CA
+Priceville|ON|Canada|CA
+Proton Station|ON|Canada|CA
+Singhampton|ON|Canada|CA
+Burford|ON|Canada|CA
+Cathcart|ON|Canada|CA
+Clear Creek|ON|Canada|CA
+Harley|ON|Canada|CA
+Langton|ON|Canada|CA
+La Salette|ON|Canada|CA
+Mount Pleasant|ON|Canada|CA
+Oakland|ON|Canada|CA
+Port Rowan|ON|Canada|CA
+St George Brant|ON|Canada|CA
+St Williams|ON|Canada|CA
+Scotland|ON|Canada|CA
+Teeterville|ON|Canada|CA
+Turkey Point|ON|Canada|CA
+Vanessa|ON|Canada|CA
+Vittoria|ON|Canada|CA
+Walsingham|ON|Canada|CA
+Waterford|ON|Canada|CA
+Wilsonville|ON|Canada|CA
+Windham Centre|ON|Canada|CA
+Arthur|ON|Canada|CA
+Atwood|ON|Canada|CA
+Ayton|ON|Canada|CA
+Belgrave|ON|Canada|CA
+Bluevale|ON|Canada|CA
+Brussels|ON|Canada|CA
+Cargill|ON|Canada|CA
+Chepstow|ON|Canada|CA
+Chesley|ON|Canada|CA
+Clifford|ON|Canada|CA
+Conn|ON|Canada|CA
+Drayton|ON|Canada|CA
+Durham|ON|Canada|CA
+Elmwood|ON|Canada|CA
+Ethel|ON|Canada|CA
+Fordwich|ON|Canada|CA
+Formosa|ON|Canada|CA
+Gorrie|ON|Canada|CA
+Gowanstown|ON|Canada|CA
+Harriston|ON|Canada|CA
+Holstein|ON|Canada|CA
+Holyrood|ON|Canada|CA
+Kenilworth|ON|Canada|CA
+Lucknow|ON|Canada|CA
+Mildmay|ON|Canada|CA
+Moorefield|ON|Canada|CA
+Mount Forest|ON|Canada|CA
+Neustadt|ON|Canada|CA
+Paisley|ON|Canada|CA
+Palmerston|ON|Canada|CA
+Ripley|ON|Canada|CA
+Teeswater|ON|Canada|CA
+Tiverton|ON|Canada|CA
+Walkerton|ON|Canada|CA
+Wingham|ON|Canada|CA
+Wroxeter|ON|Canada|CA
+Allenford|ON|Canada|CA
+Annan|ON|Canada|CA
+Berkeley|ON|Canada|CA
+Bognor|ON|Canada|CA
+Chatsworth|ON|Canada|CA
+Clarksburg|ON|Canada|CA
+Desboro|ON|Canada|CA
+Dobbinton|ON|Canada|CA
+Heathcote|ON|Canada|CA
+Hepworth|ON|Canada|CA
+Holland Centre|ON|Canada|CA
+Kemble|ON|Canada|CA
+Leith|ON|Canada|CA
+Lions Head|ON|Canada|CA
+Mar|ON|Canada|CA
+Miller Lake|ON|Canada|CA
+Port Elgin|ON|Canada|CA
+Ravenna|ON|Canada|CA
+Sauble Beach|ON|Canada|CA
+Shallow Lake|ON|Canada|CA
+Southampton|ON|Canada|CA
+Stokes Bay|ON|Canada|CA
+Tara|ON|Canada|CA
+Thornbury|ON|Canada|CA
+Tobermory|ON|Canada|CA
+Walters Falls|ON|Canada|CA
+Wiarton|ON|Canada|CA
+Williamsford|ON|Canada|CA
+Beachville|ON|Canada|CA
+Bright|ON|Canada|CA
+Burgessville|ON|Canada|CA
+Courtland|ON|Canada|CA
+Drumbo|ON|Canada|CA
+Eden|ON|Canada|CA
+Embro|ON|Canada|CA
+Hickson|ON|Canada|CA
+Innerkip|ON|Canada|CA
+Mount Elgin|ON|Canada|CA
+Norwich|ON|Canada|CA
+Otterville|ON|Canada|CA
+Plattsville|ON|Canada|CA
+Port Burwell|ON|Canada|CA
+Princeton|ON|Canada|CA
+Salford|ON|Canada|CA
+Springford|ON|Canada|CA
+Straffordville|ON|Canada|CA
+Vienna|ON|Canada|CA
+Bornholm|ON|Canada|CA
+Brodhagen|ON|Canada|CA
+Brunner|ON|Canada|CA
+Dublin|ON|Canada|CA
+Egmondville|ON|Canada|CA
+Fullarton|ON|Canada|CA
+Gads Hill Station|ON|Canada|CA
+Kirkton|ON|Canada|CA
+Millbank|ON|Canada|CA
+Milverton|ON|Canada|CA
+Mitchell|ON|Canada|CA
+Monkton|ON|Canada|CA
+Newton|ON|Canada|CA
+Poole|ON|Canada|CA
+Rostock|ON|Canada|CA
+St Pauls Station|ON|Canada|CA
+Seaforth|ON|Canada|CA
+Sebringville|ON|Canada|CA
+Staffa|ON|Canada|CA
+Walton|ON|Canada|CA
+Woodham|ON|Canada|CA
+Appin|ON|Canada|CA
+Belmont|ON|Canada|CA
+Brownsville|ON|Canada|CA
+Delaware|ON|Canada|CA
+Dorchester|ON|Canada|CA
+Duart|ON|Canada|CA
+Dutton|ON|Canada|CA
+Fingal|ON|Canada|CA
+Glencoe|ON|Canada|CA
+Harrietsville|ON|Canada|CA
+Iona Station|ON|Canada|CA
+Komoka|ON|Canada|CA
+Melbourne|ON|Canada|CA
+Mossley|ON|Canada|CA
+Mount Brydges|ON|Canada|CA
+Muirkirk|ON|Canada|CA
+Muncey|ON|Canada|CA
+Newbury|ON|Canada|CA
+Putnam|ON|Canada|CA
+Rodney|ON|Canada|CA
+Shedden|ON|Canada|CA
+Southwold|ON|Canada|CA
+Sparta|ON|Canada|CA
+Springfield|ON|Canada|CA
+Talbotville Royal|ON|Canada|CA
+Union|ON|Canada|CA
+Wallacetown|ON|Canada|CA
+Wardsville|ON|Canada|CA
+West Lorne|ON|Canada|CA
+Ailsa Craig|ON|Canada|CA
+Arkona|ON|Canada|CA
+Arva|ON|Canada|CA
+Auburn|ON|Canada|CA
+Bayfield|ON|Canada|CA
+Blyth|ON|Canada|CA
+Brucefield|ON|Canada|CA
+Centralia|ON|Canada|CA
+Clinton|ON|Canada|CA
+Crediton|ON|Canada|CA
+Dashwood|ON|Canada|CA
+Denfield|ON|Canada|CA
+Dungannon|ON|Canada|CA
+Exeter|ON|Canada|CA
+Grand Bend|ON|Canada|CA
+Granton|ON|Canada|CA
+Hay|ON|Canada|CA
+Hensall|ON|Canada|CA
+Huron Park|ON|Canada|CA
+Ilderton|ON|Canada|CA
+Kerwood|ON|Canada|CA
+Kintore|ON|Canada|CA
+Kippen|ON|Canada|CA
+Lakeside|ON|Canada|CA
+Londesborough|ON|Canada|CA
+Lucan|ON|Canada|CA
+Parkhill|ON|Canada|CA
+Port Franks|ON|Canada|CA
+Thamesford|ON|Canada|CA
+Thedford|ON|Canada|CA
+Thorndale|ON|Canada|CA
+Varna|ON|Canada|CA
+Watford|ON|Canada|CA
+Zurich|ON|Canada|CA
+Alvinston|ON|Canada|CA
+Brigden|ON|Canada|CA
+Brights Grove|ON|Canada|CA
+Camlachie|ON|Canada|CA
+Corunna|ON|Canada|CA
+Courtright|ON|Canada|CA
+Forest|ON|Canada|CA
+Inwood|ON|Canada|CA
+Mooretown|ON|Canada|CA
+Oil City|ON|Canada|CA
+Oil Springs|ON|Canada|CA
+Petrolia|ON|Canada|CA
+Ravenswood|ON|Canada|CA
+Wyoming|ON|Canada|CA
+Blenheim|ON|Canada|CA
+Blytheswood|ON|Canada|CA
+Bothwell|ON|Canada|CA
+Cedar Springs|ON|Canada|CA
+Charing Cross|ON|Canada|CA
+Coatsworth Station|ON|Canada|CA
+Comber|ON|Canada|CA
+Croton|ON|Canada|CA
+Dover Centre|ON|Canada|CA
+Dresden|ON|Canada|CA
+Erieau|ON|Canada|CA
+Florence|ON|Canada|CA
+Grande Pointe|ON|Canada|CA
+Highgate|ON|Canada|CA
+Kent Bridge|ON|Canada|CA
+Merlin|ON|Canada|CA
+Morpeth|ON|Canada|CA
+North Buxton|ON|Canada|CA
+Pain Court|ON|Canada|CA
+Port Alma|ON|Canada|CA
+Port Lambton|ON|Canada|CA
+Ridgetown|ON|Canada|CA
+Ruthven|ON|Canada|CA
+Sombra|ON|Canada|CA
+Staples|ON|Canada|CA
+Thamesville|ON|Canada|CA
+Tilbury|ON|Canada|CA
+Tupperville|ON|Canada|CA
+Wheatley|ON|Canada|CA
+Wilkesport|ON|Canada|CA
+Belle River|ON|Canada|CA
+Cottam|ON|Canada|CA
+Emeryville|ON|Canada|CA
+Harrow|ON|Canada|CA
+McGregor|ON|Canada|CA
+Maidstone|ON|Canada|CA
+Oldcastle|ON|Canada|CA
+Pelee Island|ON|Canada|CA
+Pointe aux Roches|ON|Canada|CA
+Ruscom Station|ON|Canada|CA
+St Joachim|ON|Canada|CA
+South Woodslee|ON|Canada|CA
+Dunnville|ON|Canada|CA
+Guelph|ON|Canada|CA
+Fergus|ON|Canada|CA
+Cambridge|ON|Canada|CA
+Kitchener|ON|Canada|CA
+Waterloo|ON|Canada|CA
+Kincardine|ON|Canada|CA
+New Hamburg|ON|Canada|CA
+Elmira|ON|Canada|CA
+Paris|ON|Canada|CA
+Brantford|ON|Canada|CA
+Caledonia|ON|Canada|CA
+Simcoe|ON|Canada|CA
+Delhi|ON|Canada|CA
+Tillsonburg|ON|Canada|CA
+Owen Sound|ON|Canada|CA
+Meaford|ON|Canada|CA
+Hanover|ON|Canada|CA
+Woodstock|ON|Canada|CA
+Listowel|ON|Canada|CA
+St Marys|ON|Canada|CA
+Stratford|ON|Canada|CA
+Ingersoll|ON|Canada|CA
+Aylmer|ON|Canada|CA
+Port Stanley|ON|Canada|CA
+St Thomas|ON|Canada|CA
+London|ON|Canada|CA
+Goderich|ON|Canada|CA
+Strathroy|ON|Canada|CA
+Chatham|ON|Canada|CA
+Sarnia|ON|Canada|CA
+Point Edward|ON|Canada|CA
+Wallaceburg|ON|Canada|CA
+Leamington|ON|Canada|CA
+Essex|ON|Canada|CA
+Windsor|ON|Canada|CA
+Tecumseh|ON|Canada|CA
+Amherstburg|ON|Canada|CA
+Kingsville|ON|Canada|CA
+Ahmic Harbour|ON|Canada|CA
+Burks Falls|ON|Canada|CA
+Dorset|ON|Canada|CA
+Dunchurch|ON|Canada|CA
+Dwight|ON|Canada|CA
+Emsdale|ON|Canada|CA
+Katrine|ON|Canada|CA
+Kearney|ON|Canada|CA
+Magnetawan|ON|Canada|CA
+Novar|ON|Canada|CA
+South River|ON|Canada|CA
+Sprucedale|ON|Canada|CA
+Sundridge|ON|Canada|CA
+Baysville|ON|Canada|CA
+Beaumaris|ON|Canada|CA
+Milford Bay|ON|Canada|CA
+Minett|ON|Canada|CA
+Port Carling|ON|Canada|CA
+Port Sandfield|ON|Canada|CA
+Port Sydney|ON|Canada|CA
+Utterson|ON|Canada|CA
+Windermere|ON|Canada|CA
+Bala|ON|Canada|CA
+Mactier|ON|Canada|CA
+Rosseau|ON|Canada|CA
+Rosseau Road|ON|Canada|CA
+Torrance|ON|Canada|CA
+Honey Harbour|ON|Canada|CA
+Kilworthy|ON|Canada|CA
+Severn Bridge|ON|Canada|CA
+Britt|ON|Canada|CA
+Byng Inlet|ON|Canada|CA
+McKellar|ON|Canada|CA
+Nobel|ON|Canada|CA
+Pickerel|ON|Canada|CA
+Pointe-au-Baril-Station|ON|Canada|CA
+Arnstein|ON|Canada|CA
+Astorville|ON|Canada|CA
+Bear Island|ON|Canada|CA
+Bonfield|ON|Canada|CA
+Cache Bay|ON|Canada|CA
+Callander|ON|Canada|CA
+Commanda|ON|Canada|CA
+Corbeil|ON|Canada|CA
+Crystal Falls|ON|Canada|CA
+Field|ON|Canada|CA
+Golden Valley|ON|Canada|CA
+Hornell Heights|ON|Canada|CA
+Lavigne|ON|Canada|CA
+Loring|ON|Canada|CA
+Marten River|ON|Canada|CA
+Mattawa|ON|Canada|CA
+Nipissing|ON|Canada|CA
+Port Loring|ON|Canada|CA
+Powassan|ON|Canada|CA
+Redbridge|ON|Canada|CA
+River Valley|ON|Canada|CA
+Rutherglen|ON|Canada|CA
+Temagami|ON|Canada|CA
+Thorne|ON|Canada|CA
+Tilden Lake|ON|Canada|CA
+Trout Creek|ON|Canada|CA
+Verner|ON|Canada|CA
+Warren|ON|Canada|CA
+Restoule|ON|Canada|CA
+Belle Vallee|ON|Canada|CA
+Charlton|ON|Canada|CA
+Cobalt|ON|Canada|CA
+Earlton|ON|Canada|CA
+Elk Lake|ON|Canada|CA
+Englehart|ON|Canada|CA
+Gowganda|ON|Canada|CA
+Haileybury|ON|Canada|CA
+Hilliardton|ON|Canada|CA
+Kenabeek|ON|Canada|CA
+Latchford|ON|Canada|CA
+New Liskeard|ON|Canada|CA
+North Cobalt|ON|Canada|CA
+Thornloe|ON|Canada|CA
+Chaput Hughes|ON|Canada|CA
+Dobie|ON|Canada|CA
+Holtyre|ON|Canada|CA
+Iroquois Falls|ON|Canada|CA
+Iroquois Falls a|ON|Canada|CA
+Kearns|ON|Canada|CA
+King Kirkland|ON|Canada|CA
+Larder Lake|ON|Canada|CA
+Matachewan|ON|Canada|CA
+Matheson|ON|Canada|CA
+Monteith|ON|Canada|CA
+Ramore|ON|Canada|CA
+Sesekinika|ON|Canada|CA
+Swastika|ON|Canada|CA
+Tarzwell|ON|Canada|CA
+Val Gagne|ON|Canada|CA
+Virginiatown|ON|Canada|CA
+Attawapiskat|ON|Canada|CA
+Calstock|ON|Canada|CA
+Cochrane|ON|Canada|CA
+Driftwood|ON|Canada|CA
+Fauquier|ON|Canada|CA
+Fort Albany|ON|Canada|CA
+Frederickhouse|ON|Canada|CA
+Hallebourg|ON|Canada|CA
+Harty|ON|Canada|CA
+Hearst|ON|Canada|CA
+Hunta|ON|Canada|CA
+Jogues|ON|Canada|CA
+Kashechewan|ON|Canada|CA
+Mattice|ON|Canada|CA
+Moonbeam|ON|Canada|CA
+Moose Factory|ON|Canada|CA
+Moosonee|ON|Canada|CA
+Opasatika|ON|Canada|CA
+Smooth Rock Falls|ON|Canada|CA
+Strickland|ON|Canada|CA
+Val Cote|ON|Canada|CA
+Val Rita|ON|Canada|CA
+Peawanuck|ON|Canada|CA
+Alban|ON|Canada|CA
+Azilda|ON|Canada|CA
+Biscotasing|ON|Canada|CA
+Blezard Valley|ON|Canada|CA
+Capreol|ON|Canada|CA
+Cartier|ON|Canada|CA
+Chapleau|ON|Canada|CA
+Chelmsford|ON|Canada|CA
+Coniston|ON|Canada|CA
+Copper Cliff|ON|Canada|CA
+Dowling|ON|Canada|CA
+Falconbridge|ON|Canada|CA
+Foleyet|ON|Canada|CA
+Gogama|ON|Canada|CA
+Hagar|ON|Canada|CA
+Hornepayne|ON|Canada|CA
+Killarney|ON|Canada|CA
+Levack|ON|Canada|CA
+Markstay|ON|Canada|CA
+Missanabie|ON|Canada|CA
+Mobert|ON|Canada|CA
+Monetville|ON|Canada|CA
+Nairn Centre|ON|Canada|CA
+Naughton|ON|Canada|CA
+Noelville|ON|Canada|CA
+Oba|ON|Canada|CA
+Onaping|ON|Canada|CA
+Ramsey|ON|Canada|CA
+St Charles|ON|Canada|CA
+Shining Tree|ON|Canada|CA
+Skead|ON|Canada|CA
+Sultan|ON|Canada|CA
+Wahnapitae|ON|Canada|CA
+Whitefish|ON|Canada|CA
+White River|ON|Canada|CA
+Worthington|ON|Canada|CA
+Connaught|ON|Canada|CA
+Porcupine|ON|Canada|CA
+Porquis Junction|ON|Canada|CA
+Schumacher|ON|Canada|CA
+South Porcupine|ON|Canada|CA
+Tunis|ON|Canada|CA
+Birch Island|ON|Canada|CA
+Cutler|ON|Canada|CA
+Evansville|ON|Canada|CA
+M'Chigeeng|ON|Canada|CA
+Gore Bay|ON|Canada|CA
+Kagawong|ON|Canada|CA
+Little Current|ON|Canada|CA
+McKerrow|ON|Canada|CA
+Manitowaning|ON|Canada|CA
+Massey|ON|Canada|CA
+Meldrum Bay|ON|Canada|CA
+Mindemoya|ON|Canada|CA
+Providence Bay|ON|Canada|CA
+Serpent River|ON|Canada|CA
+Sheguiandah|ON|Canada|CA
+Sheshegwaning|ON|Canada|CA
+Silver Water|ON|Canada|CA
+South Baymouth|ON|Canada|CA
+Spanish|ON|Canada|CA
+Spring Bay|ON|Canada|CA
+Tehkummah|ON|Canada|CA
+Walford Station|ON|Canada|CA
+Webbwood|ON|Canada|CA
+Whitefish Falls|ON|Canada|CA
+Wikwemikong|ON|Canada|CA
+Algoma Mills|ON|Canada|CA
+Blind River|ON|Canada|CA
+Bruce Mines|ON|Canada|CA
+Desbarats|ON|Canada|CA
+Hilton Beach|ON|Canada|CA
+Iron Bridge|ON|Canada|CA
+Richards Landing|ON|Canada|CA
+Spragge|ON|Canada|CA
+Thessalon|ON|Canada|CA
+Batchawana Bay|ON|Canada|CA
+Dubreuilville|ON|Canada|CA
+Echo Bay|ON|Canada|CA
+Goulais River|ON|Canada|CA
+Hawk Junction|ON|Canada|CA
+Montreal River Harbour|ON|Canada|CA
+Searchmont|ON|Canada|CA
+Wawa|ON|Canada|CA
+Armstrong Station|ON|Canada|CA
+Atikokan|ON|Canada|CA
+Beardmore|ON|Canada|CA
+Caramat|ON|Canada|CA
+Dorion|ON|Canada|CA
+Eabamet Lake|ON|Canada|CA
+Geraldton|ON|Canada|CA
+Graham|ON|Canada|CA
+Gull Bay|ON|Canada|CA
+Heron Bay|ON|Canada|CA
+Ignace|ON|Canada|CA
+Jellicoe|ON|Canada|CA
+Kakabeka Falls|ON|Canada|CA
+Kaministiquia|ON|Canada|CA
+Kashabowie|ON|Canada|CA
+Lansdowne House|ON|Canada|CA
+Longlac|ON|Canada|CA
+Macdiarmid|ON|Canada|CA
+Manitouwadge|ON|Canada|CA
+Marathon|ON|Canada|CA
+Murillo|ON|Canada|CA
+Nakina|ON|Canada|CA
+Nipigon|ON|Canada|CA
+Nolalu|ON|Canada|CA
+Ogoki|ON|Canada|CA
+Pass Lake|ON|Canada|CA
+Raith|ON|Canada|CA
+Red Rock|ON|Canada|CA
+Rossport|ON|Canada|CA
+Schreiber|ON|Canada|CA
+Shebandowan|ON|Canada|CA
+South Gillies|ON|Canada|CA
+Terrace Bay|ON|Canada|CA
+Upsala|ON|Canada|CA
+Vickers Heights|ON|Canada|CA
+Webequie|ON|Canada|CA
+Summer Beaver|ON|Canada|CA
+Angling Lake|ON|Canada|CA
+Balmertown|ON|Canada|CA
+Bearskin Lake|ON|Canada|CA
+Big Trout Lake|ON|Canada|CA
+Cat Lake|ON|Canada|CA
+Cochenour|ON|Canada|CA
+Collins|ON|Canada|CA
+Deer Lake|ON|Canada|CA
+Dinorwic|ON|Canada|CA
+Eagle River|ON|Canada|CA
+Ear Falls|ON|Canada|CA
+Sandy Lake|ON|Canada|CA
+Fort Severn|ON|Canada|CA
+Hudson|ON|Canada|CA
+Kasabonika|ON|Canada|CA
+Kingfisher Lake|ON|Canada|CA
+Lac Seul|ON|Canada|CA
+McKenzie Island|ON|Canada|CA
+Madsen|ON|Canada|CA
+Minnitaki|ON|Canada|CA
+North Spirit Lake|ON|Canada|CA
+Osnaburgh House|ON|Canada|CA
+Oxdrift|ON|Canada|CA
+Perrault Falls|ON|Canada|CA
+Pikangikum|ON|Canada|CA
+Red Lake|ON|Canada|CA
+Sachigo Lake|ON|Canada|CA
+Savant Lake|ON|Canada|CA
+Vermilion Bay|ON|Canada|CA
+Wabigoon|ON|Canada|CA
+Waldhof|ON|Canada|CA
+Weagamow Lake|ON|Canada|CA
+Wunnummin Lake|ON|Canada|CA
+Pickle Lake|ON|Canada|CA
+Muskrat Dam|ON|Canada|CA
+Slate Falls|ON|Canada|CA
+Poplar Hill|ON|Canada|CA
+Keewaywin|ON|Canada|CA
+Migisi Sahgaigan|ON|Canada|CA
+Barwick|ON|Canada|CA
+Devlin|ON|Canada|CA
+Emo|ON|Canada|CA
+Mine Centre|ON|Canada|CA
+Morson|ON|Canada|CA
+Pinewood|ON|Canada|CA
+Rainy River|ON|Canada|CA
+Sleeman|ON|Canada|CA
+Stratton|ON|Canada|CA
+Grassy Narrows|ON|Canada|CA
+Keewatin|ON|Canada|CA
+Kejick|ON|Canada|CA
+Longbow Lake|ON|Canada|CA
+Minaki|ON|Canada|CA
+Nestor Falls|ON|Canada|CA
+Pawitik|ON|Canada|CA
+Redditt|ON|Canada|CA
+Sioux Narrows|ON|Canada|CA
+Whitedog|ON|Canada|CA
+Clearwater Bay|ON|Canada|CA
+Ingolf|ON|Canada|CA
+North Bay|ON|Canada|CA
+Huntsville|ON|Canada|CA
+Lake of Bays|ON|Canada|CA
+Bracebridge|ON|Canada|CA
+Gravenhurst|ON|Canada|CA
+Parry Sound|ON|Canada|CA
+Sturgeon Falls|ON|Canada|CA
+Garden Village|ON|Canada|CA
+Kirkland Lake|ON|Canada|CA
+Sudbury|ON|Canada|CA
+Garson|ON|Canada|CA
+Val Caron|ON|Canada|CA
+Hanmer|ON|Canada|CA
+Val Therese|ON|Canada|CA
+Lively|ON|Canada|CA
+Timmins|ON|Canada|CA
+Elliot Lake|ON|Canada|CA
+Espanola|ON|Canada|CA
+Kapuskasing|ON|Canada|CA
+Sault Ste Marie|ON|Canada|CA
+Garden River|ON|Canada|CA
+Thunder Bay|ON|Canada|CA
+Dryden|ON|Canada|CA
+Sioux Lookout|ON|Canada|CA
+Fort Frances|ON|Canada|CA
+Kenora|ON|Canada|CA
+Arnaud|MB|Canada|CA
+Blumenort|MB|Canada|CA
+Caliento|MB|Canada|CA
+Carlowrie|MB|Canada|CA
+Dominion City|MB|Canada|CA
+Dufresne|MB|Canada|CA
+Dufrost|MB|Canada|CA
+Emerson|MB|Canada|CA
+Gardenton|MB|Canada|CA
+Giroux|MB|Canada|CA
+Green Ridge|MB|Canada|CA
+Grunthal|MB|Canada|CA
+Halbstadt|MB|Canada|CA
+Ile des Chenes|MB|Canada|CA
+Kleefeld|MB|Canada|CA
+La Broquerie|MB|Canada|CA
+Landmark|MB|Canada|CA
+Lorette|MB|Canada|CA
+Marchand|MB|Canada|CA
+Menisino|MB|Canada|CA
+Middlebro|MB|Canada|CA
+New Bothwell|MB|Canada|CA
+Niverville|MB|Canada|CA
+Otterburne|MB|Canada|CA
+Overstoneville|MB|Canada|CA
+Pansy|MB|Canada|CA
+Piney|MB|Canada|CA
+Randolph|MB|Canada|CA
+Ridgeville|MB|Canada|CA
+Rosa|MB|Canada|CA
+Roseau River|MB|Canada|CA
+St Malo|MB|Canada|CA
+St Pierre Jolys|MB|Canada|CA
+Sandilands|MB|Canada|CA
+Sarto|MB|Canada|CA
+South Junction|MB|Canada|CA
+Sprague|MB|Canada|CA
+Steinbach|MB|Canada|CA
+Stuartburn|MB|Canada|CA
+Sundown|MB|Canada|CA
+Tolstoi|MB|Canada|CA
+Tourond|MB|Canada|CA
+Vassar|MB|Canada|CA
+Vita|MB|Canada|CA
+Woodmore|MB|Canada|CA
+Woodridge|MB|Canada|CA
+Zhoda|MB|Canada|CA
+Ginew|MB|Canada|CA
+Buffalo Point|MB|Canada|CA
+Berens River|MB|Canada|CA
+Brochet|MB|Canada|CA
+Channing|MB|Canada|CA
+Churchill|MB|Canada|CA
+Cormorant|MB|Canada|CA
+Cranberry Portage|MB|Canada|CA
+Cross Lake|MB|Canada|CA
+Gillam|MB|Canada|CA
+Gods Lake Narrows|MB|Canada|CA
+Gods River|MB|Canada|CA
+Granville Lake|MB|Canada|CA
+Ilford|MB|Canada|CA
+Island Lake|MB|Canada|CA
+Little Grand Rapids|MB|Canada|CA
+Lynn Lake|MB|Canada|CA
+Moose Lake|MB|Canada|CA
+Negginan|MB|Canada|CA
+Nelson House|MB|Canada|CA
+Norway House|MB|Canada|CA
+Oxford House|MB|Canada|CA
+Pikwitonei|MB|Canada|CA
+Pukatawagan|MB|Canada|CA
+Red Sucker Lake|MB|Canada|CA
+St Theresa Point|MB|Canada|CA
+Shamattawa|MB|Canada|CA
+Sherridon|MB|Canada|CA
+Snow Lake|MB|Canada|CA
+South Indian Lake|MB|Canada|CA
+Split Lake|MB|Canada|CA
+Thicket Portage|MB|Canada|CA
+Wabowden|MB|Canada|CA
+Wanless|MB|Canada|CA
+Leaf Rapids|MB|Canada|CA
+Waasagomach|MB|Canada|CA
+York Landing|MB|Canada|CA
+Tadoule Lake|MB|Canada|CA
+Lac Brochet|MB|Canada|CA
+Pauingassi|MB|Canada|CA
+Stevenson Island|MB|Canada|CA
+Opaskwayak|MB|Canada|CA
+Arborg|MB|Canada|CA
+Argyle|MB|Canada|CA
+Arnes|MB|Canada|CA
+Ashern|MB|Canada|CA
+Balmoral|MB|Canada|CA
+Bloodvein|MB|Canada|CA
+Broad Valley|MB|Canada|CA
+Camp Morton|MB|Canada|CA
+Chatfield|MB|Canada|CA
+Clandeboye|MB|Canada|CA
+Dallas|MB|Canada|CA
+Easterville|MB|Canada|CA
+Eriksdale|MB|Canada|CA
+Fairford|MB|Canada|CA
+Faulkner|MB|Canada|CA
+Fisher Branch|MB|Canada|CA
+Fraserwood|MB|Canada|CA
+Gimli|MB|Canada|CA
+Grahamdale|MB|Canada|CA
+Grand Rapids|MB|Canada|CA
+Grosse Isle|MB|Canada|CA
+Gunton|MB|Canada|CA
+Gypsumville|MB|Canada|CA
+Hilbre|MB|Canada|CA
+Hodgson|MB|Canada|CA
+Inwood|MB|Canada|CA
+Komarno|MB|Canada|CA
+Koostatak|MB|Canada|CA
+Lake Francis|MB|Canada|CA
+Little Bullhead|MB|Canada|CA
+Loon Straits|MB|Canada|CA
+Lundar|MB|Canada|CA
+Malonton|MB|Canada|CA
+Matheson Island|MB|Canada|CA
+Matlock|MB|Canada|CA
+Meleb|MB|Canada|CA
+Moosehorn|MB|Canada|CA
+Mulvihill|MB|Canada|CA
+Narcisse|MB|Canada|CA
+Oak Point|MB|Canada|CA
+Oakview|MB|Canada|CA
+Petersfield|MB|Canada|CA
+Poplarfield|MB|Canada|CA
+Princess Harbour|MB|Canada|CA
+Riverton|MB|Canada|CA
+St Laurent|MB|Canada|CA
+St Martin|MB|Canada|CA
+Sandy Hook|MB|Canada|CA
+Silver|MB|Canada|CA
+Steep Rock|MB|Canada|CA
+Stonewall|MB|Canada|CA
+Stony Mountain|MB|Canada|CA
+Teulon|MB|Canada|CA
+Vogar|MB|Canada|CA
+Warren|MB|Canada|CA
+Winnipeg Beach|MB|Canada|CA
+Woodlands|MB|Canada|CA
+Peguis|MB|Canada|CA
+Anola|MB|Canada|CA
+Beaconia|MB|Canada|CA
+Beausejour|MB|Canada|CA
+Belair|MB|Canada|CA
+Bissett|MB|Canada|CA
+Dugald|MB|Canada|CA
+East Braintree|MB|Canada|CA
+East Selkirk|MB|Canada|CA
+Falcon Beach|MB|Canada|CA
+Fort Alexander|MB|Canada|CA
+Garson|MB|Canada|CA
+Grand Marais|MB|Canada|CA
+Great Falls|MB|Canada|CA
+Hadashville|MB|Canada|CA
+Hazelridge|MB|Canada|CA
+Elma|MB|Canada|CA
+Lac du Bonnet|MB|Canada|CA
+Libau|MB|Canada|CA
+Manigotagan|MB|Canada|CA
+Oakbank|MB|Canada|CA
+O'Hanly|MB|Canada|CA
+Pinawa|MB|Canada|CA
+Pine Falls|MB|Canada|CA
+Pointe du Bois|MB|Canada|CA
+Powerview|MB|Canada|CA
+Rennie|MB|Canada|CA
+Richer|MB|Canada|CA
+River Hills|MB|Canada|CA
+St George|MB|Canada|CA
+Scanterbury|MB|Canada|CA
+Seddons Corner|MB|Canada|CA
+Seven Sisters Falls|MB|Canada|CA
+Stead|MB|Canada|CA
+Traverse Bay|MB|Canada|CA
+Tyndall|MB|Canada|CA
+Victoria Beach|MB|Canada|CA
+Wanipigow|MB|Canada|CA
+Whitemouth|MB|Canada|CA
+Whiteshell|MB|Canada|CA
+Altamont|MB|Canada|CA
+Altona|MB|Canada|CA
+Aubigny|MB|Canada|CA
+Brunkild|MB|Canada|CA
+Bruxelles|MB|Canada|CA
+Carman|MB|Canada|CA
+Darlingford|MB|Canada|CA
+Domain|MB|Canada|CA
+Elm Creek|MB|Canada|CA
+Fannystelle|MB|Canada|CA
+Glenlea|MB|Canada|CA
+Graysville|MB|Canada|CA
+Gretna|MB|Canada|CA
+Haywood|MB|Canada|CA
+Holland|MB|Canada|CA
+Homewood|MB|Canada|CA
+Horndean|MB|Canada|CA
+La Riviere|MB|Canada|CA
+La Salle|MB|Canada|CA
+Letellier|MB|Canada|CA
+Lowe Farm|MB|Canada|CA
+Manitou|MB|Canada|CA
+Miami|MB|Canada|CA
+Morris|MB|Canada|CA
+Notre Dame de Lourdes|MB|Canada|CA
+Oak Bluff|MB|Canada|CA
+Pilot Mound|MB|Canada|CA
+Plum Coulee|MB|Canada|CA
+Rathwell|MB|Canada|CA
+Roland|MB|Canada|CA
+Roseisle|MB|Canada|CA
+Rosenort|MB|Canada|CA
+Rosenfeld|MB|Canada|CA
+Ste Agathe|MB|Canada|CA
+St Claude|MB|Canada|CA
+St Germain|MB|Canada|CA
+St Jean Baptiste|MB|Canada|CA
+St Joseph|MB|Canada|CA
+St Leon|MB|Canada|CA
+Sanford|MB|Canada|CA
+Snowflake|MB|Canada|CA
+Somerset|MB|Canada|CA
+Sperling|MB|Canada|CA
+Springstein|MB|Canada|CA
+Starbuck|MB|Canada|CA
+Stephenfield|MB|Canada|CA
+Swan Lake|MB|Canada|CA
+Thornhill|MB|Canada|CA
+Treherne|MB|Canada|CA
+Vermette|MB|Canada|CA
+Alonsa|MB|Canada|CA
+Amaranth|MB|Canada|CA
+Austin|MB|Canada|CA
+Bagot|MB|Canada|CA
+Edwin|MB|Canada|CA
+Elie|MB|Canada|CA
+High Bluff|MB|Canada|CA
+Kinosota|MB|Canada|CA
+Lakeland|MB|Canada|CA
+Langruth|MB|Canada|CA
+Lavenham|MB|Canada|CA
+Macgregor|MB|Canada|CA
+Macdonald|MB|Canada|CA
+Marius|MB|Canada|CA
+Marquette|MB|Canada|CA
+Newton Siding|MB|Canada|CA
+Oakville|MB|Canada|CA
+Poplar Point|MB|Canada|CA
+Pratt|MB|Canada|CA
+Rossendale|MB|Canada|CA
+Rosser|MB|Canada|CA
+St Ambroise|MB|Canada|CA
+St Eustache|MB|Canada|CA
+St Marks|MB|Canada|CA
+Sidney|MB|Canada|CA
+Silver Ridge|MB|Canada|CA
+Southport|MB|Canada|CA
+Westbourne|MB|Canada|CA
+Woodside|MB|Canada|CA
+Angusville|MB|Canada|CA
+Arden|MB|Canada|CA
+Bethany|MB|Canada|CA
+Binscarth|MB|Canada|CA
+Birnie|MB|Canada|CA
+Clanwilliam|MB|Canada|CA
+Dropmore|MB|Canada|CA
+Eden|MB|Canada|CA
+Elphinstone|MB|Canada|CA
+Erickson|MB|Canada|CA
+Foxwarren|MB|Canada|CA
+Franklin|MB|Canada|CA
+Gladstone|MB|Canada|CA
+Glenella|MB|Canada|CA
+Inglis|MB|Canada|CA
+Kelwood|MB|Canada|CA
+Lake Audy|MB|Canada|CA
+Laurier|MB|Canada|CA
+McCreary|MB|Canada|CA
+Menzie|MB|Canada|CA
+Minnedosa|MB|Canada|CA
+Mountain Road|MB|Canada|CA
+Neepawa|MB|Canada|CA
+Newdale|MB|Canada|CA
+Olha|MB|Canada|CA
+Oakburn|MB|Canada|CA
+Onanole|MB|Canada|CA
+Plumas|MB|Canada|CA
+Polonia|MB|Canada|CA
+Waywayseecappo|MB|Canada|CA
+Riding Mountain|MB|Canada|CA
+Rossburn|MB|Canada|CA
+Russell|MB|Canada|CA
+Sandy Lake|MB|Canada|CA
+Shellmouth|MB|Canada|CA
+Shoal Lake|MB|Canada|CA
+Solsgirth|MB|Canada|CA
+Strathclair|MB|Canada|CA
+Vista|MB|Canada|CA
+Waldersee|MB|Canada|CA
+Wasagaming|MB|Canada|CA
+Alexander|MB|Canada|CA
+Baldur|MB|Canada|CA
+Belmont|MB|Canada|CA
+Boissevain|MB|Canada|CA
+Brookdale|MB|Canada|CA
+Carberry|MB|Canada|CA
+Cardale|MB|Canada|CA
+Carroll|MB|Canada|CA
+Cartwright|MB|Canada|CA
+Clearwater|MB|Canada|CA
+Crystal City|MB|Canada|CA
+Cypress River|MB|Canada|CA
+Douglas|MB|Canada|CA
+Dunrea|MB|Canada|CA
+Elgin|MB|Canada|CA
+Fairfax|MB|Canada|CA
+Forrest Station|MB|Canada|CA
+Glenboro|MB|Canada|CA
+Glenora|MB|Canada|CA
+Holmfield|MB|Canada|CA
+Justice|MB|Canada|CA
+Killarney|MB|Canada|CA
+Margaret|MB|Canada|CA
+Mariapolis|MB|Canada|CA
+Mather|MB|Canada|CA
+Minto|MB|Canada|CA
+Nesbitt|MB|Canada|CA
+Ninette|MB|Canada|CA
+Ninga|MB|Canada|CA
+Oak River|MB|Canada|CA
+Rapid City|MB|Canada|CA
+Rivers|MB|Canada|CA
+St Alphonse|MB|Canada|CA
+Shilo|MB|Canada|CA
+Souris|MB|Canada|CA
+Stockton|MB|Canada|CA
+Wawanesa|MB|Canada|CA
+Wellwood|MB|Canada|CA
+Ashville|MB|Canada|CA
+Barrows|MB|Canada|CA
+Benito|MB|Canada|CA
+Birch River|MB|Canada|CA
+Boggy Creek|MB|Canada|CA
+Bowsman|MB|Canada|CA
+Camperville|MB|Canada|CA
+Cayer|MB|Canada|CA
+Cowan|MB|Canada|CA
+Crane River|MB|Canada|CA
+Duck Bay|MB|Canada|CA
+Durban|MB|Canada|CA
+Ebb and Flow|MB|Canada|CA
+Eddystone|MB|Canada|CA
+Ethelbert|MB|Canada|CA
+Fork River|MB|Canada|CA
+Garland|MB|Canada|CA
+Gilbert Plains|MB|Canada|CA
+Grandview|MB|Canada|CA
+Kenville|MB|Canada|CA
+Mafeking|MB|Canada|CA
+Makinak|MB|Canada|CA
+Meadow Portage|MB|Canada|CA
+Minitonas|MB|Canada|CA
+National Mills|MB|Canada|CA
+Oak Brae|MB|Canada|CA
+Ochre River|MB|Canada|CA
+Pelican Rapids|MB|Canada|CA
+Pine River|MB|Canada|CA
+Renwer|MB|Canada|CA
+Roblin|MB|Canada|CA
+Rorketon|MB|Canada|CA
+Ste Rose du Lac|MB|Canada|CA
+San Clara|MB|Canada|CA
+Shortdale|MB|Canada|CA
+Sifton|MB|Canada|CA
+Skownan|MB|Canada|CA
+Swan River|MB|Canada|CA
+Toutes Aides|MB|Canada|CA
+Valley River|MB|Canada|CA
+Waterhen|MB|Canada|CA
+Winnipegosis|MB|Canada|CA
+Rock Ridge|MB|Canada|CA
+Belleview|MB|Canada|CA
+Beulah|MB|Canada|CA
+Birtle|MB|Canada|CA
+Bradwardine|MB|Canada|CA
+Coulter|MB|Canada|CA
+Crandall|MB|Canada|CA
+Cromer|MB|Canada|CA
+Decker|MB|Canada|CA
+Deleau|MB|Canada|CA
+Deloraine|MB|Canada|CA
+Elkhorn|MB|Canada|CA
+Goodlands|MB|Canada|CA
+Griswold|MB|Canada|CA
+Hamiota|MB|Canada|CA
+Harding|MB|Canada|CA
+Hargrave|MB|Canada|CA
+Hartney|MB|Canada|CA
+Isabella|MB|Canada|CA
+Kenton|MB|Canada|CA
+Kirkella|MB|Canada|CA
+Kola|MB|Canada|CA
+Lauder|MB|Canada|CA
+Lenore|MB|Canada|CA
+Lyleton|MB|Canada|CA
+McAuley|MB|Canada|CA
+Manson|MB|Canada|CA
+Medora|MB|Canada|CA
+Melita|MB|Canada|CA
+Miniota|MB|Canada|CA
+Napinka|MB|Canada|CA
+Oak Lake|MB|Canada|CA
+Pierson|MB|Canada|CA
+Pipestone|MB|Canada|CA
+Reston|MB|Canada|CA
+St Lazare|MB|Canada|CA
+Sinclair|MB|Canada|CA
+Tilston|MB|Canada|CA
+Virden|MB|Canada|CA
+Waskada|MB|Canada|CA
+Arrow River|MB|Canada|CA
+Selkirk|MB|Canada|CA
+Lockport|MB|Canada|CA
+St Andrews|MB|Canada|CA
+Portage la Prairie|MB|Canada|CA
+Dakota Tipi|MB|Canada|CA
+Winnipeg|MB|Canada|CA
+Springfield|MB|Canada|CA
+St Clements|MB|Canada|CA
+East St Paul|MB|Canada|CA
+West St Paul|MB|Canada|CA
+Headingley|MB|Canada|CA
+Cartier|MB|Canada|CA
+Dacotah|MB|Canada|CA
+St Francois Xavier|MB|Canada|CA
+St Adolphe|MB|Canada|CA
+Mitchell|MB|Canada|CA
+Ste Anne|MB|Canada|CA
+Morden|MB|Canada|CA
+Winkler|MB|Canada|CA
+Brandon|MB|Canada|CA
+Dauphin|MB|Canada|CA
+Flin Flon|MB|Canada|CA
+Thompson|MB|Canada|CA
+The Pas|MB|Canada|CA
+Abernethy|SK|Canada|CA
+Arran|SK|Canada|CA
+Atwater|SK|Canada|CA
+Bangor|SK|Canada|CA
+Bankend|SK|Canada|CA
+Bredenbury|SK|Canada|CA
+Buchanan|SK|Canada|CA
+Calder|SK|Canada|CA
+Canora|SK|Canada|CA
+Churchbridge|SK|Canada|CA
+Clair|SK|Canada|CA
+Danbury|SK|Canada|CA
+Dubuc|SK|Canada|CA
+Duff|SK|Canada|CA
+Ebenezer|SK|Canada|CA
+Elfros|SK|Canada|CA
+Endeavour|SK|Canada|CA
+Esterhazy|SK|Canada|CA
+Fenwood|SK|Canada|CA
+Foam Lake|SK|Canada|CA
+Gerald|SK|Canada|CA
+Goodeve|SK|Canada|CA
+Grayson|SK|Canada|CA
+Hazel Dell|SK|Canada|CA
+Homefield|SK|Canada|CA
+Hubbard|SK|Canada|CA
+Hyas|SK|Canada|CA
+Insinger|SK|Canada|CA
+Invermay|SK|Canada|CA
+Ituna|SK|Canada|CA
+Jedburgh|SK|Canada|CA
+Kamsack|SK|Canada|CA
+Kelliher|SK|Canada|CA
+Kelvington|SK|Canada|CA
+Killaly|SK|Canada|CA
+Kuroki|SK|Canada|CA
+Kylemore|SK|Canada|CA
+Langenburg|SK|Canada|CA
+Lemberg|SK|Canada|CA
+Leross|SK|Canada|CA
+Leslie|SK|Canada|CA
+Lestock|SK|Canada|CA
+Lintlaw|SK|Canada|CA
+Macnutt|SK|Canada|CA
+Marchwell|SK|Canada|CA
+Margo|SK|Canada|CA
+Melville|SK|Canada|CA
+Mikado|SK|Canada|CA
+Mozart|SK|Canada|CA
+Neudorf|SK|Canada|CA
+Norquay|SK|Canada|CA
+Nut Mountain|SK|Canada|CA
+Okla|SK|Canada|CA
+Parkerview|SK|Canada|CA
+Pelly|SK|Canada|CA
+Yellow Quill|SK|Canada|CA
+Preeceville|SK|Canada|CA
+Punnichy|SK|Canada|CA
+Quill Lake|SK|Canada|CA
+Quinton|SK|Canada|CA
+Rama|SK|Canada|CA
+Raymore|SK|Canada|CA
+Rhein|SK|Canada|CA
+Rocanville|SK|Canada|CA
+Rokeby|SK|Canada|CA
+Runnymede|SK|Canada|CA
+Saltcoats|SK|Canada|CA
+Semans|SK|Canada|CA
+Sheho|SK|Canada|CA
+Springside|SK|Canada|CA
+Spy Hill|SK|Canada|CA
+Stenen|SK|Canada|CA
+Stockholm|SK|Canada|CA
+Stornoway|SK|Canada|CA
+Sturgis|SK|Canada|CA
+Tantallon|SK|Canada|CA
+Theodore|SK|Canada|CA
+Togo|SK|Canada|CA
+Tuffnell|SK|Canada|CA
+Verigin|SK|Canada|CA
+Wadena|SK|Canada|CA
+Waldron|SK|Canada|CA
+Welwyn|SK|Canada|CA
+West Bend|SK|Canada|CA
+Willowbrook|SK|Canada|CA
+Wishart|SK|Canada|CA
+Wroxton|SK|Canada|CA
+Wynyard|SK|Canada|CA
+Yarbo|SK|Canada|CA
+Alameda|SK|Canada|CA
+Alida|SK|Canada|CA
+Antler|SK|Canada|CA
+Arcola|SK|Canada|CA
+Beaubier|SK|Canada|CA
+Bellegarde|SK|Canada|CA
+Bengough|SK|Canada|CA
+Benson|SK|Canada|CA
+Bienfait|SK|Canada|CA
+Bromhead|SK|Canada|CA
+Carievale|SK|Canada|CA
+Carlyle|SK|Canada|CA
+Carnduff|SK|Canada|CA
+Ceylon|SK|Canada|CA
+Colgate|SK|Canada|CA
+Fertile|SK|Canada|CA
+Forget|SK|Canada|CA
+Frobisher|SK|Canada|CA
+Gainsborough|SK|Canada|CA
+Gladmar|SK|Canada|CA
+Glasnevin|SK|Canada|CA
+Glen Ewen|SK|Canada|CA
+Griffin|SK|Canada|CA
+Halbrite|SK|Canada|CA
+Hardy|SK|Canada|CA
+Khedive|SK|Canada|CA
+Kisbey|SK|Canada|CA
+Lake Alma|SK|Canada|CA
+Lampman|SK|Canada|CA
+Macoun|SK|Canada|CA
+Manor|SK|Canada|CA
+Midale|SK|Canada|CA
+Minton|SK|Canada|CA
+Northgate|SK|Canada|CA
+North Portal|SK|Canada|CA
+North Weyburn|SK|Canada|CA
+Ogema|SK|Canada|CA
+Oungre|SK|Canada|CA
+Oxbow|SK|Canada|CA
+Pangman|SK|Canada|CA
+Parkman|SK|Canada|CA
+Radville|SK|Canada|CA
+Redvers|SK|Canada|CA
+Steelman|SK|Canada|CA
+Storthoaks|SK|Canada|CA
+Torquay|SK|Canada|CA
+Tribune|SK|Canada|CA
+Trossachs|SK|Canada|CA
+Wauchope|SK|Canada|CA
+Kenosee Lake|SK|Canada|CA
+Arborfield|SK|Canada|CA
+Archerwill|SK|Canada|CA
+Aylsham|SK|Canada|CA
+Bjorkdale|SK|Canada|CA
+Brockington|SK|Canada|CA
+Brooksby|SK|Canada|CA
+Carragana|SK|Canada|CA
+Carrot River|SK|Canada|CA
+Chelan|SK|Canada|CA
+Codette|SK|Canada|CA
+Crooked River|SK|Canada|CA
+Cumberland House|SK|Canada|CA
+Fairy Glen|SK|Canada|CA
+Fosston|SK|Canada|CA
+Gronlid|SK|Canada|CA
+Hendon|SK|Canada|CA
+Hudson Bay|SK|Canada|CA
+McKague|SK|Canada|CA
+Melfort|SK|Canada|CA
+Mistatim|SK|Canada|CA
+Nipawin|SK|Canada|CA
+Pakwaw Lake|SK|Canada|CA
+Porcupine Plain|SK|Canada|CA
+Prairie River|SK|Canada|CA
+Red Earth|SK|Canada|CA
+Ridgedale|SK|Canada|CA
+Rose Valley|SK|Canada|CA
+Somme|SK|Canada|CA
+Star City|SK|Canada|CA
+Sylvania|SK|Canada|CA
+Tisdale|SK|Canada|CA
+Weekes|SK|Canada|CA
+Zenon Park|SK|Canada|CA
+Avonhurst|SK|Canada|CA
+Aylesbury|SK|Canada|CA
+Balcarres|SK|Canada|CA
+Balgonie|SK|Canada|CA
+Belle Plaine|SK|Canada|CA
+Bethune|SK|Canada|CA
+Bladworth|SK|Canada|CA
+Broadview|SK|Canada|CA
+Bulyea|SK|Canada|CA
+Candiac|SK|Canada|CA
+Chamberlain|SK|Canada|CA
+Colfax|SK|Canada|CA
+Corning|SK|Canada|CA
+Craik|SK|Canada|CA
+Craven|SK|Canada|CA
+Creelman|SK|Canada|CA
+Cupar|SK|Canada|CA
+Cymric|SK|Canada|CA
+Davidson|SK|Canada|CA
+Davin|SK|Canada|CA
+Dilke|SK|Canada|CA
+Duval|SK|Canada|CA
+Dysart|SK|Canada|CA
+Earl Grey|SK|Canada|CA
+Edenwold|SK|Canada|CA
+Edgeley|SK|Canada|CA
+Fairlight|SK|Canada|CA
+Fillmore|SK|Canada|CA
+Findlater|SK|Canada|CA
+Fleming|SK|Canada|CA
+Fort Qu'Appelle|SK|Canada|CA
+Francis|SK|Canada|CA
+Girvin|SK|Canada|CA
+Glenavon|SK|Canada|CA
+Govan|SK|Canada|CA
+Gray|SK|Canada|CA
+Grenfell|SK|Canada|CA
+Hanley|SK|Canada|CA
+Heward|SK|Canada|CA
+Holdfast|SK|Canada|CA
+Imperial|SK|Canada|CA
+Indian Head|SK|Canada|CA
+Kelso|SK|Canada|CA
+Kenaston|SK|Canada|CA
+Kendal|SK|Canada|CA
+Kennedy|SK|Canada|CA
+Kipling|SK|Canada|CA
+Kronau|SK|Canada|CA
+Lajord|SK|Canada|CA
+Lang|SK|Canada|CA
+Langbank|SK|Canada|CA
+Lebret|SK|Canada|CA
+Lewvan|SK|Canada|CA
+Liberty|SK|Canada|CA
+Lipton|SK|Canada|CA
+Lumsden|SK|Canada|CA
+McLean|SK|Canada|CA
+McTaggart|SK|Canada|CA
+Markinch|SK|Canada|CA
+Maryfield|SK|Canada|CA
+Milestone|SK|Canada|CA
+Montmartre|SK|Canada|CA
+Moosomin|SK|Canada|CA
+Nokomis|SK|Canada|CA
+Odessa|SK|Canada|CA
+Osage|SK|Canada|CA
+Peebles|SK|Canada|CA
+Pense|SK|Canada|CA
+Penzance|SK|Canada|CA
+Pilot Butte|SK|Canada|CA
+Qu'Appelle|SK|Canada|CA
+Regina Beach|SK|Canada|CA
+Riceton|SK|Canada|CA
+Richardson|SK|Canada|CA
+Rouleau|SK|Canada|CA
+Sedley|SK|Canada|CA
+Silton|SK|Canada|CA
+Simpson|SK|Canada|CA
+Sintaluta|SK|Canada|CA
+Southey|SK|Canada|CA
+Stalwart|SK|Canada|CA
+Stony Beach|SK|Canada|CA
+Stoughton|SK|Canada|CA
+Strasbourg|SK|Canada|CA
+Summerberry|SK|Canada|CA
+Tyvan|SK|Canada|CA
+Vibank|SK|Canada|CA
+Wapella|SK|Canada|CA
+Wawota|SK|Canada|CA
+White City|SK|Canada|CA
+Whitewood|SK|Canada|CA
+Wilcox|SK|Canada|CA
+Windthorst|SK|Canada|CA
+Wolseley|SK|Canada|CA
+Yellow Grass|SK|Canada|CA
+Zehner|SK|Canada|CA
+Cowessess|SK|Canada|CA
+Ardill|SK|Canada|CA
+Assiniboia|SK|Canada|CA
+Avonlea|SK|Canada|CA
+Bateman|SK|Canada|CA
+Big Beaver|SK|Canada|CA
+Briercrest|SK|Canada|CA
+Broderick|SK|Canada|CA
+Brownlee|SK|Canada|CA
+Bushell Park|SK|Canada|CA
+Cardross|SK|Canada|CA
+Caron|SK|Canada|CA
+Caronport|SK|Canada|CA
+Central Butte|SK|Canada|CA
+Chaplin|SK|Canada|CA
+Claybank|SK|Canada|CA
+Coderre|SK|Canada|CA
+Congress|SK|Canada|CA
+Coronach|SK|Canada|CA
+Courval|SK|Canada|CA
+Crane Valley|SK|Canada|CA
+Drinkwater|SK|Canada|CA
+Dummer|SK|Canada|CA
+Elbow|SK|Canada|CA
+Ernfold|SK|Canada|CA
+Eyebrow|SK|Canada|CA
+Ferland|SK|Canada|CA
+Fife Lake|SK|Canada|CA
+Fir Mountain|SK|Canada|CA
+Flintoft|SK|Canada|CA
+Glenside|SK|Canada|CA
+Glentworth|SK|Canada|CA
+Gouldtown|SK|Canada|CA
+Gravelbourg|SK|Canada|CA
+Hawarden|SK|Canada|CA
+Hearne|SK|Canada|CA
+Herbert|SK|Canada|CA
+Hodgeville|SK|Canada|CA
+Kayville|SK|Canada|CA
+Keeler|SK|Canada|CA
+Kincaid|SK|Canada|CA
+Lafleche|SK|Canada|CA
+Limerick|SK|Canada|CA
+Lisieux|SK|Canada|CA
+Loreburn|SK|Canada|CA
+McCord|SK|Canada|CA
+Main Centre|SK|Canada|CA
+Mankota|SK|Canada|CA
+Marquis|SK|Canada|CA
+Mazenod|SK|Canada|CA
+Melaval|SK|Canada|CA
+Meyronne|SK|Canada|CA
+Morse|SK|Canada|CA
+Mortlach|SK|Canada|CA
+Mossbank|SK|Canada|CA
+Ormiston|SK|Canada|CA
+Palmer|SK|Canada|CA
+Parkbeg|SK|Canada|CA
+Parry|SK|Canada|CA
+Prairie View|SK|Canada|CA
+Riverhurst|SK|Canada|CA
+Rockglen|SK|Canada|CA
+Rush Lake|SK|Canada|CA
+St Victor|SK|Canada|CA
+Scout Lake|SK|Canada|CA
+Shamrock|SK|Canada|CA
+Spring Valley|SK|Canada|CA
+Strongfield|SK|Canada|CA
+Truax|SK|Canada|CA
+Tugaske|SK|Canada|CA
+Tuxford|SK|Canada|CA
+Verwood|SK|Canada|CA
+Viceroy|SK|Canada|CA
+Waldeck|SK|Canada|CA
+Willow Bunch|SK|Canada|CA
+Wood Mountain|SK|Canada|CA
+Woodrow|SK|Canada|CA
+Albertville|SK|Canada|CA
+Beatty|SK|Canada|CA
+Big River|SK|Canada|CA
+Birch Hills|SK|Canada|CA
+Black Lake|SK|Canada|CA
+Blaine Lake|SK|Canada|CA
+Canwood|SK|Canada|CA
+Chitek Lake|SK|Canada|CA
+Choiceland|SK|Canada|CA
+Christopher Lake|SK|Canada|CA
+Debden|SK|Canada|CA
+Fond du Lac|SK|Canada|CA
+Foxford|SK|Canada|CA
+Garrick|SK|Canada|CA
+Hafford|SK|Canada|CA
+Hagen|SK|Canada|CA
+Henribourg|SK|Canada|CA
+Hoey|SK|Canada|CA
+Holbein|SK|Canada|CA
+Kinistino|SK|Canada|CA
+Krydor|SK|Canada|CA
+La Ronge|SK|Canada|CA
+Leask|SK|Canada|CA
+Leoville|SK|Canada|CA
+Love|SK|Canada|CA
+Marcelin|SK|Canada|CA
+Mayview|SK|Canada|CA
+Meath Park|SK|Canada|CA
+Mildred|SK|Canada|CA
+Weyakwin|SK|Canada|CA
+Mont Nebo|SK|Canada|CA
+Montreal Lake|SK|Canada|CA
+Paddockwood|SK|Canada|CA
+Parkside|SK|Canada|CA
+Pinehouse Lake|SK|Canada|CA
+St Louis|SK|Canada|CA
+Shellbrook|SK|Canada|CA
+Shell Lake|SK|Canada|CA
+Shipman|SK|Canada|CA
+Smeaton|SK|Canada|CA
+Snowden|SK|Canada|CA
+Southend|SK|Canada|CA
+Spiritwood|SK|Canada|CA
+Spruce Home|SK|Canada|CA
+Stanley Mission|SK|Canada|CA
+Stony Rapids|SK|Canada|CA
+Stump Lake|SK|Canada|CA
+Timber Bay|SK|Canada|CA
+Uranium City|SK|Canada|CA
+Victoire|SK|Canada|CA
+Waskesiu Lake|SK|Canada|CA
+Weirdale|SK|Canada|CA
+Weldon|SK|Canada|CA
+White Fox|SK|Canada|CA
+Wollaston Lake|SK|Canada|CA
+Candle Lake|SK|Canada|CA
+Air Ronge|SK|Canada|CA
+Muskoday|SK|Canada|CA
+Aberdeen|SK|Canada|CA
+Allan|SK|Canada|CA
+Alvena|SK|Canada|CA
+Annaheim|SK|Canada|CA
+Arelee|SK|Canada|CA
+Asquith|SK|Canada|CA
+Biggar|SK|Canada|CA
+Borden|SK|Canada|CA
+Bradwell|SK|Canada|CA
+Bruno|SK|Canada|CA
+Burr|SK|Canada|CA
+Cando|SK|Canada|CA
+Carlton|SK|Canada|CA
+Carmel|SK|Canada|CA
+Clavet|SK|Canada|CA
+Colonsay|SK|Canada|CA
+Crystal Springs|SK|Canada|CA
+Cudworth|SK|Canada|CA
+Dafoe|SK|Canada|CA
+Dalmeny|SK|Canada|CA
+Domremy|SK|Canada|CA
+Drake|SK|Canada|CA
+Duck Lake|SK|Canada|CA
+Dundurn|SK|Canada|CA
+Elstow|SK|Canada|CA
+Englefeld|SK|Canada|CA
+Fulda|SK|Canada|CA
+Grandora|SK|Canada|CA
+Guernsey|SK|Canada|CA
+Hague|SK|Canada|CA
+Handel|SK|Canada|CA
+Hepburn|SK|Canada|CA
+Humboldt|SK|Canada|CA
+Jansen|SK|Canada|CA
+Kelfield|SK|Canada|CA
+Kinley|SK|Canada|CA
+Lac Vert|SK|Canada|CA
+Laird|SK|Canada|CA
+Lake Lenore|SK|Canada|CA
+Landis|SK|Canada|CA
+Langham|SK|Canada|CA
+Lanigan|SK|Canada|CA
+Leroy|SK|Canada|CA
+Lockwood|SK|Canada|CA
+Macdowall|SK|Canada|CA
+Martensville|SK|Canada|CA
+Meacham|SK|Canada|CA
+Meskanaw|SK|Canada|CA
+Middle Lake|SK|Canada|CA
+Muenster|SK|Canada|CA
+Naicam|SK|Canada|CA
+Osler|SK|Canada|CA
+Pathlow|SK|Canada|CA
+Perdue|SK|Canada|CA
+Phippen|SK|Canada|CA
+Pilger|SK|Canada|CA
+Pleasantdale|SK|Canada|CA
+Plunkett|SK|Canada|CA
+Prud'Homme|SK|Canada|CA
+Radisson|SK|Canada|CA
+Reward|SK|Canada|CA
+Rosthern|SK|Canada|CA
+Ruthilda|SK|Canada|CA
+St Benedict|SK|Canada|CA
+St Brieux|SK|Canada|CA
+St Denis|SK|Canada|CA
+St Gregor|SK|Canada|CA
+St Isidore de Bellevue|SK|Canada|CA
+Scott|SK|Canada|CA
+Sonningdale|SK|Canada|CA
+Spalding|SK|Canada|CA
+Springwater|SK|Canada|CA
+Tramping Lake|SK|Canada|CA
+Tway|SK|Canada|CA
+Unity|SK|Canada|CA
+Viscount|SK|Canada|CA
+Vonda|SK|Canada|CA
+Wakaw|SK|Canada|CA
+Waldheim|SK|Canada|CA
+Warman|SK|Canada|CA
+Watrous|SK|Canada|CA
+Watson|SK|Canada|CA
+Wilkie|SK|Canada|CA
+Yellow Creek|SK|Canada|CA
+Young|SK|Canada|CA
+Alsask|SK|Canada|CA
+Ardath|SK|Canada|CA
+Beechy|SK|Canada|CA
+Birsay|SK|Canada|CA
+Brock|SK|Canada|CA
+Cactus Lake|SK|Canada|CA
+Coleville|SK|Canada|CA
+Conquest|SK|Canada|CA
+D'Arcy Station|SK|Canada|CA
+Delisle|SK|Canada|CA
+Demaine|SK|Canada|CA
+Denzil|SK|Canada|CA
+Dinsmore|SK|Canada|CA
+Dodsland|SK|Canada|CA
+Eatonia|SK|Canada|CA
+Elrose|SK|Canada|CA
+Eston|SK|Canada|CA
+Evesham|SK|Canada|CA
+Fiske|SK|Canada|CA
+Flaxcombe|SK|Canada|CA
+Glidden|SK|Canada|CA
+Harris|SK|Canada|CA
+Herschel|SK|Canada|CA
+Hoosier|SK|Canada|CA
+Kerrobert|SK|Canada|CA
+Kindersley|SK|Canada|CA
+Kyle|SK|Canada|CA
+Lacadena|SK|Canada|CA
+Laporte|SK|Canada|CA
+Loverna|SK|Canada|CA
+Lucky Lake|SK|Canada|CA
+Luseland|SK|Canada|CA
+Macklin|SK|Canada|CA
+Macrorie|SK|Canada|CA
+Madison|SK|Canada|CA
+Major|SK|Canada|CA
+Mantario|SK|Canada|CA
+Marengo|SK|Canada|CA
+Milden|SK|Canada|CA
+Netherhill|SK|Canada|CA
+Outlook|SK|Canada|CA
+Plato|SK|Canada|CA
+Plenty|SK|Canada|CA
+Primate|SK|Canada|CA
+Richlea|SK|Canada|CA
+Rosetown|SK|Canada|CA
+Salvador|SK|Canada|CA
+Senlac|SK|Canada|CA
+Smiley|SK|Canada|CA
+Sovereign|SK|Canada|CA
+Stranraer|SK|Canada|CA
+Tessier|SK|Canada|CA
+Tyner|SK|Canada|CA
+Vanscoy|SK|Canada|CA
+Wartime|SK|Canada|CA
+White Bear|SK|Canada|CA
+Wiseton|SK|Canada|CA
+Zealandia|SK|Canada|CA
+Alticane|SK|Canada|CA
+Baldwinton|SK|Canada|CA
+Barthel|SK|Canada|CA
+Battleford|SK|Canada|CA
+Beauval|SK|Canada|CA
+Bright Sand|SK|Canada|CA
+Buffalo Narrows|SK|Canada|CA
+Canoe Narrows|SK|Canada|CA
+Cochin|SK|Canada|CA
+Cole Bay|SK|Canada|CA
+Cut Knife|SK|Canada|CA
+Delmas|SK|Canada|CA
+Denholm|SK|Canada|CA
+Dillon|SK|Canada|CA
+Dorintosh|SK|Canada|CA
+Edam|SK|Canada|CA
+Frenchman Butte|SK|Canada|CA
+Gallivan|SK|Canada|CA
+Glaslyn|SK|Canada|CA
+Glenbush|SK|Canada|CA
+Goodsoil|SK|Canada|CA
+Green Lake|SK|Canada|CA
+Ile-a-la-Crosse|SK|Canada|CA
+Jackfish Lake|SK|Canada|CA
+La Loche|SK|Canada|CA
+Lashburn|SK|Canada|CA
+Livelong|SK|Canada|CA
+Lone Rock|SK|Canada|CA
+Loon Lake|SK|Canada|CA
+Maidstone|SK|Canada|CA
+Makwa|SK|Canada|CA
+Marsden|SK|Canada|CA
+Marshall|SK|Canada|CA
+Mayfair|SK|Canada|CA
+Maymont|SK|Canada|CA
+Medstead|SK|Canada|CA
+Meota|SK|Canada|CA
+Mervin|SK|Canada|CA
+Mullingar|SK|Canada|CA
+Neilburg|SK|Canada|CA
+Onion Lake|SK|Canada|CA
+Paradise Hill|SK|Canada|CA
+Patuanak|SK|Canada|CA
+Paynton|SK|Canada|CA
+Pierceland|SK|Canada|CA
+Rabbit Lake|SK|Canada|CA
+Rapid View|SK|Canada|CA
+Richard|SK|Canada|CA
+Rockhaven|SK|Canada|CA
+Ruddell|SK|Canada|CA
+St Walburg|SK|Canada|CA
+Speers|SK|Canada|CA
+Spruce Lake|SK|Canada|CA
+Turtleford|SK|Canada|CA
+Vawn|SK|Canada|CA
+Waseca|SK|Canada|CA
+Waterhen Lake|SK|Canada|CA
+Whelan|SK|Canada|CA
+Turnor Lake|SK|Canada|CA
+Island Lake|SK|Canada|CA
+Clearwater River|SK|Canada|CA
+Abbey|SK|Canada|CA
+Admiral|SK|Canada|CA
+Aneroid|SK|Canada|CA
+Blumenhof|SK|Canada|CA
+Bracken|SK|Canada|CA
+Burstall|SK|Canada|CA
+Cabri|SK|Canada|CA
+Cadillac|SK|Canada|CA
+Claydon|SK|Canada|CA
+Climax|SK|Canada|CA
+Consul|SK|Canada|CA
+Dollard|SK|Canada|CA
+Eastend|SK|Canada|CA
+Fox Valley|SK|Canada|CA
+Frontier|SK|Canada|CA
+Glenbain|SK|Canada|CA
+Golden Prairie|SK|Canada|CA
+Gull Lake|SK|Canada|CA
+Hazenmore|SK|Canada|CA
+Hazlet|SK|Canada|CA
+Lancer|SK|Canada|CA
+Leader|SK|Canada|CA
+Liebenthal|SK|Canada|CA
+McMahon|SK|Canada|CA
+Maple Creek|SK|Canada|CA
+Mendham|SK|Canada|CA
+Neidpath|SK|Canada|CA
+Neville|SK|Canada|CA
+Orkney|SK|Canada|CA
+Pambrun|SK|Canada|CA
+Pennant Station|SK|Canada|CA
+Piapot|SK|Canada|CA
+Ponteix|SK|Canada|CA
+Portreeve|SK|Canada|CA
+Prelate|SK|Canada|CA
+Richmound|SK|Canada|CA
+Robsart|SK|Canada|CA
+Sceptre|SK|Canada|CA
+Shackleton|SK|Canada|CA
+Shaunavon|SK|Canada|CA
+Simmie|SK|Canada|CA
+Stewart Valley|SK|Canada|CA
+Success|SK|Canada|CA
+Tompkins|SK|Canada|CA
+Val Marie|SK|Canada|CA
+Vanguard|SK|Canada|CA
+Vidora|SK|Canada|CA
+Webb|SK|Canada|CA
+Wymark|SK|Canada|CA
+Creighton|SK|Canada|CA
+Denare Beach|SK|Canada|CA
+Deschambault Lake|SK|Canada|CA
+Pelican Narrows|SK|Canada|CA
+Sandy Bay|SK|Canada|CA
+Sturgeon Landing|SK|Canada|CA
+Kinoosao|SK|Canada|CA
+Buena Vista|SK|Canada|CA
+Deer Valley|SK|Canada|CA
+Yorkton|SK|Canada|CA
+Estevan|SK|Canada|CA
+Weyburn|SK|Canada|CA
+Emerald Park|SK|Canada|CA
+Regina|SK|Canada|CA
+Coppersands|SK|Canada|CA
+Moose Jaw|SK|Canada|CA
+Prince Albert|SK|Canada|CA
+Saskatoon|SK|Canada|CA
+Corman Park|SK|Canada|CA
+Riverside Estates|SK|Canada|CA
+Grasswood|SK|Canada|CA
+Furdale|SK|Canada|CA
+Casa Rio|SK|Canada|CA
+North Battleford|SK|Canada|CA
+Swift Current|SK|Canada|CA
+Lloydminster|SK|Canada|CA
+Meadow Lake|SK|Canada|CA
+Abee|AB|Canada|CA
+Ardmore|AB|Canada|CA
+Ashmont|AB|Canada|CA
+Atmore|AB|Canada|CA
+Bellis|AB|Canada|CA
+Bon Accord|AB|Canada|CA
+Boyle|AB|Canada|CA
+Boyne Lake|AB|Canada|CA
+Breynat|AB|Canada|CA
+Caslan|AB|Canada|CA
+Cherry Grove|AB|Canada|CA
+Egremont|AB|Canada|CA
+Elk Point|AB|Canada|CA
+Ellscott|AB|Canada|CA
+Kehewin|AB|Canada|CA
+Foisy|AB|Canada|CA
+Fort Kent|AB|Canada|CA
+Frog Lake|AB|Canada|CA
+Gibbons|AB|Canada|CA
+Glendon|AB|Canada|CA
+Goodfish Lake|AB|Canada|CA
+Goodridge|AB|Canada|CA
+Grassland|AB|Canada|CA
+Heinsburg|AB|Canada|CA
+Hylo|AB|Canada|CA
+Iron River|AB|Canada|CA
+Kikino|AB|Canada|CA
+Lac La Biche|AB|Canada|CA
+Lac la Biche|AB|Canada|CA
+La Corey|AB|Canada|CA
+Lafond|AB|Canada|CA
+Lancaster Park|AB|Canada|CA
+Lindbergh|AB|Canada|CA
+Mallaig|AB|Canada|CA
+McRae|AB|Canada|CA
+Namao|AB|Canada|CA
+Newbrook|AB|Canada|CA
+Opal|AB|Canada|CA
+Plamondon|AB|Canada|CA
+Radway|AB|Canada|CA
+Redwater|AB|Canada|CA
+St Brides|AB|Canada|CA
+St Lina|AB|Canada|CA
+St Paul|AB|Canada|CA
+St Vincent|AB|Canada|CA
+Smoky Lake|AB|Canada|CA
+Spedden|AB|Canada|CA
+Sputinow|AB|Canada|CA
+Thorhild|AB|Canada|CA
+Tulliby Lake|AB|Canada|CA
+Vilna|AB|Canada|CA
+Wandering River|AB|Canada|CA
+Warspite|AB|Canada|CA
+Waskatenau|AB|Canada|CA
+Saddle Lake|AB|Canada|CA
+Alliance|AB|Canada|CA
+Amisk|AB|Canada|CA
+Andrew|AB|Canada|CA
+Armena|AB|Canada|CA
+Bashaw|AB|Canada|CA
+Bawlf|AB|Canada|CA
+Beauvallon|AB|Canada|CA
+Blackfoot|AB|Canada|CA
+Bodo|AB|Canada|CA
+Brosseau|AB|Canada|CA
+Bruce|AB|Canada|CA
+Bruderheim|AB|Canada|CA
+Cadogan|AB|Canada|CA
+Chauvin|AB|Canada|CA
+Chipman|AB|Canada|CA
+Clandonald|AB|Canada|CA
+Czar|AB|Canada|CA
+Daysland|AB|Canada|CA
+Denwood|AB|Canada|CA
+Derwent|AB|Canada|CA
+Dewberry|AB|Canada|CA
+Donalda|AB|Canada|CA
+Edberg|AB|Canada|CA
+Edgerton|AB|Canada|CA
+Ferintosh|AB|Canada|CA
+Forestburg|AB|Canada|CA
+Galahad|AB|Canada|CA
+Hairy Hill|AB|Canada|CA
+Hardisty|AB|Canada|CA
+Hay Lakes|AB|Canada|CA
+Hayter|AB|Canada|CA
+Heath|AB|Canada|CA
+Heisler|AB|Canada|CA
+Hilliard|AB|Canada|CA
+Holden|AB|Canada|CA
+Hughenden|AB|Canada|CA
+Innisfree|AB|Canada|CA
+Irma|AB|Canada|CA
+Islay|AB|Canada|CA
+Kelsey|AB|Canada|CA
+Killam|AB|Canada|CA
+Kingman|AB|Canada|CA
+Kinsella|AB|Canada|CA
+Kitscoty|AB|Canada|CA
+Lamont|AB|Canada|CA
+Lavoy|AB|Canada|CA
+Lougheed|AB|Canada|CA
+Mannville|AB|Canada|CA
+Marwayne|AB|Canada|CA
+McLaughlin|AB|Canada|CA
+Meeting Creek|AB|Canada|CA
+Metiskow|AB|Canada|CA
+Minburn|AB|Canada|CA
+Mirror|AB|Canada|CA
+Wainwright MPO 511|AB|Canada|CA
+Mundare|AB|Canada|CA
+Musidora|AB|Canada|CA
+Myrnam|AB|Canada|CA
+New Norway|AB|Canada|CA
+New Sarepta|AB|Canada|CA
+Ohaton|AB|Canada|CA
+Paradise Valley|AB|Canada|CA
+Provost|AB|Canada|CA
+Ranfurly|AB|Canada|CA
+Red Willow|AB|Canada|CA
+Rivercourse|AB|Canada|CA
+Rosalind|AB|Canada|CA
+Round Hill|AB|Canada|CA
+Ryley|AB|Canada|CA
+St Michael|AB|Canada|CA
+Sedgewick|AB|Canada|CA
+Star|AB|Canada|CA
+Streamstown|AB|Canada|CA
+Strome|AB|Canada|CA
+Tofield|AB|Canada|CA
+Two Hills|AB|Canada|CA
+Viking|AB|Canada|CA
+Willingdon|AB|Canada|CA
+Wostok|AB|Canada|CA
+Alder Flats|AB|Canada|CA
+Alix|AB|Canada|CA
+Alsike|AB|Canada|CA
+Altario|AB|Canada|CA
+Bentley|AB|Canada|CA
+Bittern Lake|AB|Canada|CA
+Bluffton|AB|Canada|CA
+Botha|AB|Canada|CA
+Breton|AB|Canada|CA
+Brownfield|AB|Canada|CA
+Buck Creek|AB|Canada|CA
+Buck Lake|AB|Canada|CA
+Calmar|AB|Canada|CA
+Carnwood|AB|Canada|CA
+Castor|AB|Canada|CA
+Clive|AB|Canada|CA
+Compeer|AB|Canada|CA
+Consort|AB|Canada|CA
+Coronation|AB|Canada|CA
+Erskine|AB|Canada|CA
+Falun|AB|Canada|CA
+Gadsby|AB|Canada|CA
+Gwynne|AB|Canada|CA
+Halkirk|AB|Canada|CA
+Hobbema|AB|Canada|CA
+Kirriemuir|AB|Canada|CA
+Lacombe|AB|Canada|CA
+Lindale|AB|Canada|CA
+Ma-Me-O Beach|AB|Canada|CA
+Millet|AB|Canada|CA
+Monitor|AB|Canada|CA
+Mulhurst Bay|AB|Canada|CA
+Nevis|AB|Canada|CA
+Rimbey|AB|Canada|CA
+Rolly View|AB|Canada|CA
+Stettler|AB|Canada|CA
+Sunnybrook|AB|Canada|CA
+Tees|AB|Canada|CA
+Thorsby|AB|Canada|CA
+Veteran|AB|Canada|CA
+Warburg|AB|Canada|CA
+Westerose|AB|Canada|CA
+Winfield|AB|Canada|CA
+Alberta Beach|AB|Canada|CA
+Blue Ridge|AB|Canada|CA
+Brule|AB|Canada|CA
+Cadomin|AB|Canada|CA
+Carrot Creek|AB|Canada|CA
+Carvel|AB|Canada|CA
+Cherhill|AB|Canada|CA
+Cynthia|AB|Canada|CA
+Darwell|AB|Canada|CA
+Duffield|AB|Canada|CA
+Entwistle|AB|Canada|CA
+Evansburg|AB|Canada|CA
+Fallis|AB|Canada|CA
+Gainford|AB|Canada|CA
+Glenevis|AB|Canada|CA
+Grande Cache|AB|Canada|CA
+Gunn|AB|Canada|CA
+Jasper|AB|Canada|CA
+Lake Isle|AB|Canada|CA
+Lodgepole|AB|Canada|CA
+Mayerthorpe|AB|Canada|CA
+Niton Junction|AB|Canada|CA
+Onoway|AB|Canada|CA
+Peers|AB|Canada|CA
+Robb|AB|Canada|CA
+Rochfort Bridge|AB|Canada|CA
+Rocky Rapids|AB|Canada|CA
+Sangudo|AB|Canada|CA
+Seba Beach|AB|Canada|CA
+Tomahawk|AB|Canada|CA
+Wabamun|AB|Canada|CA
+Wildwood|AB|Canada|CA
+Kapasiwin|AB|Canada|CA
+Alcomdale|AB|Canada|CA
+Atikameg|AB|Canada|CA
+Bloomsbury|AB|Canada|CA
+Busby|AB|Canada|CA
+Calahoo|AB|Canada|CA
+Calling Lake|AB|Canada|CA
+Camp Creek|AB|Canada|CA
+Canyon Creek|AB|Canada|CA
+Chisholm Mills|AB|Canada|CA
+Clyde|AB|Canada|CA
+Colinton|AB|Canada|CA
+Dapp|AB|Canada|CA
+Desmarais|AB|Canada|CA
+Driftpile|AB|Canada|CA
+Enilda|AB|Canada|CA
+Faust|AB|Canada|CA
+Fawcett|AB|Canada|CA
+Flatbush|AB|Canada|CA
+Fort Assiniboine|AB|Canada|CA
+Gift Lake|AB|Canada|CA
+Grouard|AB|Canada|CA
+High Prairie|AB|Canada|CA
+Hondo|AB|Canada|CA
+Jarvie|AB|Canada|CA
+Joussard|AB|Canada|CA
+Kinuso|AB|Canada|CA
+Legal|AB|Canada|CA
+Lone Pine|AB|Canada|CA
+Neerlandia|AB|Canada|CA
+Nestow|AB|Canada|CA
+Perryvale|AB|Canada|CA
+Pickardville|AB|Canada|CA
+Red Earth Creek|AB|Canada|CA
+Riviere Qui Barre|AB|Canada|CA
+Rochester|AB|Canada|CA
+Slave Lake|AB|Canada|CA
+Smith|AB|Canada|CA
+Swan Hills|AB|Canada|CA
+Tawatinaw|AB|Canada|CA
+Tiger Lily|AB|Canada|CA
+Vega|AB|Canada|CA
+Vimy|AB|Canada|CA
+Wabasca|AB|Canada|CA
+Widewater|AB|Canada|CA
+Trout Lake|AB|Canada|CA
+Peerless Lake|AB|Canada|CA
+Bay Tree|AB|Canada|CA
+Bear Canyon|AB|Canada|CA
+Beaverlodge|AB|Canada|CA
+Berwyn|AB|Canada|CA
+Bezanson|AB|Canada|CA
+Blueberry Mountain|AB|Canada|CA
+Bluesky|AB|Canada|CA
+Bonanza|AB|Canada|CA
+Brownvale|AB|Canada|CA
+Cadotte Lake|AB|Canada|CA
+Calais|AB|Canada|CA
+Carcajou|AB|Canada|CA
+Chateh|AB|Canada|CA
+Cherry Point|AB|Canada|CA
+Clairmont|AB|Canada|CA
+Crooked Creek|AB|Canada|CA
+Deadwood|AB|Canada|CA
+Debolt|AB|Canada|CA
+Demmitt|AB|Canada|CA
+Dixonville|AB|Canada|CA
+Donnelly|AB|Canada|CA
+Eaglesham|AB|Canada|CA
+Elmworth|AB|Canada|CA
+Eureka River|AB|Canada|CA
+Fairview|AB|Canada|CA
+Falher|AB|Canada|CA
+Fort Vermilion|AB|Canada|CA
+Fox Creek|AB|Canada|CA
+Fox Lake|AB|Canada|CA
+Girouxville|AB|Canada|CA
+Goodfare|AB|Canada|CA
+Gordondale|AB|Canada|CA
+Grimshaw|AB|Canada|CA
+Grovedale|AB|Canada|CA
+Guy|AB|Canada|CA
+High Level|AB|Canada|CA
+Hines Creek|AB|Canada|CA
+Hotchkiss|AB|Canada|CA
+Hythe|AB|Canada|CA
+Jean Cote|AB|Canada|CA
+Keg River|AB|Canada|CA
+La Crete|AB|Canada|CA
+La Glace|AB|Canada|CA
+McLennan|AB|Canada|CA
+Manning|AB|Canada|CA
+Marie Reine|AB|Canada|CA
+Meander River|AB|Canada|CA
+Nampa|AB|Canada|CA
+North Star|AB|Canada|CA
+Notikewin|AB|Canada|CA
+Paddle Prairie|AB|Canada|CA
+Rainbow Lake|AB|Canada|CA
+Rycroft|AB|Canada|CA
+St Isidore|AB|Canada|CA
+Sexsmith|AB|Canada|CA
+Silver Valley|AB|Canada|CA
+Spirit River|AB|Canada|CA
+Sunset House|AB|Canada|CA
+Tangent|AB|Canada|CA
+Valhalla Centre|AB|Canada|CA
+Valleyview|AB|Canada|CA
+Wanham|AB|Canada|CA
+Watino|AB|Canada|CA
+Wembley|AB|Canada|CA
+Whitelaw|AB|Canada|CA
+Woking|AB|Canada|CA
+Worsley|AB|Canada|CA
+John d'or Prairie|AB|Canada|CA
+Cleardale|AB|Canada|CA
+Little Smoky|AB|Canada|CA
+Buffalo Head Prairie|AB|Canada|CA
+Gundy|AB|Canada|CA
+Zama City|AB|Canada|CA
+Garden River|AB|Canada|CA
+Acadia Valley|AB|Canada|CA
+Bassano|AB|Canada|CA
+Big Stone|AB|Canada|CA
+Big Valley|AB|Canada|CA
+Bindloss|AB|Canada|CA
+Buffalo|AB|Canada|CA
+Byemoor|AB|Canada|CA
+Carseland|AB|Canada|CA
+Cereal|AB|Canada|CA
+Cessford|AB|Canada|CA
+Chinook|AB|Canada|CA
+Cluny|AB|Canada|CA
+Craigmyle|AB|Canada|CA
+Dalemead|AB|Canada|CA
+Delia|AB|Canada|CA
+Dorothy|AB|Canada|CA
+Drumheller|AB|Canada|CA
+Duchess|AB|Canada|CA
+Dunmore|AB|Canada|CA
+East Coulee|AB|Canada|CA
+Elkwater|AB|Canada|CA
+Empress|AB|Canada|CA
+Endiang|AB|Canada|CA
+Esther|AB|Canada|CA
+Fenn|AB|Canada|CA
+Finnegan|AB|Canada|CA
+Gem|AB|Canada|CA
+Gleichen|AB|Canada|CA
+Hanna|AB|Canada|CA
+Hilda|AB|Canada|CA
+Hussar|AB|Canada|CA
+Iddesleigh|AB|Canada|CA
+Irvine|AB|Canada|CA
+Jenner|AB|Canada|CA
+Langdon|AB|Canada|CA
+Lyalta|AB|Canada|CA
+Millicent|AB|Canada|CA
+Morrin|AB|Canada|CA
+Munson|AB|Canada|CA
+Nacmine|AB|Canada|CA
+New Brigden|AB|Canada|CA
+Oyen|AB|Canada|CA
+Patricia|AB|Canada|CA
+Pollockville|AB|Canada|CA
+Rainier|AB|Canada|CA
+Ralston|AB|Canada|CA
+Redcliff|AB|Canada|CA
+Rockyford|AB|Canada|CA
+Rolling Hills|AB|Canada|CA
+Rosebud|AB|Canada|CA
+Rosedale Station|AB|Canada|CA
+Rosemary|AB|Canada|CA
+Rowley|AB|Canada|CA
+Rumsey|AB|Canada|CA
+Scandia|AB|Canada|CA
+Schuler|AB|Canada|CA
+Sedalia|AB|Canada|CA
+Sibbald|AB|Canada|CA
+Standard|AB|Canada|CA
+Sunnynook|AB|Canada|CA
+Tilley|AB|Canada|CA
+Walsh|AB|Canada|CA
+Wardlow|AB|Canada|CA
+Youngstown|AB|Canada|CA
+Siksika|AB|Canada|CA
+Aden|AB|Canada|CA
+Barnwell|AB|Canada|CA
+Bellevue|AB|Canada|CA
+Blairmore|AB|Canada|CA
+Bow Island|AB|Canada|CA
+Brocket|AB|Canada|CA
+Burdett|AB|Canada|CA
+Cardston|AB|Canada|CA
+Coleman|AB|Canada|CA
+Coutts|AB|Canada|CA
+Cowley|AB|Canada|CA
+Cranford|AB|Canada|CA
+Del Bonita|AB|Canada|CA
+Diamond City|AB|Canada|CA
+Enchant|AB|Canada|CA
+Etzikom|AB|Canada|CA
+Foremost|AB|Canada|CA
+Grassy Lake|AB|Canada|CA
+Hays|AB|Canada|CA
+Hillcrest Mines|AB|Canada|CA
+Hill Spring|AB|Canada|CA
+Iron Springs|AB|Canada|CA
+Lundbreck|AB|Canada|CA
+Magrath|AB|Canada|CA
+Maleb|AB|Canada|CA
+Manyberries|AB|Canada|CA
+Milk River|AB|Canada|CA
+Mountain View|AB|Canada|CA
+New Dayton|AB|Canada|CA
+Onefour|AB|Canada|CA
+Orion|AB|Canada|CA
+Picture Butte|AB|Canada|CA
+Pincher Creek|AB|Canada|CA
+Purple Springs|AB|Canada|CA
+Aetna|AB|Canada|CA
+Seven Persons|AB|Canada|CA
+Shaughnessy|AB|Canada|CA
+Skiff|AB|Canada|CA
+Spring Coulee|AB|Canada|CA
+Stirling|AB|Canada|CA
+Turin|AB|Canada|CA
+Twin Butte|AB|Canada|CA
+Vauxhall|AB|Canada|CA
+Warner|AB|Canada|CA
+Waterton Park|AB|Canada|CA
+Welling|AB|Canada|CA
+Wrentham|AB|Canada|CA
+Glenwood|AB|Canada|CA
+Raymond|AB|Canada|CA
+Aldersyde|AB|Canada|CA
+Arrowwood|AB|Canada|CA
+Barons|AB|Canada|CA
+Black Diamond|AB|Canada|CA
+Blackie|AB|Canada|CA
+Bragg Creek|AB|Canada|CA
+Brant|AB|Canada|CA
+Carmangay|AB|Canada|CA
+Cayley|AB|Canada|CA
+Champion|AB|Canada|CA
+Claresholm|AB|Canada|CA
+Coalhurst|AB|Canada|CA
+De Winton|AB|Canada|CA
+Fort Macleod|AB|Canada|CA
+Granum|AB|Canada|CA
+Lake Louise|AB|Canada|CA
+Lomond|AB|Canada|CA
+Longview|AB|Canada|CA
+Millarville|AB|Canada|CA
+Milo|AB|Canada|CA
+Monarch|AB|Canada|CA
+Morley|AB|Canada|CA
+Mossleigh|AB|Canada|CA
+Nanton|AB|Canada|CA
+Nobleford|AB|Canada|CA
+Parkland|AB|Canada|CA
+Priddis|AB|Canada|CA
+Seebe|AB|Canada|CA
+Stand Off|AB|Canada|CA
+Stavely|AB|Canada|CA
+Turner Valley|AB|Canada|CA
+Vulcan|AB|Canada|CA
+Exshaw|AB|Canada|CA
+Kananaskis|AB|Canada|CA
+Acme|AB|Canada|CA
+Alhambra|AB|Canada|CA
+Balzac|AB|Canada|CA
+Beiseker|AB|Canada|CA
+Benalto|AB|Canada|CA
+Blackfalds|AB|Canada|CA
+Bowden|AB|Canada|CA
+Carbon|AB|Canada|CA
+Caroline|AB|Canada|CA
+Carstairs|AB|Canada|CA
+Condor|AB|Canada|CA
+Cremona|AB|Canada|CA
+Crossfield|AB|Canada|CA
+Delacour|AB|Canada|CA
+Delburne|AB|Canada|CA
+Didsbury|AB|Canada|CA
+Eckville|AB|Canada|CA
+Elnora|AB|Canada|CA
+Huxley|AB|Canada|CA
+Irricana|AB|Canada|CA
+James River Bridge|AB|Canada|CA
+Kathyrn|AB|Canada|CA
+Keoma|AB|Canada|CA
+Leslieville|AB|Canada|CA
+Linden|AB|Canada|CA
+Lousana|AB|Canada|CA
+Madden|AB|Canada|CA
+Markerville|AB|Canada|CA
+Penhold|AB|Canada|CA
+Pine Lake|AB|Canada|CA
+Spruce View|AB|Canada|CA
+Stauffer|AB|Canada|CA
+Sundre|AB|Canada|CA
+Swalwell|AB|Canada|CA
+Three Hills|AB|Canada|CA
+Torrington|AB|Canada|CA
+Trochu|AB|Canada|CA
+Water Valley|AB|Canada|CA
+Wimborne|AB|Canada|CA
+Nordegg|AB|Canada|CA
+Fort Chipewyan|AB|Canada|CA
+Fort Mackay|AB|Canada|CA
+Chard|AB|Canada|CA
+Conklin|AB|Canada|CA
+Anzac|AB|Canada|CA
+Fitzgerald|AB|Canada|CA
+Medicine Hat|AB|Canada|CA
+Taber|AB|Canada|CA
+Lethbridge|AB|Canada|CA
+Banff|AB|Canada|CA
+Coaldale|AB|Canada|CA
+Strathmore|AB|Canada|CA
+Brooks|AB|Canada|CA
+Okotoks|AB|Canada|CA
+High River|AB|Canada|CA
+Canmore|AB|Canada|CA
+Harvie Heights|AB|Canada|CA
+Lac des Arcs|AB|Canada|CA
+Dead Man's Flats|AB|Canada|CA
+Chestermere|AB|Canada|CA
+Calgary|AB|Canada|CA
+Tsuu T'Ina|AB|Canada|CA
+Redwood Meadows|AB|Canada|CA
+Airdrie|AB|Canada|CA
+Cochrane|AB|Canada|CA
+Red Deer County|AB|Canada|CA
+Innisfail|AB|Canada|CA
+Olds|AB|Canada|CA
+Ponoka|AB|Canada|CA
+Rosedale Valley|AB|Canada|CA
+College Heights|AB|Canada|CA
+Red Deer|AB|Canada|CA
+Sylvan Lake|AB|Canada|CA
+Birchcliff|AB|Canada|CA
+Jarvis Bay|AB|Canada|CA
+Halfmoon Bay|AB|Canada|CA
+Norglenwold|AB|Canada|CA
+Springbrook|AB|Canada|CA
+Rocky Mountain House|AB|Canada|CA
+Camrose|AB|Canada|CA
+Beaumont|AB|Canada|CA
+Edmonton|AB|Canada|CA
+Drayton Valley|AB|Canada|CA
+Edson|AB|Canada|CA
+Barrhead|AB|Canada|CA
+Westlock|AB|Canada|CA
+Whitecourt|AB|Canada|CA
+Hinton|AB|Canada|CA
+Spruce Grove|AB|Canada|CA
+Enoch|AB|Canada|CA
+Stony Plain|AB|Canada|CA
+Spring Lake|AB|Canada|CA
+Sherwood Park|AB|Canada|CA
+Cooking Lake|AB|Canada|CA
+Ardrossan|AB|Canada|CA
+North Cooking Lake|AB|Canada|CA
+Fort Saskatchewan|AB|Canada|CA
+St Albert|AB|Canada|CA
+Morinville|AB|Canada|CA
+Peace River|AB|Canada|CA
+Grande Prairie|AB|Canada|CA
+Wetaskiwin|AB|Canada|CA
+Vegreville|AB|Canada|CA
+Leduc|AB|Canada|CA
+Nisku|AB|Canada|CA
+Devon|AB|Canada|CA
+Fort McMurray|AB|Canada|CA
+Cold Lake|AB|Canada|CA
+Bonnyville|AB|Canada|CA
+Athabasca|AB|Canada|CA
+Island Lake|AB|Canada|CA
+Sunset Beach|AB|Canada|CA
+South Baptiste|AB|Canada|CA
+West Baptiste|AB|Canada|CA
+White Gull|AB|Canada|CA
+Island Lake South|AB|Canada|CA
+Whispering Hills|AB|Canada|CA
+Lloydminster|AB|Canada|CA
+Wainwright|AB|Canada|CA
+Vermilion|AB|Canada|CA
+Athalmer|BC|Canada|CA
+Brisco|BC|Canada|CA
+Edgewater|BC|Canada|CA
+Field|BC|Canada|CA
+Golden|BC|Canada|CA
+Harrogate|BC|Canada|CA
+Invermere|BC|Canada|CA
+Parson|BC|Canada|CA
+Radium Hot Springs|BC|Canada|CA
+Spillimacheen|BC|Canada|CA
+Panorama|BC|Canada|CA
+Boswell|BC|Canada|CA
+Canal Flats|BC|Canada|CA
+Canyon|BC|Canada|CA
+Crawford Bay|BC|Canada|CA
+Creston|BC|Canada|CA
+Elkford|BC|Canada|CA
+Elko|BC|Canada|CA
+Erickson|BC|Canada|CA
+Fairmont Hot Springs|BC|Canada|CA
+Fernie|BC|Canada|CA
+Fort Steele|BC|Canada|CA
+Galloway|BC|Canada|CA
+Grasmere|BC|Canada|CA
+Gray Creek|BC|Canada|CA
+Jaffray|BC|Canada|CA
+Kingsgate|BC|Canada|CA
+Kitchener|BC|Canada|CA
+Kootenay Bay|BC|Canada|CA
+Lister|BC|Canada|CA
+Moyie|BC|Canada|CA
+Riondel|BC|Canada|CA
+Sirdar|BC|Canada|CA
+Skookumchuck|BC|Canada|CA
+Sparwood|BC|Canada|CA
+Ta Ta Creek|BC|Canada|CA
+Wardner|BC|Canada|CA
+Wasa|BC|Canada|CA
+Windermere|BC|Canada|CA
+Wynndel|BC|Canada|CA
+Yahk|BC|Canada|CA
+Arras|BC|Canada|CA
+Baldonnel|BC|Canada|CA
+Jade City|BC|Canada|CA
+Cecil Lake|BC|Canada|CA
+Charlie Lake|BC|Canada|CA
+Chetwynd|BC|Canada|CA
+Clayhurst|BC|Canada|CA
+Dease Lake|BC|Canada|CA
+Farmington|BC|Canada|CA
+Fort Nelson|BC|Canada|CA
+Goodlow|BC|Canada|CA
+Groundbirch|BC|Canada|CA
+Hudson's Hope|BC|Canada|CA
+Lower Post|BC|Canada|CA
+Moberly Lake|BC|Canada|CA
+Montney|BC|Canada|CA
+Muncho Lake|BC|Canada|CA
+North Pine|BC|Canada|CA
+Pink Mountain|BC|Canada|CA
+Pouce Coupe|BC|Canada|CA
+Progress|BC|Canada|CA
+Rolla|BC|Canada|CA
+Rose Prairie|BC|Canada|CA
+Sunset Prairie|BC|Canada|CA
+Taylor|BC|Canada|CA
+Tomslake|BC|Canada|CA
+Wonowon|BC|Canada|CA
+Buick|BC|Canada|CA
+Prespatou|BC|Canada|CA
+Altona|BC|Canada|CA
+Prophet River|BC|Canada|CA
+Tumbler Ridge|BC|Canada|CA
+Toad River|BC|Canada|CA
+Good Hope Lake|BC|Canada|CA
+Anglemont|BC|Canada|CA
+Armstrong|BC|Canada|CA
+Avola|BC|Canada|CA
+Barriere|BC|Canada|CA
+Blind Bay|BC|Canada|CA
+Blue River|BC|Canada|CA
+Canoe|BC|Canada|CA
+Celista|BC|Canada|CA
+Chase|BC|Canada|CA
+Clearwater|BC|Canada|CA
+Darfield|BC|Canada|CA
+Douglas Lake|BC|Canada|CA
+Eagle Bay|BC|Canada|CA
+Enderby|BC|Canada|CA
+Falkland|BC|Canada|CA
+Grindrod|BC|Canada|CA
+Heffley Creek|BC|Canada|CA
+Sun Peaks|BC|Canada|CA
+Knutsford|BC|Canada|CA
+Little Fort|BC|Canada|CA
+Louis Creek|BC|Canada|CA
+Lumby|BC|Canada|CA
+Cherryville|BC|Canada|CA
+McLure|BC|Canada|CA
+Malakwa|BC|Canada|CA
+Mara|BC|Canada|CA
+Mica Creek|BC|Canada|CA
+Monte Creek|BC|Canada|CA
+Monte Lake|BC|Canada|CA
+Pritchard|BC|Canada|CA
+Quilchena|BC|Canada|CA
+Revelstoke|BC|Canada|CA
+Sicamous|BC|Canada|CA
+Sorrento|BC|Canada|CA
+Tappen|BC|Canada|CA
+Valemount|BC|Canada|CA
+Vavenby|BC|Canada|CA
+Westwold|BC|Canada|CA
+Pinantan Lake|BC|Canada|CA
+Scotch Creek|BC|Canada|CA
+Ainsworth Hot Springs|BC|Canada|CA
+Argenta|BC|Canada|CA
+Balfour|BC|Canada|CA
+Burton|BC|Canada|CA
+Genelle|BC|Canada|CA
+Crescent Valley|BC|Canada|CA
+Edgewood|BC|Canada|CA
+Fauquier|BC|Canada|CA
+Fruitvale|BC|Canada|CA
+Kaslo|BC|Canada|CA
+Meadow Creek|BC|Canada|CA
+Montrose|BC|Canada|CA
+Nakusp|BC|Canada|CA
+New Denver|BC|Canada|CA
+Procter|BC|Canada|CA
+Robson|BC|Canada|CA
+Rossland|BC|Canada|CA
+Salmo|BC|Canada|CA
+Silverton|BC|Canada|CA
+Slocan|BC|Canada|CA
+Slocan Park|BC|Canada|CA
+South Slocan|BC|Canada|CA
+Winlaw|BC|Canada|CA
+Ymir|BC|Canada|CA
+Beaverdell|BC|Canada|CA
+Bridesville|BC|Canada|CA
+Christina Lake|BC|Canada|CA
+Grand Forks|BC|Canada|CA
+Greenwood|BC|Canada|CA
+Kaleden|BC|Canada|CA
+Midway|BC|Canada|CA
+Naramata|BC|Canada|CA
+Okanagan Falls|BC|Canada|CA
+Oliver|BC|Canada|CA
+Osoyoos|BC|Canada|CA
+Peachland|BC|Canada|CA
+Rock Creek|BC|Canada|CA
+Summerland|BC|Canada|CA
+Westbridge|BC|Canada|CA
+Aiyansh|BC|Canada|CA
+Burns Lake|BC|Canada|CA
+Dome Creek|BC|Canada|CA
+Dunster|BC|Canada|CA
+Iskut|BC|Canada|CA
+Endako|BC|Canada|CA
+Fort Fraser|BC|Canada|CA
+Fort St James|BC|Canada|CA
+Francois Lake|BC|Canada|CA
+Fraser Lake|BC|Canada|CA
+Germansen Landing|BC|Canada|CA
+Granisle|BC|Canada|CA
+Greenville|BC|Canada|CA
+Hazelton|BC|Canada|CA
+Houston|BC|Canada|CA
+Kitwanga|BC|Canada|CA
+Longworth|BC|Canada|CA
+Mackenzie|BC|Canada|CA
+McBride|BC|Canada|CA
+McLeod Lake|BC|Canada|CA
+Manson Creek|BC|Canada|CA
+New Hazelton|BC|Canada|CA
+Penny|BC|Canada|CA
+Smithers|BC|Canada|CA
+Southbank|BC|Canada|CA
+South Hazelton|BC|Canada|CA
+Summit Lake|BC|Canada|CA
+Takla Landing|BC|Canada|CA
+Takysie Lake|BC|Canada|CA
+Telegraph Creek|BC|Canada|CA
+Telkwa|BC|Canada|CA
+Topley|BC|Canada|CA
+Upper Fraser|BC|Canada|CA
+Vanderhoof|BC|Canada|CA
+Ware|BC|Canada|CA
+Willow River|BC|Canada|CA
+Crescent Spur|BC|Canada|CA
+Bear Lake|BC|Canada|CA
+Nass Camp|BC|Canada|CA
+Sinclair Mills|BC|Canada|CA
+Meziadin Lake|BC|Canada|CA
+Gitwinksihlkw|BC|Canada|CA
+Ashcroft|BC|Canada|CA
+Barkerville|BC|Canada|CA
+Boston Bar|BC|Canada|CA
+Bridge Lake|BC|Canada|CA
+Buffalo Creek|BC|Canada|CA
+Cache Creek|BC|Canada|CA
+Canim Lake|BC|Canada|CA
+Clinton|BC|Canada|CA
+Eagle Creek|BC|Canada|CA
+Forest Grove|BC|Canada|CA
+Gang Ranch|BC|Canada|CA
+Gold Bridge|BC|Canada|CA
+Hixon|BC|Canada|CA
+Lac La Hache|BC|Canada|CA
+Lillooet|BC|Canada|CA
+Logan Lake|BC|Canada|CA
+Lone Butte|BC|Canada|CA
+Lower Nicola|BC|Canada|CA
+Lytton|BC|Canada|CA
+Mahood Falls|BC|Canada|CA
+100 Mile House|BC|Canada|CA
+150 Mile House|BC|Canada|CA
+Pavilion|BC|Canada|CA
+Savona|BC|Canada|CA
+70 Mile House|BC|Canada|CA
+Spences Bridge|BC|Canada|CA
+Walhachin|BC|Canada|CA
+Wells|BC|Canada|CA
+Yale|BC|Canada|CA
+108 Mile Ranch|BC|Canada|CA
+Alexis Creek|BC|Canada|CA
+Alkali Lake|BC|Canada|CA
+Anahim Lake|BC|Canada|CA
+Big Lake Ranch|BC|Canada|CA
+Chilanko Forks|BC|Canada|CA
+Dog Creek|BC|Canada|CA
+Hanceville|BC|Canada|CA
+Horsefly|BC|Canada|CA
+Kleena Kleene|BC|Canada|CA
+Likely|BC|Canada|CA
+McLeese Lake|BC|Canada|CA
+Nimpo Lake|BC|Canada|CA
+Redstone|BC|Canada|CA
+Riske Creek|BC|Canada|CA
+Tatla Lake|BC|Canada|CA
+Tatlayoko Lake|BC|Canada|CA
+Nemaiah Valley|BC|Canada|CA
+Agassiz|BC|Canada|CA
+Deroche|BC|Canada|CA
+Dewdney|BC|Canada|CA
+Harrison Hot Springs|BC|Canada|CA
+Harrison Mills|BC|Canada|CA
+Lake Errock|BC|Canada|CA
+Alert Bay|BC|Canada|CA
+Whistler|BC|Canada|CA
+Blubber Bay|BC|Canada|CA
+Bowen Island|BC|Canada|CA
+Brackendale|BC|Canada|CA
+Britannia Beach|BC|Canada|CA
+Coal Harbour|BC|Canada|CA
+D'Arcy|BC|Canada|CA
+Dawsons Landing|BC|Canada|CA
+Egmont|BC|Canada|CA
+Galiano|BC|Canada|CA
+Garden Bay|BC|Canada|CA
+Garibaldi Highlands|BC|Canada|CA
+Gibsons|BC|Canada|CA
+Gillies Bay|BC|Canada|CA
+Granthams Landing|BC|Canada|CA
+Halfmoon Bay|BC|Canada|CA
+Holberg|BC|Canada|CA
+Kingcome Inlet|BC|Canada|CA
+Lions Bay|BC|Canada|CA
+Lund|BC|Canada|CA
+Madeira Park|BC|Canada|CA
+Mayne|BC|Canada|CA
+Mount Currie|BC|Canada|CA
+Pemberton|BC|Canada|CA
+Pender Island|BC|Canada|CA
+Port Alice|BC|Canada|CA
+Port Hardy|BC|Canada|CA
+Port McNeill|BC|Canada|CA
+Port Mellon|BC|Canada|CA
+Quatsino|BC|Canada|CA
+Roberts Creek|BC|Canada|CA
+Saturna|BC|Canada|CA
+Sechelt|BC|Canada|CA
+Seton Portage|BC|Canada|CA
+Shalalth|BC|Canada|CA
+Sointula|BC|Canada|CA
+Squamish|BC|Canada|CA
+Sullivan Bay|BC|Canada|CA
+Telegraph Cove|BC|Canada|CA
+Van Anda|BC|Canada|CA
+Winter Harbour|BC|Canada|CA
+Woss|BC|Canada|CA
+Furry Creek|BC|Canada|CA
+Blind Channel|BC|Canada|CA
+Gold River|BC|Canada|CA
+Heriot Bay|BC|Canada|CA
+Kyuquot|BC|Canada|CA
+Mansons Landing|BC|Canada|CA
+Minstrel Island|BC|Canada|CA
+Port Neville|BC|Canada|CA
+Quathiaski Cove|BC|Canada|CA
+Refuge Cove|BC|Canada|CA
+Sayward|BC|Canada|CA
+Simoom Sound|BC|Canada|CA
+Stuart Island|BC|Canada|CA
+Surge Narrows|BC|Canada|CA
+Tahsis|BC|Canada|CA
+Whaletown|BC|Canada|CA
+Zeballos|BC|Canada|CA
+Ahousat|BC|Canada|CA
+Bamfield|BC|Canada|CA
+Bowser|BC|Canada|CA
+Cassidy|BC|Canada|CA
+Cedar|BC|Canada|CA
+Chemainus|BC|Canada|CA
+Cobble Hill|BC|Canada|CA
+Coombs|BC|Canada|CA
+Cowichan Bay|BC|Canada|CA
+Crofton|BC|Canada|CA
+Cumberland|BC|Canada|CA
+Denman Island|BC|Canada|CA
+Errington|BC|Canada|CA
+Fanny Bay|BC|Canada|CA
+Gabriola|BC|Canada|CA
+Honeymoon Bay|BC|Canada|CA
+Hornby Island|BC|Canada|CA
+Kildonan|BC|Canada|CA
+Koksilah|BC|Canada|CA
+Lake Cowichan|BC|Canada|CA
+Lantzville|BC|Canada|CA
+Lasqueti|BC|Canada|CA
+Lazo|BC|Canada|CA
+Malahat|BC|Canada|CA
+Merville|BC|Canada|CA
+Mesachie Lake|BC|Canada|CA
+Mill Bay|BC|Canada|CA
+Royston|BC|Canada|CA
+Shawnigan Lake|BC|Canada|CA
+Thetis Island|BC|Canada|CA
+Tofino|BC|Canada|CA
+Ucluelet|BC|Canada|CA
+Union Bay|BC|Canada|CA
+Westholme|BC|Canada|CA
+Youbou|BC|Canada|CA
+Port Renfrew|BC|Canada|CA
+Jordan River|BC|Canada|CA
+Sooke|BC|Canada|CA
+Bella Bella|BC|Canada|CA
+Bella Coola|BC|Canada|CA
+Hagensborg|BC|Canada|CA
+Juskatla|BC|Canada|CA
+Klemtu|BC|Canada|CA
+Masset|BC|Canada|CA
+Ocean Falls|BC|Canada|CA
+Port Clements|BC|Canada|CA
+Queen Charlotte|BC|Canada|CA
+Sandspit|BC|Canada|CA
+Sewell Inlet|BC|Canada|CA
+Stewart|BC|Canada|CA
+Tlell|BC|Canada|CA
+Waglisla|BC|Canada|CA
+Haisla|BC|Canada|CA
+Hartley Bay|BC|Canada|CA
+Kincolith|BC|Canada|CA
+Kitkatla|BC|Canada|CA
+Oona River|BC|Canada|CA
+Port Edward|BC|Canada|CA
+Lax Kw'Alaams|BC|Canada|CA
+Atlin|BC|Canada|CA
+Cawston|BC|Canada|CA
+Coalmont|BC|Canada|CA
+Hedley|BC|Canada|CA
+Hope|BC|Canada|CA
+Keremeos|BC|Canada|CA
+Manning Park|BC|Canada|CA
+Milner|BC|Canada|CA
+Princeton|BC|Canada|CA
+Rosedale|BC|Canada|CA
+Tulameen|BC|Canada|CA
+Kimberley|BC|Canada|CA
+Marysville|BC|Canada|CA
+Coldstream|BC|Canada|CA
+Vernon|BC|Canada|CA
+Lavington|BC|Canada|CA
+Cranbrook|BC|Canada|CA
+Salmon Arm|BC|Canada|CA
+Salmon ARM|BC|Canada|CA
+Dawson Creek|BC|Canada|CA
+Fort St John|BC|Canada|CA
+Merritt|BC|Canada|CA
+Nelson|BC|Canada|CA
+Langley|BC|Canada|CA
+Castlegar|BC|Canada|CA
+Kelowna|BC|Canada|CA
+Trail|BC|Canada|CA
+Kamloops|BC|Canada|CA
+Lac le Jeune|BC|Canada|CA
+Penticton|BC|Canada|CA
+Williams Lake|BC|Canada|CA
+Quesnel|BC|Canada|CA
+Prince George|BC|Canada|CA
+Chilliwack|BC|Canada|CA
+Lindell Beach|BC|Canada|CA
+Cultus Lake|BC|Canada|CA
+Abbotsford|BC|Canada|CA
+Mission|BC|Canada|CA
+Maple Ridge|BC|Canada|CA
+Coquitlam|BC|Canada|CA
+Port Coquitlam|BC|Canada|CA
+Port Moody|BC|Canada|CA
+Anmore|BC|Canada|CA
+Belcarra|BC|Canada|CA
+Burnaby|BC|Canada|CA
+New Westminster|BC|Canada|CA
+Delta|BC|Canada|CA
+Surrey|BC|Canada|CA
+Pitt Meadows|BC|Canada|CA
+White Rock|BC|Canada|CA
+Westbank|BC|Canada|CA
+Winfield|BC|Canada|CA
+Oyama|BC|Canada|CA
+Okanagan Centre|BC|Canada|CA
+Aldergrove|BC|Canada|CA
+Vancouver|BC|Canada|CA
+Richmond|BC|Canada|CA
+North Vancouver|BC|Canada|CA
+West Vancouver|BC|Canada|CA
+Powell River|BC|Canada|CA
+Kitimat|BC|Canada|CA
+Terrace|BC|Canada|CA
+Thornhill|BC|Canada|CA
+Prince Rupert|BC|Canada|CA
+Salt Spring Island|BC|Canada|CA
+North Saanich|BC|Canada|CA
+Sidney|BC|Canada|CA
+Brentwood Bay|BC|Canada|CA
+Saanichton|BC|Canada|CA
+Victoria|BC|Canada|CA
+Ladysmith|BC|Canada|CA
+Campbell River|BC|Canada|CA
+Black Creek|BC|Canada|CA
+Courtenay|BC|Canada|CA
+Qualicum Beach|BC|Canada|CA
+Duncan|BC|Canada|CA
+Comox|BC|Canada|CA
+Parksville|BC|Canada|CA
+Nanoose Bay|BC|Canada|CA
+Nanaimo|BC|Canada|CA
+Port Alberni|BC|Canada|CA
+Arctic Bay|NU|Canada|CA
+Qikiqtarjuaq|NU|Canada|CA
+Cape Dorset|NU|Canada|CA
+Clyde River|NU|Canada|CA
+Eureka|NU|Canada|CA
+Iqaluit|NU|Canada|CA
+Grise Fiord|NU|Canada|CA
+Hall Beach|NU|Canada|CA
+Igloolik|NU|Canada|CA
+Kimmirut|NU|Canada|CA
+Pangnirtung|NU|Canada|CA
+Pond Inlet|NU|Canada|CA
+Resolute|NU|Canada|CA
+Sanikiluaq|NU|Canada|CA
+Nanisivik|NU|Canada|CA
+Polaris|NU|Canada|CA
+Kivitoo|NU|Canada|CA
+Cambridge Bay|NU|Canada|CA
+Kugluktuk|NU|Canada|CA
+Taloyoak|NU|Canada|CA
+Gjoa Haven|NU|Canada|CA
+Kugaaruk|NU|Canada|CA
+Bay Chimo|NU|Canada|CA
+Baker Lake|NU|Canada|CA
+Chesterfield Inlet|NU|Canada|CA
+Coral Harbour|NU|Canada|CA
+Arviat|NU|Canada|CA
+Rankin Inlet|NU|Canada|CA
+Repulse Bay|NU|Canada|CA
+Whale Cove|NU|Canada|CA
+Aklavik|NT|Canada|CA
+Tsiigehtchic|NT|Canada|CA
+Deline|NT|Canada|CA
+Fort Good Hope|NT|Canada|CA
+Fort McPherson|NT|Canada|CA
+Tulita|NT|Canada|CA
+Fort Providence|NT|Canada|CA
+Fort Resolution|NT|Canada|CA
+Fort Simpson|NT|Canada|CA
+Fort Smith|NT|Canada|CA
+Enterprise|NT|Canada|CA
+Hay River|NT|Canada|CA
+Holman|NT|Canada|CA
+Inuvik|NT|Canada|CA
+Norman Wells|NT|Canada|CA
+Rae Edzo|NT|Canada|CA
+Sachs Harbour|NT|Canada|CA
+Lutselk'e|NT|Canada|CA
+Tuktoyaktuk|NT|Canada|CA
+Wrigley|NT|Canada|CA
+Colville Lake|NT|Canada|CA
+Paulatuk|NT|Canada|CA
+Wha Ti|NT|Canada|CA
+Rae Lakes|NT|Canada|CA
+Wekweti|NT|Canada|CA
+Trout Lake|NT|Canada|CA
+Fort Liard|NT|Canada|CA
+Yellowknife|NT|Canada|CA
+Teslin|YT|Canada|CA
+Watson Lake|YT|Canada|CA
+Beaver Creek|YT|Canada|CA
+Carcross|YT|Canada|CA
+Carmacks|YT|Canada|CA
+Dawson|YT|Canada|CA
+Destruction Bay|YT|Canada|CA
+Elsa|YT|Canada|CA
+Faro|YT|Canada|CA
+Haines Junction|YT|Canada|CA
+Mayo|YT|Canada|CA
+Old Crow|YT|Canada|CA
+Pelly Crossing|YT|Canada|CA
+Ross River|YT|Canada|CA
+Tagish|YT|Canada|CA
+Burwash Landing|YT|Canada|CA
+Marsh Lake|YT|Canada|CA
+Whitehorse|YT|Canada|CA

@@ -1,0 +1,12 @@
+Hi {{ user.name }},
+
+The following message is in response to your "{{ book.title }}" post on http://GizmoBooks.com : 
+
+****************************
+From: {{ from_email }}
+Message: {{ message }}
+****************************
+
+You can respond to "{{ from_email }}" by replying to this email. 
+
+If you've already sold this book, mark it as "Sold" by logging into http://www.gizmobooks.com/login/, then clicking on "My Books" section.

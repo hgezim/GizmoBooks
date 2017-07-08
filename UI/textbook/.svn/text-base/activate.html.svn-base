@@ -1,0 +1,20 @@
+{% extends "new_base.html" %}
+
+{% block title%}GizmoBooks.com{% endblock title%}	
+
+{% block bodyStyle %}book_page{% endblock %}
+		
+{% block content %}
+<div class="messages">
+	<div class="warning">
+		You're almost done. We just need to know your city. We won't ask you again, pinky promise!
+		<form method="POST">{% csrf_token %}
+		{{ location_form.non_field_errors }}
+		{{ location_form.location.errors }}
+		{{ location_form.location_label_tag }}
+		{{ location_form.location }}<input type="submit" value="Save" />
+		</form>
+	</div>
+</div>
+
+{% endblock content %}

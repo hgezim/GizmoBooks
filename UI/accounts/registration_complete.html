@@ -1,0 +1,12 @@
+{% extends "new_base.html" %}
+
+{% block title%}Registration almost done... {% endblock title%}	
+		
+{% block content %}
+<div class="messages">
+	<div class="warning">
+		You've now registered. You will now receive 2 emails; one to activate your book and the other your account.<br />
+		<a href="{% url post %}">Sell another book.</a>			    	
+	</div>
+</div>
+{% endblock content %}

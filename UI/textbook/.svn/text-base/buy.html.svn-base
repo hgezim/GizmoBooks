@@ -1,0 +1,36 @@
+{% extends "book_list_base.html" %}	
+
+{% block headerJS %}
+<script type="text/javascript" src="{{ MEDIA_URL }}js/jquery.js" ></script> 
+{% endblock headerJS %}
+
+{% block page_title %}Buy Textbooks and Save Money{% endblock %}
+
+{% block book_list %}
+<div id="book_list">
+	<div class="title">Popular Books</div>
+	{% for subject in top_books %}
+		<div class="top_category">
+		<span class="category_title">
+			{{ subject.subject.name }}
+			(<a href="{{ subject.subject.get_absolute_url|iriencode }}">show all</a>)
+		</span>
+		{% for book in subject.books %}
+			<div class="top_book">
+				<div class="center">
+					<a href="{{ book.get_absolute_url }}">
+						<img src="{{ MEDIA_URL }}{{ book.picture }}" alt="{{ book.title }}" width="85" height="115" />
+					</a>
+				</div>
+				<div class="book_title">
+					<a href="{{ book.get_absolute_url }}">{{ book.title|truncatewords:6 }}</a>
+				</div>
+				<div class="price center">${{ book.min_price }}</div>
+			</div>
+		{% endfor %}
+		<div class="clear"></div>
+		</div>
+	{% endfor %}
+</div>
+
+{% endblock book_list %}

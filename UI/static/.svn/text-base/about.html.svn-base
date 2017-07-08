@@ -1,0 +1,25 @@
+{% extends "wide_pages.html" %}
+
+{% block title%}About GizmoBooks.com{% endblock title%}
+{% block page_title%}About GizmoBooks.com{% endblock page_title%}
+
+{% block sub_content %}
+	<em>If you have a problem email <a href="mailto:{{ default_email }}">{{ default_email }}</a>.</em><br />
+								
+	<p>A while back it hit me how much effort was required to sell a book:</p>
+								
+	<ol>
+		<li>Go home and design a little ad and add little slivers with your phone number</li>
+		<li>Print a bunch of copies and cut the slivers for people to take your number</li>
+		<li>Walk around the whole campus and try to make your ad as visible as possible only to have it covered up in about 20 seconds (okay, okay it might take an hour).</li>
+	</ol>
+								
+	<p>So, I decided to do something about it. I present to you <a href="{% url main %}">GizmoBooks.com</a> :).</p>
+								
+	<p>I'd love to hear from you, the user.<br />So, send me an email at <a href="mailto:{{ mysettings.CONTACT_EMAIL }}">{{ mysettings.CONTACT_EMAIL }}</a> with your comments, or like our <a href="http://www.facebook.com/pages/Resistance-Against-High-Textbook-Prices/217053394974093"><b>Facebook Page</b></a> and let me know what you think.</p>
+								
+	<p style="font-size: small;">Gezim Hoxha (Gizmo)<br />
+	Founder<br />
+	Cell: (403) 359-2801<br />
+	</p>
+{% endblock sub_content %}

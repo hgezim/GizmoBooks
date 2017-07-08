@@ -1,0 +1,49 @@
+{% extends "wide_pages.html" %}
+
+{% block title%}My Books{% endblock title%}
+{% block page_title%}My Books{% endblock page_title%}
+		
+{% block bodyStyle %}my_books{% endblock bodyStyle%}
+
+{% block sub_content %}
+<div class="profile">
+<h2>Personal Information</h2>
+Email: {{ request.user.email }}<br />
+Password: ******** <!-- (<a href="#">change it</a>)  --><br />
+Nick (displayed to others): {{ request.user.username }}<br />
+Address: {{ request.user.profile.address }}<br />
+{{ request.user.profile.postal_code.location }}<br />
+<form action="" method="GET"><input type="submit" value="Change" disabled /></form>
+</div>
+
+<table width="100%">
+	<thead>
+		<th></th>
+		<th>Details</th>
+		<th>Price</th>
+		<th>Options</th>
+	</thead>
+	{% for copy in book_copies %}
+		<tr>
+			<td><img src="{{ MEDIA_URL }}{{ copy.book.picture }}" alt="{{ book_copy.book.title }}" title="{{ book_copy.book.title }}"/></td>
+			<td>
+				<a href="{{ copy.book.get_absolute_url }}">{{ copy.book.title }}</a><br />
+				{{ copy.book.get_authors }}<br />
+				{{ copy.get_condition_display }}<br />
+				{% if copy.sold %}<em>Sold</em>{% endif %}
+			</td>
+			<td>
+				{{ copy.get_price }}
+			</td>
+			<td>
+				<form action=""><input type="submit" value="Edit" disabled /></form>
+				<form action=""><input type="submit" value="Delete" disabled /></form>
+			</td>
+		</tr>
+	{% empty %}
+		<tr>
+			<td colspan="4">You currently are not selling any books.</td>
+		</tr>
+	{% endfor %}
+</table>
+{% endblock sub_content %}

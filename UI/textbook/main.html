@@ -1,0 +1,130 @@
+{% extends "wide_pages.html" %}	
+
+{% block headerJS %}
+<script type="text/javascript" src="{{ MEDIA_URL }}js/jquery.js"></script>
+<script type="text/javascript" src="{{ MEDIA_URL }}js/timer.js"></script> 
+{% endblock headerJS %}
+
+{% block facebook_code %}
+FB.Event.subscribe('auth.login', function () {
+          window.location = "{% url fb_login %}?next=" + location.pathname;
+      });
+{% endblock facebook_code %}
+
+{% block bodyStyle %}main_page{% endblock bodyStyle %}
+
+{% block sub_content %}
+		{% if not request.facebook %}
+	<div id="ipad_promo">
+			<h1>Win an iPad2 and Start Your Semester in Style</h1>
+			<img src="{{ MEDIA_URL }}images/iPad2.png" alt="White iPad2" width="106" height="136" />
+			<div id="instructions">
+				To enter:
+				<ol>
+					<li>
+						{% load facebook %}
+						<fb:login-button show-faces="false" width="200" max-rows="1" perms="{% facebook_perms %}">Login with Facebook</fb:login-button>
+					</li>
+					<li>Post one or more textbooks.</li>
+				</ol>
+			</div>
+			<div id="timer_container">
+				<h1>Time Left</h1>
+				<div id="timer"><span id="hours">00</span>:<span id="minutes">00</span>:<span id="seconds">00</span></div>
+				<div id="days_container">+<span id="days">0</span> days</div>
+			</div>
+			<div id="conditions">
+				<h3>Conditions:</h3>
+				<ol>
+					<li>You must login with Facebook to be qualified.</li>
+					<li>You must not delete the ONE automatic wallpost posted by us.</li>
+					<li>You live in Canada.</li>
+					<li>Offer will be valid once 100 people enter.</li>
+					<li>You must have the textbooks you post in your possession.</li>
+					<li>Your books must be used in a Canadian post secondary instituion.</li>
+					<li>Offer ends September 26, 2011. 23:59:59 MST.</li>
+				</ol>
+			</div>
+			<div class="clear"></div>
+	</div>
+		{% else %}
+	<div id="ipad_step_two">
+			<h1>Thanks for logging in!</h1>
+			<img src="{{ MEDIA_URL }}images/iPad2.png" alt="White iPad2" width="106" height="136" />
+			<div id="instructions">
+				Now, post (more) books and increase your chances of winning.
+			</div>
+			<div id="timer_container">
+				<h1>Time Left</h1>
+				<div id="timer"><span id="hours">00</span>:<span id="minutes">00</span>:<span id="seconds">00</span></div>
+				<div id="days_container">+<span id="days">0</span> days</div>
+			</div>
+			<div id="conditions">
+				<h3>Conditions:</h3>
+				<ol>
+					<li>You must login with Facebook to be qualified.</li>
+					<li>You must not delete the ONE automatic wallpost posted by us.</li>
+					<li>You live in Canada.</li>
+					<li>Offer will be valid once 100 people enter.</li>
+					<li>You must have the textbooks you post in your possession.</li>
+					<li>Your books must be used in a Canadian post secondary instituion.</li>
+					<li>Offer ends September 26, 2011. 23:59:59 MST.</li>
+				</ol>
+			</div>
+			<div class="clear"></div>
+	</div>			
+		{% endif %}
+<div id="main_image">
+	<div name="post_form" id="post_form">
+		<table id="form_box">
+			<form action="{% url post %}"  method="POST">{% csrf_token %}
+			    <script>
+/*			     $(document).ready(function(){
+			     	$('#id_email').focus()
+			     }); */
+				</script>
+		
+					{% if not request.user.is_authenticated %}
+						<tr colspan="2">
+							<td>
+		  					</td>
+							<td>
+								{% load facebook %}
+								<fb:login-button show-faces="false" width="200" max-rows="1" perms="{% facebook_perms %}">Login with Facebook</fb:login-button>
+							</td>
+						</tr>
+						<tr>
+							<td class="right">{{ post_form.email.label_tag }}:</td>
+							<td>{{ post_form.email }}</td>
+						</tr>
+					{% endif %}
+					<tr>
+						<td class="right">{{ post_form.ISBN.label_tag }}:</td>
+					 	<td>{{ post_form.ISBN }}</td>
+					</tr>
+					<tr>
+						<td class="right">{{ post_form.condition.label_tag }}:</td>
+						<td>{{ post_form.condition }}</td>
+					</tr>
+					<tr>
+						<td class="right">{{ post_form.price.label_tag }}:</td>
+						<td>{{ post_form.price }}</td>
+					</tr>
+					<tr>
+						<td></td><td><input type="submit" class="center thoughtbot" id="subscribe_button" value="Post (it's free)" /></td>
+					</tr>
+				
+			</form>
+		</table>
+	</div>
+</div>
+{% endblock sub_content %}
+
+{% block footer %}
+<small>
+	*Umm..hi, I'm Asterisk. What I was trying to tell you is that if you're selling a book
+	we only pick up from your location if you live in the same city as the buyer. Likewise, if you order
+	a book from us you will get it the next day, only if you live in the same city
+	as the seller.
+</small> 
+{% endblock footer%}

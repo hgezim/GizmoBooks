@@ -1,0 +1,5 @@
+{% autoescape on %}
+	<img style="float: left; margin-right: 10px; margin-bottom: 10px;" src="{{ MEDIA_URL }}{{ book_copy.book.picture }}">
+	Awesome! {{ book_copy.book.title }} has just been posted.
+	<div class="clear"></div>
+{% endautoescape %}
